@@ -1,7 +1,7 @@
 # L’équation de Bellman
 
 <div align="center">
-    <img src="img\BellmanEquation.png" alt="Equation de Bellman" title="Equation de Bellman">
+    <img src="..\img\BellmanEquation.png" alt="Equation de Bellman" title="Equation de Bellman">
 </div>
 
 ## Le concept :
