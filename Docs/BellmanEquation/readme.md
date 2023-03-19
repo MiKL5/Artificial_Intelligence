@@ -35,4 +35,6 @@ Gamma **`γ`**, permet de quantifier la valeur d'une case par rapport à ça dis
 Ici, **`γ`** = 0,9.  
 La case qui mène à l'arrivée vaut 1. Comme l'agent est sur une case blanche on fait 0,9 x (la valeur de la prochaine case) 1 et obtient 0,81. Pour la précédente 0,9 x 0,81 = 0,73. Et 0,73 x 0,9 = 0,66.
 
+
+>> Cf.  
 [The theory of dynamic programming](https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf)
