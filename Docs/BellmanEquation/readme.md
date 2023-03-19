@@ -26,9 +26,6 @@ Pour chaque action possible est calculer 2 éléments :
 
 Alors, si on multiplie par **`γ`**[¹]  
 **`max a`** va maximiser l'expression (récompense). Pour cela on prend l'action dans l'état + le gamma x la valeur du prochain état.    
-
-
-
 **`S'`** est l'état dans lequel l'IA va arriver l'exécution d'une action.
 
 ___
@@ -36,7 +33,9 @@ ___
 Gamma **`γ`**, permet de quantifier la valeur d'une case par rapport à ça distance de l'arrivée.  
 Ici, **`γ`** = 0,9.  
 La case qui mène à l'arrivée vaut 1. Comme l'agent est sur une case blanche on fait 0,9 x (la valeur de la prochaine case) 1 et obtient 0,81. Pour la précédente 0,9 x 0,81 = 0,73. Et 0,73 x 0,9 = 0,66.
-
+___
+>> NOTA :  
+Le plan consite à remplacer les veleurs par des flèches.
 ___
 >> Cf.  
 [The theory of dynamic programming](https://www.rand.org/content/dam/rand/pubs/papers/2008/P550.pdf)
