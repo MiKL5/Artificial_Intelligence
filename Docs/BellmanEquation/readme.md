@@ -15,7 +15,7 @@ Supposons que l'IA est dans un labyrinthe. La case feu fait perdre 1 point et la
 ## **L'équation** :
 
 <div align="center">
-    <img src="..\img\BellmanEquation.png" alt="Equation de Bellman" title="Equation de Bellman">
+    <img src="..\img\BellmanEquation.png" alt="Équation de Bellman" title="Équation de Bellman">
 </div>
 
 **`V(s)`** est la valeur de l'état.  
