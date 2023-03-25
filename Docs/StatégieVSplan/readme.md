@@ -1,4 +1,4 @@
-# Stratégie vs Plan
+<h1 align=center>Stratégie vs Plan</h1>
 <br>
 <h2 align="center" style="color:#3fe056">Le fonctionnement de l'IA est <strong>stochastique</strong>.<br>Maintenant, il s'agit de prendre en compte tout les favcteurs aléatoires (non maîtrisables).<h2>
 <br>
@@ -13,7 +13,10 @@
 >   * `R(s,a)` R, de s et de a : la récompense pour prendre une action `a` dans l'état `s` 
 >   *  `+` `γ` qui est le facteur correcteur x la somme de tous les états `s'` dans lesquels l'IA peut atterrir
 >   * `x` `V(s')` la probabilité (valeur) sur laquelle l'IA va se trouvée.
-## Calculer les valeurs dans un environnement stochastique
+
+<br>
+
+## Les valeurs dans un environnement stochastique
 
 Les valeurs sont forcément plus basses car il est possible de se trouvé en bas en allant à droite donc de ne pas aller à l'arrivée et ne pas obtenir la récompense, et si la case est proche d'une mauvaise case, sa valeur et forcément plus faible ; c'est pourquoi une case loin de l'arrivée peut avoir une valeur plus forte car elle est plus sécuritaire.  
 Ainsi, l'IA doit préférer le chemin le plus long pour prendre le moins de risque possible.  
