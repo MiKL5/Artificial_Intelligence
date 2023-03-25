@@ -15,5 +15,5 @@ Les `V`aleurs sont connues qui aides à calculer les `Q`ualités.
 
 > -> Ces deux approches sont différentes, bien qu'elles résolvent le même problème !  
 Elles sont toutes les 2 valables et amènent au même résultat.  
-Le raisonenment est un petit peu différent.  
+Le raisonnement est un petit peu différent.  
 
