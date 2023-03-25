@@ -17,3 +17,6 @@ Les `V`aleurs sont connues qui aides à calculer les `Q`ualités.
 Elles sont toutes les 2 valables et amènent au même résultat.  
 Le raisonnement est un petit peu différent.  
 
+<div align="center">
+    <img src="..\..\img\Qlearning.jpg" alt="Équation de Bellman" title="Équation de Bellman">
+</div>
