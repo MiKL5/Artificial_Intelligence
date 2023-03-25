@@ -1,8 +1,11 @@
-# Pénalité de vie
+<h1 align=center>Pénalité de vie</h1>
 
+
+<br>
 <div align="center">
     <img src="..\img\BellmanCompleteEquation.png" alt="Équation de Bellman" title="Équation de Bellman">
 </div>
+<br>
 
 Dans la réalité l'agent est récompensé au fur et a mesure de son avancée dans l'environnement.  
 Afin de l'inciter à résoudre plus vite le casse-tête.  
