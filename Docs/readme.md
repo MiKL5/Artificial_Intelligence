@@ -1,13 +1,15 @@
 # Docs
 
-Equation de Bellman
+[Apprentissage par renforcement](reinforcementLearning)
 
-Processus décisionnels Markoviens
+[Equation de Bellman](BellmanEquation)
 
-Stratégie vs plan
+[Processus décisionnels Markoviens](processusDeDecisionMarkoviens)
 
-Pénalité de vie
+[Stratégie vs plan](StatégieVSplan)
+
+[Pénalité de vie](Docs\PenaliteDeVie)
 
 Q-learning
 
-- intuition
+- [intuition](Q-learning/intuition)
