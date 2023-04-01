@@ -8,7 +8,7 @@
 
 [Stratégie vs plan](StatégieVSplan)
 
-[Pénalité de vie](Docs\PenaliteDeVie)
+[Pénalité de vie](PenaliteDeVie)
 
 Q-learning
 
