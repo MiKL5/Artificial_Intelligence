@@ -1,4 +1,4 @@
-<h1 align=center>Q-learning Intuition</h1>
+<h1 align=center>Docs</h1>
 <br>
 <div align="center">
     <img src="img\ai.jpg" alt="Intelligence artificielle" title="Intelligence artificielle">
