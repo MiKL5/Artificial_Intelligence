@@ -21,6 +21,6 @@ Le raisonnement est un petit peu différent.
     <img src="https://github.com/MiKL5/artificialIntelligence/blob/master/Docs/img/Qlearning.jpg" alt="Équation" title="Équation">
 </div>
 
-
->>> Aller plus loin :  
+___
+>>> cf. :  
 [Markov Decision Processes: Concepts ans Algorithms](https://www.semanticscholar.org/paper/Markov-Decision-Processes%3A-Concepts-and-Algorithms-Otterlo-Wiering/968bab782e52faf0f7957ca0f38b9e9078454afe?p2df)
