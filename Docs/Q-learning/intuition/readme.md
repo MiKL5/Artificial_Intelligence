@@ -1,4 +1,4 @@
-<h1 align=center>Q-learning Intuition</h1>
+# **Q-learning Intuition**
 <br>
 <div align="center">
     <img src="https://github.com/MiKL5/artificialIntelligence/blob/master/Docs/img/BellmanCompleteEquation.png" alt="Équation de Bellman" title="Équation de Bellman">

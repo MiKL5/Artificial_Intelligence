@@ -1,4 +1,4 @@
-<h1 align=center>Pénalité de vie</h1>
+# **Pénalité de vie**
 <br>
 <div align="center">
     <img src="..\img\BellmanCompleteEquation.png" alt="Équation de Bellman" title="Équation de Bellman">
