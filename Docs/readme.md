@@ -17,6 +17,9 @@
 
 Q-learning
 
-- [Intuition](Q-learning/intuition)
+- [Intuition](Q-learningIntuition)
 
 - [Différence temporelle](timeDifference)
+
+- [Q-learning visualisation](Q-learningVisualisaition)
+
