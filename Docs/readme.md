@@ -25,6 +25,6 @@ Q-learning
 
 Réseaux de neurones artificiels
 
-* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork\WhatsDeepLearning)
+* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning)
 
 * [Le neurone]()
