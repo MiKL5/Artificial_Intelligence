@@ -5,26 +5,25 @@
 </div>
 <br>
 
-[Apprentissage par renforcement](reinforcementLearning)
+[Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")
 
-[Equation de Bellman](BellmanEquation)
+[Equation de Bellman](BellmanEquation "Équation de Bellman")
 
-[Processus décisionnels Markoviens](processusDeDecisionMarkoviens)
+[Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")
 
-[Stratégie vs plan](StatégieVSplan)
+[Stratégie vs plan](StatégieVSplan "Stratégie vs plan")
 
-[Pénalité de vie](PenaliteDeVie)
+[Pénalité de vie](PenaliteDeVie "Pénalité de vie")
 
 Q-learning
 
-- [Intuition](Q-learningIntuition)
+- [Intuition](Q-learningIntuition "Intuition")
 
-- [Différence temporelle](timeDifference)
+- [Différence temporelle](timeDifference "Différence temporelle")
 
-- [Q-learning visualisation](Q-learningVisualisaition)
+- [Q-learning visualisation](Q-learningVisualisaition "Q-learning visualisation")
 
 Réseaux de neurones artificiels
 
-* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning)
+* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi le Deep-Learning") _wip_
 
-* [Le neurone]()
