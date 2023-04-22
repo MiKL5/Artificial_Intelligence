@@ -17,7 +17,7 @@
 
 Q-learning
 
-- [Intuition](Q-learningIntuition "Intuition")
+- [Intuition](Q-learningIntuition "Q-Learning, Intuition")
 
 - [Différence temporelle](timeDifference "Différence temporelle")
 
@@ -25,5 +25,5 @@ Q-learning
 
 Réseaux de neurones artificiels
 
-* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi le Deep-Learning") _wip_
+* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond") _wip_
 
