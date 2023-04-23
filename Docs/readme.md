@@ -34,3 +34,5 @@ Réseaux de neurones artificiels
 * [Comment fonctionnent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment fonctionnenet les réseaux de neurones artificiels")
 
 * [Comment apprennent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment apprennent les réseaux de neurones artificiels")
+
+* [Algorithme du Gradient]()
