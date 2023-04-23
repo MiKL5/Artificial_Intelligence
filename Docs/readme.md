@@ -28,3 +28,5 @@ Réseaux de neurones artificiels
 * [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond")
 
 * [Le neurone](ArtificiallNeuralNetwork/Neuron "Le neurone")
+
+* [La fonction d'activation](ArtificiallNeuralNetwork/activationFunction "La fonction d'activation")
