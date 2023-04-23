@@ -32,3 +32,5 @@ Réseaux de neurones artificiels
 * [La fonction d'activation](ArtificiallNeuralNetwork/activationFunction "La fonction d'activation")
 
 * [Comment fonctionnent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment fonctionnenet les réseaux de neurones artificiels")
+
+* [Comment apprennent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment apprennent les réseaux de neurones artificiels")
