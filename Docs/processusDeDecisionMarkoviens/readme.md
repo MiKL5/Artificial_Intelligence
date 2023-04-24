@@ -11,11 +11,11 @@ S'il part en haut, il se retrouve en haut
 
 ## **Processus non déterministe (stochastique)**
 
-Pour aller vers le haut, l'agent à 10 % de probabilité d'aller à gauche, autant d'aller à droite et 80 % vers le haut. Ceci représente mieux la réalité car il y a généralement des facteurs aléatoires qui vont influencer le résultat. C'est aussi plus complexe à étudier.
+Pour aller vers le haut, l'agent à 10 % de probabilité d'aller à gauche, autant d'aller à droite et 80 % vers le haut. Ceci représente mieux la réalité, car il y a généralement des facteurs aléatoires qui vont influencer le résultat. C'est aussi plus complexe à étudier.
 
 ## **Processus de Markov**
 
-Un _processus stochastique_ vérifie la _propriété de Markov_ si et seulement si la distribution conditionnelle de probabilité des états futurs, étant donnés l'état présent, ne dépend en fait que de l'état présent et non pas des états passées (ont dit qu'il y a absence de 'mémoire').  
+Un _processus stochastique_ vérifie la _propriété de Markov_ si et seulement si la distribution conditionnelle de probabilité des états futurs, étant donnés l'état présent, ne dépend en fait que de l'état présent et non pas des états passés (ont dit qu'il y a absence de 'mémoire').  
 Simplement, le futur ne dépend que du présent, pas du passé.
 
 ```
@@ -25,7 +25,7 @@ Il peut décider d'aller en haut, mais il peut tomber dans un volcan, se cogner 
 
 ## **Processus de décision Markovien (MDP)**
 
-Un processus de décision Markovien (MDP) est un modèle stochastique où un agent prend des décisions et où les résultats de ses actions sont aléatoires. Les MDP's sont une extension des chaînes des Markov. Les différence et l'addition des actions choisies par l'agent et des récompenses gagnées par l'agent. S'il n'y a qu'une seule action à tirer dans chaque état et que les récompenses sont égales, les processus de décision markovien et une chaîne de Markov.
+Un processus de décision Markovien (MDP) est un modèle stochastique où un agent prend des décisions et où les résultats de ses actions sont aléatoires. Les MDP's sont une extension des chaînes des Markov. Les différences et l'addition des actions choisies par l'agent et des récompenses gagnées par l'agent. S'il n'y a qu'une seule action à tirer dans chaque état et que les récompenses sont égales, les processus de décision markoviens et une chaîne de Markov.
 
 Simplement, il n'y a qu'une seule action à tirer dans chaque état et que les récompenses sont égales. On revient donc, sur une chaîne de Markov.  
 
@@ -50,7 +50,8 @@ est égale
 **`R`** récompense de prendre cette action dans l'état dans lequel elle est + la valeur `γ` (la réduction, facteur correctif) de la case sur laquelle l'agent va atterrir.
 _il y a maintenant une partie aléatoire_, parce que l'agent ne sait pas exactement dans quel état il va se trouver.  
 Pour rappel, il y a un pourcentage de probabilité.  
-Pour **`V(s')`** l'état prime **`s'`** a plusieurs états possibles, l'agent peut avoir ici S1 prime, s2 prime et s3 prime et parfois beaucoup plus de possibilités, donc 3 valeurs différentes (V(s1'), et cætera).  L'agent calcul donc la moyenne de ces 3 possibilités et va les pondérer par les probabilités. Il y a 80 % de probabilités d'aller sur la case du haut donc 0,8 x sa valeur. Et 10 % de probabilités d'aller à gauche donc 0,1 x la valeur de cette case. Idem pour la droite.  
+Pour **`V(s')`** l'état prime **`s'`** a plusieurs états possibles, l'agent peut avoir ici S1 prime, s2 prime et s3 prime et parfois beaucoup plus de possibilités, donc 3 valeurs différentes (V(s1'), et cætera). 
+L'agent calcul alors la moyenne de ces 3 possibilités et va les pondérer par les probabilités. Il y a 80 % de probabilités d'aller sur la case du haut, ainsi 0,8 x sa valeur. Et 10 % de probabilités d'aller à gauche, donc 0,1 x la valeur de cette case. Idem pour la droite.  
 
 Ce qui mène à l'équation complète.
 

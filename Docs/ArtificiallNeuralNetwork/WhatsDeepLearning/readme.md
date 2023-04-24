@@ -1,14 +1,14 @@
 # **C'est quoi le Deep-Learning** _(présentation rapide)_
 
-Les réseaux de neurones et le Deep Learning existaient déjà dans les années 8O. Il y avait déjà une grosse mode sur ces sujets bien qu'on en voit les effets seulement actuellement. Cette mode à peu à peu disparue lors des années 90 car la technologie des l'époque n'avait pas les performances pour modéliser des réseaux de neurones.   
+Les réseaux de neurones et le Deep Learning existaient déjà dans les années 8O. Il y avait déjà une grosse mode sur ces sujets bien qu'on en voit les effets seulement actuellement. Cette mode a, peu à peu disparue lors des années 90, car la technologie de l'époque n'avait pas les performances pour modéliser des réseaux de neurones.   
 
 Pour qu'un réseau de neurones fonctionne, il faut deux choses :
 * beaucoup de données ;
-* une puissance de calcul très importante donc un très bon ordinateur avec très bon processeur.
+* une puissance de calcul très importante, donc un très bon ordinateur avec très bon processeur.
 
-Beaucoup de données nécessitent une grande capacité de stockage. En 1956, les disques durs avaient une capacité de 5 Mo. Cette capacité à doubler en 80. Et entre 1980 et 2017 (37 ans plus tard), elle à été multipliée par 25600. Le niveau de traitement des données est suffisent pour entraîner un réseau de neurones.  
+Beaucoup de données nécessitent une grande capacité de stockage. En 1956, les disques durs avaient une capacité de 5 Mo. Cette capacité à doubler en 80. Et entre 1980 et 2017 (37 ans plus tard), elle a été multipliée par 25600. Le niveau de traitement des données est suffisant pour entraîner un réseau de neurones.  
 
-La puissance de calcul a évoluée de exponentiellement.  
+La puissance de calcul a évoluée exponentiellement.  
 
 ___
 L'idée du Deep Learning, c'est d'observer le fonctionnement du cerveau humain pour répliquer son fonctionnement.  

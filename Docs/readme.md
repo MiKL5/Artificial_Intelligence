@@ -7,7 +7,7 @@
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")
 
-[Equation de Bellman](BellmanEquation "Équation de Bellman")
+[Équation de Bellman](BellmanEquation "Équation de Bellman")
 
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")
 
