@@ -25,12 +25,12 @@ Pour chaque action possible est calculée 2 éléments :
 * **`V`** valeur du nouvel état si l'action est prise.  
 
 Alors, si on multiplie par **`γ`**[¹]  
-**`max a`** va maximiser l'expression (récompense). Pour cela on prend l'action dans l'état + le gamma x la valeur du prochain état.    
+**`max a`** va maximiser l'expression (récompense). Pour cela, on prend l'action dans l'état + le gamma x la valeur du prochain état.    
 **`S'`** est l'état dans lequel l'IA va arriver l'exécution d'une action.
 
 ___
-[¹] Dans un labyrinthe, plus une case est proche de la solution plus elle a de la valeur. Donc, à chaque récompense, on a une valeur plus élevée et la valeur de prochain état multipliée par le facteur de réduction. Et l'agent réalise l'action qui a la valeur la plus élevée.  
-Gamma **`γ`**, permet de quantifier la valeur d'une case par rapport à ça distance de l'arrivée.  
+[¹] Dans un labyrinthe, plus une case est proche de la solution, plus elle a de la valeur. Donc, à chaque récompense, on a une valeur plus élevée et la valeur de prochain état multipliée par le facteur de réduction. Et l'agent réalise l'action qui a la valeur la plus élevée.  
+Gamma **`γ`** permet de quantifier la valeur d'une case par rapport à ça distance de l'arrivée.  
 Ici, **`γ`** = 0,9.  
 La case qui mène à l'arrivée vaut 1. Comme l'agent est sur une case blanche, on fait 0,9 x (la valeur de la prochaine case) 1 et obtient 0,81. Pour la précédente 0,9 x 0,81 = 0,73. Et 0,73 x 0,9 = 0,66.
 ___
