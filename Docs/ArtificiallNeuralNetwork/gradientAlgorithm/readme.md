@@ -10,7 +10,7 @@ L'objectif et de trouver avec le seul poids la meilleure valeur de sortie possib
 1. Il est possible de calculer cette fonction de coût pour plein de valeur différente. À chaque itération le poids et y chapeau. ça génère plutôt un graphique parabolique. La meilleure valeur serait à peu près au milieu. C'est **la technique de brute force**. _ça fonctionne bien quand il y a qu'un seul poids_.  
 Cependant quand il y a plus de poids (synapses), ça provoque **`le fléau de la dimension`[¹]**
 
-2. Heureusement, il y a une solution beaucoup plus intelligente. En calculant une dérivée, puis tassant une tangente, il en résulte la pente, le signe de la pente détermine l'inclinaison. Si la pente en négative, il faut aller vers la droite, si elle est positive, vers la gauche ; l'idée est d'aller du côté où ça descend. L'agent observe ainsi l'angle d'inclinaison de la courbe.  
+2. Heureusement, il y a une solution beaucoût plus intelligente. En calculant une dérivée, puis tassant une tangente, il en résulte la pente, le signe de la pente détermine l'inclinaison. Si la pente en négative, il faut aller vers la droite, si elle est positive, vers la gauche ; l'idée est d'aller du côté où ça descend. L'agent observe ainsi l'angle d'inclinaison de la courbe.  
 L'IA essaye sur la droite, puis sur la gauche, réessaye un peu plus à droite, et ainsi jusqu'à un résultat satisfaisant. Après quelque itération l'agent trouve les meilleurs poids qui optimises les réseaux de neurones. C'est l'**algorithme du gradient**. C'est le principe d'agir step by step en itérant jusqu'à ce qu'il soit impossible de descendre.
 
 ___
