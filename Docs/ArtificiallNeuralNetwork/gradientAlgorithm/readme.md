@@ -2,12 +2,12 @@
 
 "Ce chapitre détail la mise à jour des poids"
 
-Dans un réseau simple de neurone, il y a une valeur d'entrée `X1` (et un seul poids `W1`) , va au neurone caché avec la fonction d'activation et directement la fonction de coût permet de calculer une valeur de sortie.  
+Dans un réseau simple de neurone, il y a une valeur d'entrée `X1` (et un seul poids `W1`) , va au neurone caché avec la fonction d'activation et directement la fonction de coup permet de calculer une valeur de sortie.  
 L'objectif et de trouver avec le seul poids la meilleure valeur de sortie possible.
 
-## Comment minimiser la fonction de coût ?
+## Comment minimiser la fonction de coup ?
 
-1. Il est possible de calculer cette fonction de coût pour plein de valeur différente. À chaque itération le poids et y chapeau. ça génère plutôt un graphique parabolique. La meilleure valeur serait à peu près au milieu. C'est **la technique de brute force**. _ça fonctionne bien quand il y a qu'un seul poids_.  
+1. Il est possible de calculer cette fonction de coup pour plein de valeur différente. À chaque itération le poids et y chapeau. ça génère plutôt un graphique parabolique. La meilleure valeur serait à peu près au milieu. C'est **la technique de brute force**. _ça fonctionne bien quand il y a qu'un seul poids_.  
 Cependant quand il y a plus de poids (synapses), ça provoque **`le fléau de la dimension`[¹]**
 
 2. Heureusement, il y a une solution beaucoup plus intelligente. En calculant une dérivée, puis tassant une tangente, il en résulte la pente, le signe de la pente détermine l'inclinaison. Si la pente en négative, il faut aller vers la droite, si elle est positive, vers la gauche ; l'idée est d'aller du côté où ça descend. L'agent observe ainsi l'angle d'inclinaison de la courbe.  
