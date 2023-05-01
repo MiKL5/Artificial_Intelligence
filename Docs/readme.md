@@ -35,4 +35,8 @@ Réseaux de neurones artificiels
 
 * [Comment apprennent les ANNs](ArtificiallNeuralNetwork/HowANNsLearn "Comment apprennent les réseaux de neurones artificiels")
 
-* [Algorithme du Gradient]()
+* [Algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")
+
+* [Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")
+
+* [Retropropagation](ArtificiallNeuralNetwork/retropropagation "La retropropagation")
