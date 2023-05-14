@@ -39,4 +39,10 @@ Réseaux de neurones artificiels
 
 * [Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")
 
-* [Retropropagation](ArtificiallNeuralNetwork/retropropagation "La retropropagation")
+* [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
+
+Deep Q-learning
+
+* [Comment ça marche ?](Deep_Q-Learning_intuition/ccm\ "Comment ça marche")
+
+* [Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")
