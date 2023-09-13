@@ -43,6 +43,6 @@ Réseaux de neurones artificiels
 
 Deep Q-learning
 
-* [Comment ça marche ?](Deep_Q-Learning_intuition/ccm\ "Comment ça marche")
+* [Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")
 
 * [Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")
