@@ -49,6 +49,6 @@
 
 **Deep Q learning à convolution**
 
-* [Intuition](Convolutional_Deep_Q-learning\Intuition)  
+* [Intuition](Convolutional_Deep_Q-learning/Intuition)  
 
-* [Eligibility Trace](Convolutional_Deep_Q-learning\Intuition "n-step Q-Learning")  
+* [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")  
