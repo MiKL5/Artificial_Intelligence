@@ -15,7 +15,7 @@
 
 [Pénalité de vie](PenaliteDeVie "Pénalité de vie")
 
-Q-learning
+**Q-learning**
 
 - [Intuition](Q-learningIntuition "Q-Learning, Intuition")
 
@@ -23,7 +23,7 @@ Q-learning
 
 - [Q-learning visualisation](Q-learningVisualisaition "Q-learning visualisation")
 
-Réseaux de neurones artificiels
+**Réseaux de neurones artificiels**
 
 * [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond")
 
@@ -41,8 +41,12 @@ Réseaux de neurones artificiels
 
 * [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
 
-Deep Q-learning
+**Deep Q-learning**
 
 * [Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")
 
 * [Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")
+
+**Deep Q learning à convolution**
+
+* [Deep Q-learning à convolution - Intuition](Convolutional_Deep_Q-learning\Intuition)  
