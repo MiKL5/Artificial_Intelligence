@@ -1,7 +1,7 @@
 <h1 align=center>Docs</h1>
 <br>
 <div align="center">
-    <img src="img\ai.jpg" alt="Intelligence artificielle" title="Intelligence artificielle">
+    <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle">
 </div>
 <br>
 
