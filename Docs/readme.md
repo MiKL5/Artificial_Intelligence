@@ -1,9 +1,14 @@
 <h1 align=center>Docs</h1>
 <br>
+
+<h1 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches autonomes.</h1>
+<h1 align="center">Elle vise à créer des systèmes informatiques capables d'effectuer des activités nécessitant généralement l'intelligence humaine."</h1>
+<br>
 <div align="center">
-    <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle">
+    <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle"></a>
 </div>
 <br>
+
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")
 
