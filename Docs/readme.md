@@ -1,8 +1,7 @@
 <h1 align=center>Docs</h1>
 <br>
-
-<h1 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches autonomes.</h1>
-<h1 align="center">Elle vise à créer des systèmes informatiques capables d'effectuer des activités nécessitant généralement l'intelligence humaine."</h1>
+<h3 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches autonomes.</h3>
+<h3 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h3>
 <br>
 <div align="center">
     <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle"></a>
