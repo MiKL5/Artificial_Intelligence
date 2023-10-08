@@ -4,7 +4,7 @@ L'intérêt du neurone est l'apprentissage.
 
 Un neurone est constitué d'un corps cellulaire (le péricaryon) avec des branches (les dendrites) et une longue queue (l'axone).
 <div align="center">
-    <a href="../../other/perceptron/"><img src="../../img/neurone.avif" alt="Neurone" title="Neurone"></a>
+    <a href="../../other/perceptron"><img src="../../img/neurone.avif" alt="Neurone" title="Neurone"></a>
 </div>
 
 Les dendrites reçoivent les signaux, alors que l'axone envoi les signaux ; la force du neurone, c'est leur nombre. Les neurones ne se touchant pas, ce sont les synapses qui font la connexion.  
