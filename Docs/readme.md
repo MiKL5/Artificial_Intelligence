@@ -4,7 +4,7 @@
 <h4 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h4>
 <br>
 <div align="center">
-    <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="1000px"></a>
+    <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="600px"></a>
 </div>
 <br>
 <br>
