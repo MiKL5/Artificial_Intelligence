@@ -1,10 +1,12 @@
-<h1 align="center"><a href="docs\AI\define">Artificial intelligence</a></h1>
+<h1 align="center"><a href="AI\define">Artificial intelligence</a></h1>
 <br>
 <h4 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
 <h4 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h4>
 <br>
 <div align="center">
-    <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px" border-radius="10px"></a>
+    <!-- <a href="/history/"> -->
+        <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px" border-radius="10px">
+    <!-- </a> -->
 </div>
 <br>
 <br>
