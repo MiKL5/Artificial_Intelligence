@@ -1,10 +1,10 @@
-<h1 align=center>Docs</h1>
+<h1 align=center>Artificial intelligence</h1>
 <br>
 <h4 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
 <h4 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h4>
 <br>
 <div align="center">
-    <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"></a>
+    <a href="/history/"><img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px" border-radius="10px"></a>
 </div>
 <br>
 <br>
@@ -36,4 +36,15 @@
 
 **Deep Q learning à convolution**
 * [Intuition](Convolutional_Deep_Q-learning/Intuition)  
-* [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")  
+* [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")
+
+<!-- ___ -->
+<!-- [Les quatre phases de développement de l'IA](4phases "Les quates phases de développement de l'intelligence artificielle")   -->
+<!-- [L'IA faible](weakAI "Weak AI = Narrow AI (IA étroite)")   -->
+<!-- [L'IA forte](strongAI "Intelligence générale artificielle = IA forte")   -->
+
+<!-- **Enjeux éthiques et juridiques** -->
+
+<!-- [Ethic by design](ethicByDesign)   -->
+<!-- [Privacy by design](privacyByDesign)   -->
+<!-- [Privacy by default](privacyByDefault)   -->
