@@ -40,8 +40,8 @@
 * [Intuition](Convolutional_Deep_Q-learning/Intuition)  
 * [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")
 
-<!-- ___ -->
-[Les quatre phases de développement de l'IA](aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  ²
+___
+[Les quatre phases de développement de l'IA](AI/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 <!-- [L'IA faible](weakAI "Weak AI = Narrow AI (IA étroite)")   -->
 <!-- [L'IA forte](strongAI "Intelligence générale artificielle = IA forte")   -->
 
