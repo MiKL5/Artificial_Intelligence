@@ -11,6 +11,14 @@
 <br>
 <br>
 
+[Les quatre phases de développement de l'IA](AI/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
+<!-- [L'IA faible](weakAI "Weak AI = Narrow AI (IA étroite)")   -->
+<!-- [L'IA forte](strongAI "Intelligence générale artificielle = IA forte")   -->
+[La gestion des risques](AI/riskManagement/ "La gestion des risques")  
+<!-- [Ethic by design](ethicByDesign)   -->
+<!-- [Privacy by design](privacyByDesign)   -->
+<!-- [Privacy by default](privacyByDefault)   -->
+___
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
 [Équation de Bellman](BellmanEquation "Équation de Bellman")  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")  
@@ -39,14 +47,3 @@
 **Deep Q learning à convolution**
 * [Intuition](Convolutional_Deep_Q-learning/Intuition)  
 * [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")
-
-___
-[Les quatre phases de développement de l'IA](AI/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
-<!-- [L'IA faible](weakAI "Weak AI = Narrow AI (IA étroite)")   -->
-<!-- [L'IA forte](strongAI "Intelligence générale artificielle = IA forte")   -->
-
-<!-- **Enjeux éthiques et juridiques** -->
-
-<!-- [Ethic by design](ethicByDesign)   -->
-<!-- [Privacy by design](privacyByDesign)   -->
-<!-- [Privacy by default](privacyByDefault)   -->
