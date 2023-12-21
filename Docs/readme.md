@@ -13,7 +13,7 @@
 
 [Les quatre phases de développement de l'IA](AI/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA faible](AI/weakAI "Weak AI = Narrow AI (IA étroite)")  
-<!-- [L'IA forte](strongAI "Intelligence générale artificielle = IA forte")   -->
+[L'intelligence générale artificielle](Ai/AGI "Intelligence générale artificielle = IA forte")  
 [La gestion des risques](AI/riskManagement/ "La gestion des risques")  
 <!-- [Ethic by design](ethicByDesign)   -->
 <!-- [Privacy by design](privacyByDesign)   -->
