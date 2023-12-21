@@ -1,4 +1,4 @@
-# **L'AI faible (narrow ou weak IA)[1]**
+# **L'AI faible (narrow ou weak IA)**
 
 La Narrow AI est une application des technologies de l’intelligence artificielle pour permettre un système performant qui reproduit – et peut-être surpasse – l’intelligence humaine dans un but précis.
 
@@ -6,4 +6,5 @@ De nombreux systèmes actuels peuvent être classés dans la catégorie de la Na
 
 La plupart des applications de l’IA sont beaucoup moins sophistiquées. Tout logiciel qui utilise des technologies comme le machine learning, l’exploration de données, la reconnaissance faciale et le traitement du langage naturel pour prendre des décisions de manière autonome peut être considéré comme une Narrow AI. En tant que tels, les systèmes de Narrow AI, comprennent les filtres anti-spam, les voitures à conduite autonome et le flux d’informations de Facebook par exemple.
 
-[1] [source](https://actualiteinformatique.fr/intelligence-artificielle/definition-narrow-ai-weak-ai)
+___
+[source](https://actualiteinformatique.fr/intelligence-artificielle/definition-narrow-ai-weak-ai)
