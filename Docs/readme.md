@@ -13,11 +13,11 @@
 
 [Les quatre phases de développement de l'IA](AI/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA faible](AI/weakAI "Weak AI = Narrow AI (IA étroite)")  
-[L'intelligence générale artificielle](Ai/agi "Intelligence générale artificielle = IA forte")  
-[La gestion des risques](AI/riskManagement/ "La gestion des risques")  
-<!-- [Ethic by design](ethicByDesign)   -->
-<!-- [Privacy by design](privacyByDesign)   -->
-<!-- [Privacy by default](privacyByDefault)   -->
+[L'intelligence générale artificielle](AI/agi "Intelligence générale artificielle = IA forte")  
+[La gestion des risques](AI/riskManagement "La gestion des risques")  
+<!-- [Ethic by design](AI/ethicByDesign)   -->
+<!-- [Privacy by design](AI/privacyByDesign)   -->
+<!-- [Privacy by default](AI/privacyByDefault)   -->
 ___
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
 [Équation de Bellman](BellmanEquation "Équation de Bellman")  
