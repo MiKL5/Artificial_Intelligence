@@ -7,4 +7,4 @@ De nombreux systèmes actuels peuvent être classés dans la catégorie de la Na
 La plupart des applications de l’IA sont beaucoup moins sophistiquées. Tout logiciel qui utilise des technologies comme le machine learning, l’exploration de données, la reconnaissance faciale et le traitement du langage naturel pour prendre des décisions de manière autonome peut être considéré comme une Narrow AI. En tant que tels, les systèmes de Narrow AI, comprennent les filtres anti-spam, les voitures à conduite autonome et le flux d’informations de Facebook par exemple.
 
 ___
-[source](https://actualiteinformatique.fr/intelligence-artificielle/definition-narrow-ai-weak-ai)
+[Source](https://actualiteinformatique.fr/intelligence-artificielle/definition-narrow-ai-weak-ai)
