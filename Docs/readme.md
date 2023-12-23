@@ -16,7 +16,7 @@
 [L'intelligence générale artificielle](AI/agi "Intelligence générale artificielle = IA forte")  
 [La gestion des risques](AI/riskManagement "La gestion des risques")  
 [Ethic by design](AI/ethicByDesign)  
-<!-- [Privacy by design](AI/privacyByDesign)   -->
+[Privacy by design](AI/privacyByDesign)  
 <!-- [Privacy by default](AI/privacyByDefault)   -->
 ___
 <!-- <div align="center">
