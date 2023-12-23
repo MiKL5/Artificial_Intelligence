@@ -15,10 +15,15 @@
 [L'IA faible](AI/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](AI/agi "Intelligence générale artificielle = IA forte")  
 [La gestion des risques](AI/riskManagement "La gestion des risques")  
-<!-- [Ethic by design](AI/ethicByDesign)   -->
+[Ethic by design](AI/ethicByDesign)  
 <!-- [Privacy by design](AI/privacyByDesign)   -->
 <!-- [Privacy by default](AI/privacyByDefault)   -->
 ___
+<!-- <div align="center">
+    <h2>Deep learning</h2>
+</div> -->
+
+
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
 [Équation de Bellman](BellmanEquation "Équation de Bellman")  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")  
