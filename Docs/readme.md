@@ -19,9 +19,7 @@
 [Privacy by design](AI/privacyByDesign)  
 [Privacy by default](AI/privacyByDefault)  
 ___
-<!-- <div align="center">
-    <h2>Deep learning</h2>
-</div> -->
+
 
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
@@ -44,6 +42,10 @@ ___
 * [Algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
 * [Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
 * [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
+
+<div align="center">
+    <h2>Deep learning</h2>
+</div>
 
 **Deep Q-learning**
 * [Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")  
