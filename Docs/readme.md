@@ -3,7 +3,7 @@
 <h4 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h4>
 <!-- <br> -->
 <div align="center">
-    <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px" border-radius="10px">
+    <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
 </div>
 <br>
 <hr>
@@ -23,7 +23,7 @@
 
 ___
 
-[Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement") <img align="right" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px" border-radius="10px">  
+[Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement") <img align="right" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">  
 [Équation de Bellman](BellmanEquation "Équation de Bellman")  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")  
 [Stratégie vs plan](StatégieVSplan "Stratégie vs plan")  
@@ -45,7 +45,7 @@ ___
 * [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
 
 ## **Deep learning**
-**Deep Q-learning**
+**Deep Q-learning** <img align="right" src="img\YCMExDmJBeF8jSpFoNG4--1--y5q77.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
 * [Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")  
 * [Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")
 
