@@ -11,13 +11,18 @@
 <br>
 <br>
 
+<div align="center">
+
 [Les quatre phases de développement de l'IA](AI/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
-[L'IA faible](AI/weakAI "Weak AI = Narrow AI (IA étroite)")  
+[L'IA étroite](AI/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](AI/agi "Intelligence générale artificielle = IA forte")  
 [La gestion des risques](AI/riskManagement "La gestion des risques")  
 [Ethic by design](AI/ethicByDesign)  
 [Privacy by design](AI/privacyByDesign)  
 [Privacy by default](AI/privacyByDefault)  
+
+</div>
+
 ___
 
 
@@ -54,3 +59,8 @@ ___
 **Deep Q learning à convolution**
 * [Intuition](Convolutional_Deep_Q-learning/Intuition)  
 * [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")
+
+
+<!-- <div align="center">
+    <h2>Machine learning</h2>
+</div> -->
