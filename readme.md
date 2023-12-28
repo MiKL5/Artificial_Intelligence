@@ -6,7 +6,7 @@
     <br>
 
 ## [**Documentation**](Docs)
-## [**Projets**](projects)
+## [**Projets**](projects) _Soon_
 </div>
 
 <!-- [Pong](projects/pong) <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" title="Python" widht="auto" height="18px"> -->
