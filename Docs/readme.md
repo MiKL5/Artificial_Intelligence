@@ -45,7 +45,7 @@ ___
 * [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
 
 ## **Deep learning**
-<!-- **Deep Q-learning** <img align="right" src="img\YCMExDmJBeF8jSpFoNG4--1--y5q77.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
+**Deep Q-learning**
 * [Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")  
 * [Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")
 
@@ -53,7 +53,12 @@ ___
 * [Intuition](Convolutional_Deep_Q-learning/Intuition)  
 * [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")
 
-<!-- ## **Machine learning** -->
+## **Machine learning**
+* [Définition](machineLearning/definition "Définition de l'apprentissage automatique")
+<!-- * [L'abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique") -->
+<!-- * [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage") -->
+
 <div align="center">
     <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
 </div>
+    <!-- <img align="right" src="img\YCMExDmJBeF8jSpFoNG4--1--y5q77.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
