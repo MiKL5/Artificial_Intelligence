@@ -61,4 +61,3 @@ ___
 <div align="center">
     <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
 </div>
-    <!-- <img align="right" src="img\YCMExDmJBeF8jSpFoNG4--1--y5q77.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
