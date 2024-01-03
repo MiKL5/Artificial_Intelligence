@@ -1,4 +1,4 @@
-<h1 align="center"><a href="AI\define"²>Artificial intelligence</a></h1>
+<h1 align="center"><a href="AI\define">Artificial intelligence</a></h1>
 <h4 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
 <h4 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h4>
 <!-- <br> -->
@@ -57,7 +57,8 @@ ___
 * [Définition](machineLearning/definition "Définition de l'apprentissage automatique")
 * [L'abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")
 * [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")
-* [Les modèles de machine learning](machineLearning/models "Les modèles de machine learning")
+* [Les modèles](machineLearning/models "Les modèles de machine learning")
+<!-- * [Les biqis](machineLearning/biqis "Les biais") -->
 
 <div align="center">
     <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
