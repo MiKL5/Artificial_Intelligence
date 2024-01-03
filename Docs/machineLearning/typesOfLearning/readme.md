@@ -45,7 +45,7 @@ Les tâches d'apprentissage par renforcement peuvent être divisées en deux cat
 
 <h2><span style="text-decoration:underline; color:orange">Autres types d'apprentissage</span></h2>
 
-En plus des trois types d'apprentissage principaux décrits ci-dessus, il existe un certain nombre d'autres types d'apprentissage automatique. Certains de ces types sont encore en cours de développement, tandis que d'autres sont déjà utilisés dans des applications commerciales.  
+Il existe un certain nombre d'autres types d'apprentissage automatique. Certains de ces types sont encore en cours de développement, tandis que d'autres sont déjà utilisés dans des applications commerciales.  
 
 Voici quelques exemples d'autres types d'apprentissage automatique :  
 * Apprentissage en profondeur :  
