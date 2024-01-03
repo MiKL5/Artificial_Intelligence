@@ -56,7 +56,7 @@ ___
 ## **Machine learning**
 * [Définition](machineLearning/definition "Définition de l'apprentissage automatique")
 * [L'abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")
-<!-- * [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage") -->
+* [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")
 
 <div align="center">
     <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
