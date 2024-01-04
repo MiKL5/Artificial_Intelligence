@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 
-[Définition](basics/difine "Qu'est-ce qu'une intelligence artificielle")   
+[Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
