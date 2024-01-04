@@ -5,9 +5,11 @@
     <br>
     <br>
 
+## [**Projets**](projects)
+<!-- [Casse-briques](projects/brickBreaker) <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="18px">   -->
+<!-- [Pong](projects/pong) <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" title="Python" widht="auto" height="18px">   -->
 ## [**Documentation**](Docs)
-## [**Projets**](projects) _Soon_
+
+
 </div>
 
-<!-- [Pong](projects/pong) <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" title="Python" widht="auto" height="18px"> -->
-<!-- [Casse-briques](projects/brickBreaker) <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="18px"> -->
