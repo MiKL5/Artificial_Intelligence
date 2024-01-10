@@ -58,7 +58,7 @@ ___
 * [L'abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")
 * [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")
 * [Les modèles](machineLearning/models "Les modèles de machine learning")
-* [Les biqis](machineLearning/bias "Les biais")
+<!-- * [Les biais](machineLearning/bias "Les biais") -->
 
 <div align="center">
     <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
