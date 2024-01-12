@@ -12,6 +12,7 @@
 
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Histoire](basics/history "L'histoire de l'intelligence artificielle")   
+[Les craintes](basics/fears "Les caintes face à l'IA")   
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
