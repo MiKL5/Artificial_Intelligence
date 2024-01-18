@@ -17,9 +17,10 @@
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
 [La gestion des risques](basics/riskManagement "La gestion des risques")  
-[Ethic by design](basics/ethicByDesign)  
-[Privacy by design](basics/privacyByDesign)  
-[Privacy by default](basics/privacyByDefault)  
+[Ethic by design](basics/ethicByDesign "Ethic by design")  
+[Privacy by design](basics/privacyByDesign "Privacy by design")  
+[Privacy by default](basics/privacyByDefault "Privacy by default")  
+[Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks") _Wip_  
 
 </div>
 
@@ -45,6 +46,15 @@ ___
 * [Algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
 * [Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
 * [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
+
+<!-- **Réseau de neurone à convolution**
+* [Définition]( 'Qu'est qu'un réseau de neurone à convolution)
+* [Convolution]()
+* [Couche ReLU]()
+* [Pooling]()
+* [Flattening]()
+* [Full conection]()
+* [Fonction `softmax` et entropie croisée]() -->
 
 ## **Deep learning**
 **Deep Q-learning**

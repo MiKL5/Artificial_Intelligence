@@ -1,4 +1,4 @@
-<h1 align="center"><b>Artificial intelligence</b></h1>
+<h1 align="center"><b>Intelligence artificielle</b></h1>
 
 <div align="center"> 
     <img src="Docs\img\7CA16A4E8C3471826F96ACD5326F3E45-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
