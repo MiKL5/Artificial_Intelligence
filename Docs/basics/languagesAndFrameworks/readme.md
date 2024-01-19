@@ -85,5 +85,11 @@
     * Google l'utilise dans son moteur de recherche, son assistant vocal et son système de recommandation de produits ;
     * Facebook dans ses applications de recommandation de contenu, de reconnaissance faciale et de traduction automatique ;
     * Amazon dans ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique. -->
-<!-- * C#
-* .net (dotnet) -->
+* ### **C# (C sharp)**
+    C# est un langage de POO développé par Microsoft. Souvent utilisé pour le développement d'applications Windows, il est aussi utilisé pour le développement d'applications Web, mobiles et d'IA.  
+    Il est choisi pour  
+    * La portabilité ;
+    * La performance ;
+    * La sécurité ;
+<!-- * ### **.net (dotnet)** 
+    C'est un framework de développement logiciel développé par Microsoft. Il fournit une plate-forme unifiée pour le développement d'applications Web, mobiles, de bureau et d'IA.-->
