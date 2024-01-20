@@ -130,7 +130,7 @@
     * La vision par ordinateur ;
     * La synthèse vocale.
 
-    <!-- ▶ Concrétemeent
+    <!-- ▶ Concrétemeent utilisé par
     * Microsoft utilise .NET pour développer son moteur de recherche Bing, son assistant vocal Cortana et son système de recommandation de produits.
     * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
     * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
@@ -147,11 +147,26 @@
   * La portabilité  
     <!-- Utilisable sur Linux, MacOS et Windows -->
   * La performance
-  * L'écosystème
+  * L'écosystème  
+
   ⇛ Elle peut être utilisée pour 
   * La classification  
-    Assigner une étiquette à un objet en fonction de ses caractéristiques grâce à une variété d'algorythme comme les arbres de décision, les SVM et les réseaux de neurones artificiels.
-  * La régression
-  * Le clustering
-  * La réduction de dimensionnalité
-  * L'apprentissage automatiqu par transfert
+    Assigner une étiquette à un objet en fonction de ses caractéristiques  
+    grâce à une variété d'algorythme comme les arbres de décision, les SVM et les réseaux de neurones artificiels et d'autres.
+  * La régression  
+    Prédire une valeur continue en fonction de caractéristiques  
+    via des algos telles que les régressions linéaires, les régressions logistiques et les régressions non linéaires... 
+  * Le clustering  
+    Regrouper des objets similaires  
+    avec les les K-means, les DBSCAN et les algorithmes hiérarchiques par exemole.
+  * La réduction de dimensionnalité  
+    Réduire la taille d'un ensemble de données tout en conservant l'information la plus importante.
+    Pour cela il est possible d'utiliser l'analyse en composantes principales, l'analyse discriminante linéaire et l'analyse factorielle, etc.
+  * L'apprentissage automatiquem par transfert  
+    Utiliser les connaissances acquises sur un ensemble de données pour améliorer les performances d'un modèle sur un autre ensemble de données.  
+    Elle fournit une variété d'outils d'apprentissage automatique par transfert, tels que la mise à l'échelle des poids et la fusion de modèles.
+
+  ▶ Cas d'utilisation
+  * La reconnaissance faciale :
+  * La traduction automatique ;
+  * La recommandation de produits.
