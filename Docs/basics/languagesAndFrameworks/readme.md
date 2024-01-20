@@ -87,7 +87,7 @@
     * Facebook dans ses applications de recommandation de contenu, de reconnaissance faciale et de traduction automatique ;
     * Amazon dans ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique. -->
 * ### **C# (C sharp)**
-    C# est un langage de POO développé par Microsoft. Souvent utilisé pour le développement d'applications Windows, il est aussi utilisé pour le développement d'applications Web, mobiles et d'IA.  
+  C# est un langage de POO développé par Microsoft. Souvent utilisé pour le développement d'applications Windows, il est aussi utilisé pour le développement d'applications Web, mobiles et d'IA.  
     Il est choisi pour  
     * La portabilité (exécutable sur différentes plates-formes, y compris Windows, Linux et macOS) ;
     * La performance ;
@@ -112,4 +112,23 @@
     * Microsoft utilise .NET pour développer son moteur de recherche Bing, son assistant vocal Cortana et son système de recommandation de produits.
     * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
     * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
-<!-- * ### **F# (F sharp)** -->
+* ### **F# (F sharp)**
+  C'est un langage de programmation fonctionnel, impératif et orienté objet et moderne qui a été développé par Microsoft pour la plateforme .Net. Il est souvent utilisé pour développer des applications Web, des applications mobiles et des applications d'entreprise ou d'applications d'intelligence artificielle.  
+  Ses avantages pour l'IA
+  * Fonctionnels  
+    Donc, bien adapté au développement d'IA, car ils sont plus faciles à comprendre et à maintenir que les langages impératifs. 
+  * interopérable avec .NET  
+    Les applications F# peuvent accéder aux bibliothèques et aux services .NET, qui sont largement utilisés dans le développement d'IA.
+  * Puissant  
+    Il offre une grande variété de fonctionnalités qui peuvent être utilisées pour développer des applications d'IA complexes.  
+
+    ⇛ Il est notamment utilisé pour  
+    * L'apprentissage automatique ;
+    * Le traitement du langage naturel ;
+    * La vision par ordinateur.
+  
+    <!-- ▶ Concrétemeent
+    * Microsoft Research utilise F# pour développer des algorithmes d'apprentissage automatique pour la reconnaissance d'images et la compréhension du langage naturel.
+    * Amazon Web Services propose une bibliothèque F# pour l'apprentissage automatique qui permet aux développeurs de créer des applications d'apprentissage automatique rapidement et facilement.
+    * Google AI utilise F# pour développer des algorithmes d'apprentissage automatique pour la traduction automatique et la recherche d'informations. -->
+
