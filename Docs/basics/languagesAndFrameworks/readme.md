@@ -135,7 +135,26 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
   * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
   * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
 
-<!-- ### **TensorFlow**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
+### **TensorFlow**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+TensorFlow est un framework open source pour le développement d'applications d'apprentissage automatique et de deep learning développé par Google et est disponible pour plusieurs langages de programmation, notamment Python, Java et C++.
+
+Les raisons de sa popularité sont :
+* La performance ;
+* La flexibilité (pour créer des applications d'IA personnalisées) ;
+* L'écosystème.
+
+<!-- TensorFlow est utilisé dans une grande variété d'applications d'IA, surtout :
+* La reconnaissance d'images   
+  Ceci est une tâche d'IA qui permet d'identifier des objets ou des personnes dans une image. TensorFlow peut être utilisé pour développer des applications de reconnaissance d'images, telles que des applications de sécurité ou des applications de divertissement.
+* La traduction automatique  
+  C'est une tâche d'IA qui permet de traduire un texte d'une langue à une autre. TensorFlow peut être utilisé pour développer des applications de traduction automatique, telles que des applications de voyage ou des applications de commerce électronique.
+* La recommandation de produits  
+  Cette tâche qui permet de recommander des produits à un utilisateur en fonction de ses intérêts. TensorFlow peut être utilisé pour développer des applications de recommandation de produits, telles que des applications de commerce électronique ou des applications de médias sociaux. -->
+
+<!-- Voici quelques exemples concrets d'utilisation de TensorFlow :
+* Google utilise TensorFlow pour ses produits d'intelligence artificielle, tels que son assistant vocal, son moteur de recherche et son système de recommandation de produits.
+* Facebook pour ses applications de vision par ordinateur, telles que la reconnaissance faciale et la reconnaissance d'objets.
+* OpenAI l'utilise pour développer ses modèles d'intelligence artificielle, tels que son modèle GPT-3 de langage naturel. -->
 
 ## **Les bibliothèques**
 ### **Scikit learn**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px">
