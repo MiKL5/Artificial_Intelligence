@@ -1,7 +1,7 @@
 # **Languages et Frameworks**
 
 ## Les langages
-* ### **Python** <img align="right" src="https://github.com/MiKL5/Python/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">  
+* ### **Python** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">  
   Le plus utilisé dans ce domaine.  
   En effet, c'est un langage de choix, car il est facile à apprendre, polyvalent et il est riche de bibliothèques et frameworks.  
 
@@ -25,7 +25,7 @@
       * De recommandations de produits ;
       * De gestion de la chaîne d'approvisionnement ;
       * De robotique. -->
-* ### **R** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" title="R" widht="auto" height="64px">  
+* ### **R** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R" title="R" widht="auto" height="64px">
   C'est un langage de programmation statistique open source qui est largement utilisé pour l'analyse de données, la science des données, l'apprentissage automatique et le deep learning.  
   Effectivement, c'est un langage puissant et flexible qui offre une large gamme de fonctionnalités pour l'analyse de données. Il est également facile à apprendre et à utiliser, ce qui en fait un choix populaire pour les data scientists et les statisticiens.
   ⇛ Ses principaux usages sont :
@@ -41,7 +41,7 @@
       * Ses produits de recherche et de recommandation ;  
       * Ses applications de visualisation de données.  
     * Chez Facebook et Amazon l'utilisation et la même qu'avec Python -->
-* ### **Java** <img align="right" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" title="Java" widht="auto" height="64px">  
+* ### **Java** <img align="right" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" title="Java" widht="auto" height="64px">
   Java est un langage de programmation orienté objet populaire utilisé pour une variété d'applications. Java est un choix populaire pour l'IA pour :
     * La portabilité  
       Java peut être exécuté sur différentes plates-formes, y compris les ordinateurs de bureau, les appareils mobiles et les serveurs. Il est idéal pour le développement d'applications qui doivent être déployées sur plusieurs plates-formes.
