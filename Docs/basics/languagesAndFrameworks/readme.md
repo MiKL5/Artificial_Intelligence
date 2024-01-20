@@ -155,11 +155,11 @@
     via des algos telles que les régressions linéaires, les régressions logistiques et les régressions non linéaires... 
   * Le clustering  
     Regrouper des objets similaires  
-    avec les K-means, les DBSCAN et les algorithmes hiérarchiques par exemole.
+    avec les K-means, les DBSCAN et les algorithmes hiérarchiques par exemple.
   * La réduction de dimensionnalité  
     Réduire la taille d'un ensemble de données tout en conservant l'information la plus importante.
     Pour cela, il est possible d'utiliser l'analyse en composantes principales, l'analyse discriminante linéaire et l'analyse factorielle, etc.
-  * L'apprentissage automatiquem par transfert  
+  * L'apprentissage automatique par transfert  
     Utiliser les connaissances acquises sur un ensemble de données pour améliorer les performances d'un modèle sur un autre ensemble de données.  
     Elle fournit une variété d'outils d'apprentissage automatique par transfert, tels que la mise à l'échelle des poids et la fusion de modèles.
 
