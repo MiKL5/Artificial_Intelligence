@@ -92,6 +92,24 @@
     * La portabilité (exécutable sur différentes plates-formes, y compris Windows, Linux et macOS) ;
     * La performance ;
     * La sécurité (grâce à un ensemble de fonctionnalités de sécurité intégrées permettant de protéger les applications d'IA contre les attaques malveillantes).
-<!-- * ### **.net (dotnet)** 
+* ### **.net (dotnet)** 
     C'est un framework de développement logiciel développé par Microsoft. Il fournit une plate-forme unifiée pour le développement d'applications Web, mobiles, de bureau et d'IA.
-    -->
+    * La portabilité  
+    .NET est un framework portable, ce qui signifie qu'il peut être utilisé pour développer des applications d'IA qui doivent être déployées sur différentes plates-formes, y compris Windows, Linux et macOS.  
+    * La performance  
+    * La sécurité (protéger des données sensibles)  
+    * L'écosystème  
+      <!-- Il dispose de bibliothèque et framework pour développer de l'IA. -->
+    
+    ⇛ Il peut être utilisé pour  
+    * L'apprentissage automatique ;
+    * Le deep learning ;
+    * La robotique ;
+    * La vision par ordinateur ;
+    * La synthèse vocale.
+
+    <!-- ▶ Concrétemeent
+    * Microsoft utilise .NET pour développer son moteur de recherche Bing, son assistant vocal Cortana et son système de recommandation de produits.
+    * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
+    * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
+<!-- * ### **F# (F sharp)** -->
