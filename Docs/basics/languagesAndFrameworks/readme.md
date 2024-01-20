@@ -36,7 +36,7 @@
   * Le deep learning  
     Fournissant une large gamme de bibliothèques et de frameworks pour développer et entraîner des réseaux de neurones artificiels, R est habituellement utilisé pour développer des modèles de deep learning pour des applications telles que la reconnaissance d'images, la traduction automatique et la reconnaissance vocale.
 
-  <!-- ▶ Son utilisation concrète  
+  <!-- ▶ Son utilisation   
     * Chez Google, pour développer  
       * Ses produits de recherche et de recommandation ;  
       * Ses applications de visualisation de données.  
@@ -82,7 +82,7 @@
       * La vision par ordinateur  
       * La synthèse vocale  
 
-    <!-- ▶ Concrètement
+    <!-- ▶ Voici des exemples d'utilisation
     * Google l'utilise dans son moteur de recherche, son assistant vocal et son système de recommandation de produits ;
     * Facebook dans ses applications de recommandation de contenu, de reconnaissance faciale et de traduction automatique ;
     * Amazon dans ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique. -->
@@ -107,7 +107,7 @@
     * Le traitement du langage naturel ;
     * La vision par ordinateur.
   
-    <!-- ▶ Concrétemeent
+    <!-- ▶ Voici des exemples d'utilisation
     * Microsoft Research utilise F# pour développer des algorithmes d'apprentissage automatique pour la reconnaissance d'images et la compréhension du langage naturel.
     * Amazon Web Services propose une bibliothèque F# pour l'apprentissage automatique qui permet aux développeurs de créer des applications d'apprentissage automatique rapidement et facilement.
     * Google AI utilise F# pour développer des algorithmes d'apprentissage automatique pour la traduction automatique et la recherche d'informations. -->
@@ -130,13 +130,11 @@
     * La vision par ordinateur ;
     * La synthèse vocale.
 
-    <!-- ▶ Concrétemeent utilisé par
+    <!-- ▶ Utiliséé par
     * Microsoft utilise .NET pour développer son moteur de recherche Bing, son assistant vocal Cortana et son système de recommandation de produits.
     * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
     * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
-<!-- * ### **Keras** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
 <!-- * ### **TensorFlow**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
-<!-- * ### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
 ## **Les bibliothèques**
 * ### **Scikit learn**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px">
   Bibliothèque Python open source pour l'apprentissage automatique.  
@@ -185,3 +183,36 @@ Voici un exemple de fonctionnalités spécifiques
   Cela peut être utile pour des applications telles que la réalité augmentée et la réalité virtuelle.
 * La prise en charge des bibliothèques de troisième partie.  
   PyTorch dispose d'un vaste écosystème de bibliothèques de troisième partie qui peuvent être utilisées pour ajouter des fonctionnalités supplémentaires.
+
+* ### **Keras** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+Keras est une bibliothèque Python open source pour le deep learning. Elle est conçue pour être facile à utiliser et à apprendre, tout en offrant une grande flexibilité.  
+Les raisons qui la rende populaire pour le deep leerning sont  
+* La facilité à apprendre ;
+* La facilité d'utilisation ;
+* La flexibilité ;
+* La performance ;
+* L'écosystème.  
+
+Keras est utilisé dans une vaste variété d'applications de deep learning, dont :
+* La reconnaissance d'images ;
+* La traduction automatique ;
+* La recommandation de produits.
+
+Voici des exeples connus de son utilisation :
+* Google utilise Keras pour développer ses produits d'intelligence artificielle, tels que 
+  * son assistant vocal,
+  * son moteur de recherche
+  * son système de recommandation de produits.
+* Facebook l'utilise Keras pour développer 
+  * ses applications de vision par ordinateur, 
+    * telles que la reconnaissance faciale et 
+    * la reconnaissance d'objets.
+* OpenAI pour développer
+  * ses modèles d'intelligence artificielle, tels que son modèle GPT-3 de langage naturel.
+
+Voici quelques-unes de ses fonctions spécifiques  
+* La possibilité d'utiliser des modèles pré-entraînés sur un grand ensemble de données afin d"améliorer les performances des IA ;
+* La prise en charge des réseaux de neurones artificiels dynamiques afin que les développeurs de créer des réseaux de neurones artificiels qui peuvent être modifiés en temps réel ;
+* La prise en charge des bibliothèques de troisième partie (un vaste écosystème) dans le but d'ajouter des fonctionnalités supplémentaires.
+
+<!-- * ### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
