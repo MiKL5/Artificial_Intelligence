@@ -143,13 +143,13 @@ Les raisons de sa popularité sont :
 * La flexibilité (pour créer des applications d'IA personnalisées) ;
 * L'écosystème.
 
-<!-- TensorFlow est utilisé dans une grande variété d'applications d'IA, surtout :
+TensorFlow est utilisé dans une grande variété d'applications d'IA, surtout :
 * La reconnaissance d'images   
   Ceci est une tâche d'IA qui permet d'identifier des objets ou des personnes dans une image. TensorFlow peut être utilisé pour développer des applications de reconnaissance d'images, telles que des applications de sécurité ou des applications de divertissement.
 * La traduction automatique  
   C'est une tâche d'IA qui permet de traduire un texte d'une langue à une autre. TensorFlow peut être utilisé pour développer des applications de traduction automatique, telles que des applications de voyage ou des applications de commerce électronique.
 * La recommandation de produits  
-  Cette tâche qui permet de recommander des produits à un utilisateur en fonction de ses intérêts. TensorFlow peut être utilisé pour développer des applications de recommandation de produits, telles que des applications de commerce électronique ou des applications de médias sociaux. -->
+  Cette tâche qui permet de recommander des produits à un utilisateur en fonction de ses intérêts. TensorFlow peut être utilisé pour développer des applications de recommandation de produits, telles que des applications de commerce électronique ou des applications de médias sociaux.
 
 <!-- Voici quelques exemples concrets d'utilisation de TensorFlow :
 * Google utilise TensorFlow pour ses produits d'intelligence artificielle, tels que son assistant vocal, son moteur de recherche et son système de recommandation de produits.
