@@ -114,7 +114,7 @@
 
 ## **Les frameworks**
 
-* ### **.net (dotnet)** 
+* ### **.Net (dotnet)** 
     C'est un framework de développement logiciel développé par Microsoft. Il fournit une plate-forme unifiée pour le développement d'applications Web, mobiles, de bureau et d'IA.
     * La portabilité  
     .NET est un framework portable, ce qui signifie qu'il peut être utilisé pour développer des applications d'IA qui doivent être déployées sur différentes plates-formes, y compris Windows, Linux et macOS.  
@@ -134,3 +134,24 @@
     * Microsoft utilise .NET pour développer son moteur de recherche Bing, son assistant vocal Cortana et son système de recommandation de produits.
     * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
     * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
+<!-- * ### **Keras** -->
+<!-- * ### **TensorFlow** -->
+<!-- * ### **PyTorch** -->
+<!-- * ### **Pandas** -->
+## **Les bibliothèques**
+* ### **Scikit learn**
+  Bibliothèque Python open source pour l'apprentissage automatique.  
+  Elle fournit une large gamme d'algorithmes d'apprentissage automatique supervisés et non supervisés, ainsi que des outils pour préparer les données et évaluer les modèles.
+  Elle est populaire dans ce domaine ces plusieurs raisons   
+  * La facilité d'utilisation
+  * La portabilité  
+    <!-- Utilisable sur Linux, MacOS et Windows -->
+  * La performance
+  * L'écosystème
+  ⇛ Elle peut être utilisée pour 
+  * La classification  
+    Assigner une étiquette à un objet en fonction de ses caractéristiques grâce à une variété d'algorythme comme les arbres de décision, les SVM et les réseaux de neurones artificiels.
+  * La régression
+  * Le clustering
+  * La réduction de dimensionnalité
+  * L'apprentissage automatiqu par transfert
