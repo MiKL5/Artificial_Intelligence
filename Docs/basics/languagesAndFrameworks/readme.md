@@ -217,4 +217,4 @@ Voici quelques-unes de ses fonctions spécifiques
 * La prise en charge des réseaux de neurones artificiels dynamiques afin que les développeurs de créer des réseaux de neurones artificiels qui peuvent être modifiés en temps réel ;
 * La prise en charge des bibliothèques de troisième partie (un vaste écosystème) dans le but d'ajouter des fonctionnalités supplémentaires.
 
-<!-- * ### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
+<!-- ### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
