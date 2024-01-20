@@ -136,7 +136,6 @@
     * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
 <!-- * ### **Keras** -->
 <!-- * ### **TensorFlow** -->
-<!-- * ### **PyTorch** -->
 <!-- * ### **Pandas** -->
 ## **Les bibliothèques**
 * ### **Scikit learn**
@@ -152,16 +151,16 @@
   ⇛ Elle peut être utilisée pour 
   * La classification  
     Assigner une étiquette à un objet en fonction de ses caractéristiques  
-    grâce à une variété d'algorythme comme les arbres de décision, les SVM et les réseaux de neurones artificiels et d'autres.
+    grâce à une variété d'algorithme comme les arbres de décision, les SVM et les réseaux de neurones artificiels et d'autres.
   * La régression  
     Prédire une valeur continue en fonction de caractéristiques  
     via des algos telles que les régressions linéaires, les régressions logistiques et les régressions non linéaires... 
   * Le clustering  
     Regrouper des objets similaires  
-    avec les les K-means, les DBSCAN et les algorithmes hiérarchiques par exemole.
+    avec les K-means, les DBSCAN et les algorithmes hiérarchiques par exemole.
   * La réduction de dimensionnalité  
     Réduire la taille d'un ensemble de données tout en conservant l'information la plus importante.
-    Pour cela il est possible d'utiliser l'analyse en composantes principales, l'analyse discriminante linéaire et l'analyse factorielle, etc.
+    Pour cela, il est possible d'utiliser l'analyse en composantes principales, l'analyse discriminante linéaire et l'analyse factorielle, etc.
   * L'apprentissage automatiquem par transfert  
     Utiliser les connaissances acquises sur un ensemble de données pour améliorer les performances d'un modèle sur un autre ensemble de données.  
     Elle fournit une variété d'outils d'apprentissage automatique par transfert, tels que la mise à l'échelle des poids et la fusion de modèles.
@@ -170,3 +169,19 @@
   * La reconnaissance faciale :
   * La traduction automatique ;
   * La recommandation de produits.
+
+* ### **PyTorch**
+Bibliothèque Python open source fournissant une interface flexible et puissante pour développer et entraîner des réseaux de neurones aartificiels.  
+
+Ses avantages
+* Flexible
+* Performante
+* Un vaste écosystème
+Voici un exemple de fonctionnalités spécifiques
+* Utiliser le GPU pour l'accélération des calculs.  
+  Le GPU est un processeur spécialisé qui est optimisé pour les calculs mathématiques. Il peut être utilisé pour accélérer considérablement l'entraînement des réseaux de neurones artificiels.
+* La prise en charge des réseaux de neurones artificiels dynamiques.  
+  Les réseaux de neurones artificiels dynamiques permettent aux développeurs de créer des réseaux de neurones artificiels qui peuvent être modifiés en temps réel.  
+  Cela peut être utile pour des applications telles que la réalité augmentée et la réalité virtuelle.
+* La prise en charge des bibliothèques de troisième partie.  
+  PyTorch dispose d'un vaste écosystème de bibliothèques de troisième partie qui peuvent être utilisées pour ajouter des fonctionnalités supplémentaires.
