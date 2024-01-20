@@ -114,7 +114,7 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
 
 ## **Les frameworks**
 
-### **.Net (dotnet)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".Net" title=".Net" widht="auto" height="64px">
+### **.Net (dot net)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".Net" title=".Net" widht="auto" height="64px">
   C'est un framework de développement logiciel développé par Microsoft. Il fournit une plate-forme unifiée pour le développement d'applications Web,mobiles, de bureau et d'IA.
   * La portabilité  
   .NET est un framework portable, ce qui signifie qu'il peut être utilisé pour développer des applications d'IA qui doivent être déployées sur différentes plates-formes, y compris Windows, Linux et macOS.  
@@ -155,6 +155,16 @@ Les raisons de sa popularité sont :
 * Google utilise TensorFlow pour ses produits d'intelligence artificielle, tels que son assistant vocal, son moteur de recherche et son système de recommandation de produits.
 * Facebook pour ses applications de vision par ordinateur, telles que la reconnaissance faciale et la reconnaissance d'objets.
 * OpenAI l'utilise pour développer ses modèles d'intelligence artificielle, tels que son modèle GPT-3 de langage naturel. -->
+
+<!-- Parmi les fonctionnalités spécifiques de TensorFlow qui le rendent utile pour l'IA :
+* La possibilité d'utiliser des GPU pour l'accélération des calculs.  
+  Le GPU est un processeur spécialisé qui est optimisé pour les calculs mathématiques.  
+  Il peut être utilisé pour accélérer considérablement l'entraînement des modèles d'IA.
+* La prise en charge des réseaux de neurones artificiels dynamiques.  
+  Afin de permettre aux développeurs de créer des réseaux de neurones artificiels qui peuvent être modifiés en temps réel.  
+  Cela peut être utile pour des applications telles que la réalité augmentée et la réalité virtuelle.
+* La prise en charge des bibliothèques de troisième partie.  
+  TensorFlow dispose d'un vaste écosystème de bibliothèques de troisième partie qui peuvent être utilisées pour ajouter des fonctionnalités supplémentaires aux applications d'IA. -->
 
 ## **Les bibliothèques**
 ### **Scikit learn**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px">
@@ -236,4 +246,30 @@ Voici quelques-unes de ses fonctions spécifiques
 * La prise en charge des réseaux de neurones artificiels dynamiques afin que les développeurs de créer des réseaux de neurones artificiels qui peuvent être modifiés en temps réel ;
 * La prise en charge des bibliothèques de troisième partie (un vaste écosystème) dans le but d'ajouter des fonctionnalités supplémentaires.
 
-<!-- ### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
+### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+Pandas est une bibliothèque Python open source pour l'analyse de données et la manipulation de données.  
+Elle fournit un ensemble de structures de données et de fonctions pour manipuler des données tabulaires, telles que des feuilles de calcul et des bases de données.
+
+Pandas est un choix populaire pour l'analyse de données pour plusieurs raisons :
+* Facile à apprendre et à utiliser même pour les débutants en analyse de données ;
+* Performante, donc idéale pour l'analyse de données sur de grandes quantités de données ;
+* Écosystème, Pandas dispose d'un vaste écosystème de bibliothèques et de frameworks qui peuvent être utilisés pour l'analyse de données.
+
+Pandas est utilisé dans une grande variété d'applications d'analyse de données, principalement :
+* L'exploration de données.  
+  Processus d'analyse de données brutes pour en tirer des informations.  
+  Elle peut être utilisée pour explorer des données tabulaires (des feuilles de calcul et des bases de données).
+* La préparation des données.  
+  La préparation des données est le processus de nettoyage et de mise en forme des données pour les analyses ultérieures.  
+  Cette bibliothèque peut être utilisée pour préparer des données tabulaires.
+* L'analyse statistique.  
+  Le processus d'application de techniques statistiques aux données pour en tirer des conclusions.  
+  Pandas peut être utilisée pour effectuer des analyses statistiques sur des données tabulaires.
+* La visualisation des données.  
+  La visualisation des données est le processus de représentation des données de manière visuelle pour en faciliter la compréhension.
+  Pandas peut être utilisée pour visualiser des données tabulaires.
+
+<!-- Voici quelques-unes de ses fonctionnalités spécifiques  
+* Les structures de données tabulaires ;  
+* Les fonctions d'analyse de données ;
+* Les fonctions de visualisation des données. -->
