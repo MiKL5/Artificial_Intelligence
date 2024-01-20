@@ -134,9 +134,9 @@
     * Microsoft utilise .NET pour développer son moteur de recherche Bing, son assistant vocal Cortana et son système de recommandation de produits.
     * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
     * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
-<!-- * ### **Keras** -->
-<!-- * ### **TensorFlow** -->
-<!-- * ### **Pandas** -->
+<!-- * ### **Keras** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
+<!-- * ### **TensorFlow**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
+<!-- * ### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"> -->
 ## **Les bibliothèques**
 * ### **Scikit learn**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px">
   Bibliothèque Python open source pour l'apprentissage automatique.  
