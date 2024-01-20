@@ -1,7 +1,7 @@
 # **Languages et Frameworks**
 
 ## Les langages
-* ### **Python**  
+* ### **Python** <img align="right" src="https://github.com/MiKL5/Python/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">  
   Le plus utilisé dans ce domaine.  
   En effet, c'est un langage de choix, car il est facile à apprendre, polyvalent et il est riche de bibliothèques et frameworks.  
 
@@ -25,7 +25,7 @@
       * De recommandations de produits ;
       * De gestion de la chaîne d'approvisionnement ;
       * De robotique. -->
-* ### **R**  
+* ### **R** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" title="R" widht="auto" height="64px">  
   C'est un langage de programmation statistique open source qui est largement utilisé pour l'analyse de données, la science des données, l'apprentissage automatique et le deep learning.  
   Effectivement, c'est un langage puissant et flexible qui offre une large gamme de fonctionnalités pour l'analyse de données. Il est également facile à apprendre et à utiliser, ce qui en fait un choix populaire pour les data scientists et les statisticiens.
   ⇛ Ses principaux usages sont :
@@ -41,7 +41,7 @@
       * Ses produits de recherche et de recommandation ;  
       * Ses applications de visualisation de données.  
     * Chez Facebook et Amazon l'utilisation et la même qu'avec Python -->
-* ### **Java**  
+* ### **Java** <img align="right" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" title="Java" widht="auto" height="64px">  
   Java est un langage de programmation orienté objet populaire utilisé pour une variété d'applications. Java est un choix populaire pour l'IA pour :
     * La portabilité  
       Java peut être exécuté sur différentes plates-formes, y compris les ordinateurs de bureau, les appareils mobiles et les serveurs. Il est idéal pour le développement d'applications qui doivent être déployées sur plusieurs plates-formes.
@@ -62,7 +62,7 @@
       * La synthèse vocale (assistant vocaux et chatbots).  
 
     <!-- ▶ Dans l'intelligence artificielle les utilisations concrète de Java sont le même que pour Python. -->
-* ### **C++**  
+* ### **C++** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++" widht="auto" height="64px">  
   Le C++ est un langage de programmation de bas niveau qui est souvent utilisé pour le développement d'applications à forte intensité de calcul, telles que les jeux vidéo et les applications d'IA.  
     * La performance  
       Le rend idéal pour le développement d'applications d'IA qui nécessitent des performances élevées, telles que les systèmes de recommandation et les systèmes de reconnaissance d'image.
@@ -86,7 +86,7 @@
     * Google l'utilise dans son moteur de recherche, son assistant vocal et son système de recommandation de produits ;
     * Facebook dans ses applications de recommandation de contenu, de reconnaissance faciale et de traduction automatique ;
     * Amazon dans ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique. -->
-* ### **C# (C sharp)**
+* ### **C# (C sharp)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" title="C#" widht="auto" height="64px">
   C# est un langage de POO développé par Microsoft. Souvent utilisé pour le développement d'applications Windows, il est aussi utilisé pour le développement d'applications Web, mobiles et d'IA.  
     Il est choisi pour  
     * La portabilité (exécutable sur différentes plates-formes, y compris Windows, Linux et macOS) ;
@@ -114,7 +114,7 @@
 
 ## **Les frameworks**
 
-* ### **.Net (dotnet)** 
+* ### **.Net (dotnet)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".Net" title=".Net" widht="auto" height="64px">
     C'est un framework de développement logiciel développé par Microsoft. Il fournit une plate-forme unifiée pour le développement d'applications Web, mobiles, de bureau et d'IA.
     * La portabilité  
     .NET est un framework portable, ce qui signifie qu'il peut être utilisé pour développer des applications d'IA qui doivent être déployées sur différentes plates-formes, y compris Windows, Linux et macOS.  
@@ -138,7 +138,7 @@
 <!-- * ### **TensorFlow** -->
 <!-- * ### **Pandas** -->
 ## **Les bibliothèques**
-* ### **Scikit learn**
+* ### **Scikit learn**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px">
   Bibliothèque Python open source pour l'apprentissage automatique.  
   Elle fournit une large gamme d'algorithmes d'apprentissage automatique supervisés et non supervisés, ainsi que des outils pour préparer les données et évaluer les modèles.
   Elle est populaire dans ce domaine ces plusieurs raisons   
@@ -170,7 +170,7 @@
   * La traduction automatique ;
   * La recommandation de produits.
 
-* ### **PyTorch**
+* ### **PyTorch** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt=".Net" title=".Net" widht="auto" height="64px">
 Bibliothèque Python open source fournissant une interface flexible et puissante pour développer et entraîner des réseaux de neurones aartificiels.  
 
 Ses avantages
