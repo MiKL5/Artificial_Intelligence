@@ -92,7 +92,7 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
     * La portabilité (exécutable sur différentes plates-formes, y compris Windows, Linux et macOS) ;
     * La performance ;
     * La sécurité (grâce à un ensemble de fonctionnalités de sécurité intégrées permettant de protéger les applications d'IA contre les attaques malveillantes).
-### **F# (F sharp)**
+### **F# (F sharp)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" alt="C#" title="C#" widht="auto" height="64px">
   C'est un langage de programmation fonctionnel, impératif et orienté objet et moderne qui a été développé par Microsoft pour la plateforme .Net. Il est souvent utilisé pour développer des applications Web, des applications mobiles et des applications d'entreprise ou d'applications d'intelligence artificielle.  
   Ses avantages pour l'IA
   * Fonctionnels  

@@ -20,7 +20,7 @@
 [Ethic by design](basics/ethicByDesign "Ethic by design")  
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
-[Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks") _Wip_  
+[Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
 
 </div>
 
