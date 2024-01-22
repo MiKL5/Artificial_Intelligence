@@ -5,8 +5,8 @@
     <br>
     <br>
 
-<!-- ## **Projets** -->
-<!-- [Pong](projects/pong) <img align="center" src="assets/images/unity.png" alt="Python" title="Python" widht="auto" height="18px"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" title="Python" widht="auto" height="18px">   -->
+## **Projets**
+[Pong](projects/pong) _<kbd>Wip</kbd>_ <img align="center" src="assets/images/unity.png" alt="Python" title="Python" widht="auto" height="18px"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" title="Python" widht="auto" height="18px">  
 <!-- [Casse-briques](projects/brickBreaker) <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="18px">   -->
 ## [**Documentation**](Docs)
 
