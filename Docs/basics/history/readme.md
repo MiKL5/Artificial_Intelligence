@@ -3,7 +3,7 @@
 * _**1956**_  
   L'intelligence artificielle est reconnue en tant que discipline académique
 * _**1957**_  
-  Naissance du neurone formel _(le perceptron)_
+  Naissance du neurone formel _(le [perceptron](/Docs/basics/perceptron))_
 * _**1970 à 1980**_  
   Un peu délaisser à cause des limitations scientifiques et technologiques
 * _**1980 à 1990**_  

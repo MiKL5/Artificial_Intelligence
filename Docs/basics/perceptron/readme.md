@@ -3,9 +3,9 @@
 Le [perceptron](https://fr.wikipedia.org/wiki/Perceptron "neurone formel"), encore appelé neurone artificiel ou neurone formel, sert à reproduire le fonctionnement d'un neurone biologique. Il existe différents niveaux d'abstraction, suivant la précision de la modélisation voulue.
 
 Considérons les entités suivantes :  
-•	des `entrées`, notées `x` sous formes de vecteurs, représentant les `dendrites` ;  
-•	une `sortie`, notée `y`, représentant l'`axone` ;  
-•	des `paramètres`, notés w et b, influençant le fonctionnement du neurone.  
+• des `entrées`, notées `x` sous formes de vecteurs, représentant les `dendrites` ;  
+• une `sortie`, notée `y`, représentant l'`axone` ;  
+• des `paramètres`, notés w et b, influençant le fonctionnement du neurone.  
 
 Les entrées sont variables. Les paramètres sont fixés par construction du modèle. La sortie est calculée en fonction des entrées et des paramètres.
 
