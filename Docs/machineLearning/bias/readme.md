@@ -19,4 +19,4 @@ Il existe deux types de biais en machine learning :
 * _**Biais de sélection des caractéristiques**_  
   les modèles de machine learning peuvent être biaisés par les caractéristiques qui sont utilisées pour les entraîner. Par exemple, un modèle de prédiction de la réussite scolaire peut être biaisé en faveur des étudiants qui ont des parents éduqués.
 * _**Biais de la structure de l'algorithme**_  
-  la structure même de l'algorithme de machine learning peut entraîner des biais. Par exemple, un algorithme de classification basé sur des arbres de décision peut être biaisé en faveur des classes les plus représentées dans les données.
+  la structure même de l'algorithme de machine learning peut entraîner des biais. Par exemple, un algorithme de classification basé sur des arbres de décision peut être biaisé en faveur des classes les plus représentées dans les données.   
