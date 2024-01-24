@@ -1,7 +1,7 @@
 <h1 align="center"><b>Intelligence artificielle</b></h1>
 
 <div align="center"> 
-    <img src="https://maze-guru.oss-accelerate.aliyuncs.com/image/49B61D87B16390CF3F2F2FADDF2D2DED-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="400px" cursor="not-allowed">
+    <img src="https://maze-guru.oss-accelerate.aliyuncs.com/image/49B61D87B16390CF3F2F2FADDF2D2DED-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="400px" cursor="wait">
     <br>
     <br>
 
