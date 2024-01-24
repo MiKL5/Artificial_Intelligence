@@ -73,5 +73,5 @@ ___
 <!-- * [Les biais](machineLearning/bias "Les biais") -->
 
 <div align="center">
-    <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="800px">
+    <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
 </div>
