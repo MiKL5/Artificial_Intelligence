@@ -54,11 +54,21 @@ public class ball : MonoBehaviour
         if (collision.tag == "paddle") 
         {
             bool isPlayer = collision.GetComponent<bar>().isHumanPlayer;
-            if ( (isPlayer && dir.x > 0 ) || (isPlayer && dir.x < 0 ) )
+            if ( (isPlayer && dir.x > 0 ) || (!isPlayer && dir.x < 0 ) )
             {
                 cs.Shake(0.4f, 0.25f, 30f);
                 dir.x *= -1;
             }
         }
     }
+
+    // quitter le jeu
+    /* public void QuitGame()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Q))
+        {
+            // Close the game
+            Application.Quit();
+        }
+    } */
 }
