@@ -311,6 +311,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ball: {fileID: 1110467777}
   latency: 3.25
+  reactionField: 7
+  returnToCenter: 5
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
