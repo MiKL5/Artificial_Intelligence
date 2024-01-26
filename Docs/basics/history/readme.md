@@ -1,6 +1,9 @@
 # **L'histoire de l'IA**
 
+* _**1940 à 1960**_  
+  Naissance de l'IA dans le sillage de la cybernétique
 * _**1956**_  
+  Naissance du terme "`intelligence artificielle`".  
   L'intelligence artificielle est reconnue en tant que discipline académique.
 * _**1957**_  
   Naissance du neurone formel _(le [perceptron](/Docs/basics/perceptron))_.
