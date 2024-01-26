@@ -12,8 +12,23 @@ Celon le Larousse : Produit par le travail de l'Homme et non par la nature.
 
 À l'origine, il y a une création qui n'est pas naturelle.  
 On peut se dire que l'homme crée une machine qui créée autre chose.  
-<!-- ## **Les intelligences d'artificielles et qu'est-ce qu'elles partagent** -->
+## **Les intelligences d'artificielles et qu'est-ce-qu'elles partagent**
+Derrière ce concept, le projet est de construire des artefacts intelligents. C'est-à-dire que quelque chose qui n'est pas naturel doit démontrer des capacités d'intelligence.
 
+En résumé, elle va permettre d'agréger, de percevoir, de raisonner, de communiquer et d'agir.  
+La construction reflète l'aspect d'ingénierie (construire dans un projet un artefact).  
+
+L'IA est au service de l'Homme pour lui faire gagner de temps sur un ensemble de tâches qui lui demandent de l'énergie de réflexion et d'intelligence.
 <!-- ## **La connaissance** -->
 
 <!-- ## **La représentation des connaissances** -->
+
+___
+>>>**NOTA BENE**
+>>>
+>>>* _**Intelligence**_  
+>>> percevoir, raisonner, communiquer et agir
+>>>* _**Construire**_  
+>>>  aspect d'ingénierie
+>>>* _**Artefact**_  
+>>>  machine inorganique (non issu de matière.s naturelle.s) manipulant des symboles
