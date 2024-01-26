@@ -12,7 +12,8 @@ Celon le Larousse : Produit par le travail de l'Homme et non par la nature.
 
 À l'origine, il y a une création qui n'est pas naturelle.  
 On peut se dire que l'homme crée une machine qui créée autre chose.  
-## **Les intelligences d'artificielles et qu'est-ce-qu'elles partagent**
+<h2><b>Les intelligences d'artificielles  
+<br>Et qu'est-ce-qu'elles partagent</b></h2>
 Derrière ce concept, le projet est de construire des artefacts intelligents. C'est-à-dire que quelque chose qui n'est pas naturel doit démontrer des capacités d'intelligence.
 
 En résumé, elle va permettre d'agréger, de percevoir, de raisonner, de communiquer et d'agir.  
@@ -24,26 +25,27 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 
 <div align="center">
 
-| | Performances humaines | Performances idéales  
+| | **Performances humaines** | **Performances idéales**  
 --:|:--|:--
-Raisonnement | Systèmes qui pensent comme des humains | Syes qui pensent rationnellement
-Comportement | Syes qui agissent comme des humains | Syes qui agissent rationnellement
+**Raisonnement** | Systèmes qui pensent comme des humains | Syes qui pensent rationnellement
+**Comportement** | Syes qui agissent comme des humains | Syes qui agissent rationnellement
 
 </div>
 
 > ### Première dimension  
+> ___
 Des systèmes qui pensent comme des humains.  
 * Basé sur une modélisation cognitive du fonctionnement du cerveau (il y a un aspect de compréhension, modélisation et apropriation ; pas que du code).  
 * Requière des théories scientifiques sur l'activité <!--interne -->du cerveau par introspection ou expérience psychologiques
-  * `Approche top-down` en sciences cognitives  
+  * Approche `top-down` en sciences cognitives  
     C'est-à-dire, prédire et tester le comportement des humains  
-  * `Appreche bottom-up` en neurosciences cognitives  
+  * Appreche `bottom-up` en neurosciences cognitives  
     Pour identifier le comportement à partir de données neurologiques  
 
 * Comment valider ses systèmes ? Sur une certaine compréhension que l'on a de l'activité neuronale.  
   On pourrait implémenter des théories et les comparées avec les humaines
 
-Mais tout ceci est à l'ébauche de la recherche.
+_Mais tout ceci est à l'ébauche de la recherche_.
 
 
 <!-- ## **La connaissance** -->
@@ -54,8 +56,8 @@ ___
 >>>**NOTA BENE**
 >>>
 >>>* _**Intelligence**_  
->>> percevoir, raisonner, communiquer et agir
+>>> Percevoir, raisonner, communiquer et agir
 >>>* _**Construire**_  
->>>  aspect d'ingénierie
+>>>  Aspect d'ingénierie
 >>>* _**Artefact**_  
->>>  machine inorganique (non issu de matière.s naturelle.s) manipulant des symboles
+>>>  Machine inorganique (non issu de matière.s naturelle.s) manipulant des symboles
