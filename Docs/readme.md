@@ -10,6 +10,7 @@
 <br>
 <div align="center">
 
+[Quelsques concepts pour comprendre](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est l'intelligence artificielle") <kbd>_**Wip**_</kbd>   
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Histoire](basics/history "L'histoire de l'intelligence artificielle")   
 [Les craintes](basics/fears "Les caintes face à l'IA")   
