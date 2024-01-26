@@ -21,10 +21,15 @@ La construction reflète l'aspect d'ingénierie (construire dans un projet un ar
 L'IA est au service de l'Homme pour lui faire gagner de temps sur un ensemble de tâches qui lui demandent de l'énergie de réflexion et d'intelligence.  
 
 Différentes dimensions (principalement quatre), mais deux principales approches  
+
+<div align="center">
+
 | | Performances humaines | Performances idéales  
 --:|:--|:--
 Raisonnement | Systèmes qui pensent comme des humains | Syes qui pensent rationnellement
 Comportement | Syes qui agissent comme des humains | Syes qui agissent rationnellement
+
+</div>
 
 > ### Première dimension  
 Des systèmes qui pensent comme des humains.  
@@ -35,10 +40,11 @@ Des systèmes qui pensent comme des humains.
   * `Appreche bottom-up` en neurosciences cognitives  
     Pour identifier le comportement à partir de données neurologiques  
 
-* Comment validé ses systèmes ? Sur une certaine compréhension que l'on a de l'activité neuronale.  
+* Comment valider ses systèmes ? Sur une certaine compréhension que l'on a de l'activité neuronale.  
   On pourrait implémenter des théories et les comparées avec les humaines
 
 Mais tout ceci est à l'ébauche de la recherche.
+
 
 <!-- ## **La connaissance** -->
 
