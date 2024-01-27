@@ -13,7 +13,7 @@ Celon le Larousse : Produit par le travail de l'Homme et non par la nature.
 À l'origine, il y a une création qui n'est pas naturelle.  
 On peut se dire que l'homme crée une machine qui créée autre chose.  
 <h2><b>Les intelligences d'artificielles  
-<br>Et qu'est-ce-qu'elles partagent</b></h2>
+<br>Et qu'est-ce-qu'elles partagent ?</b></h2>
 Derrière ce concept, le projet est de construire des artefacts intelligents. C'est-à-dire que quelque chose qui n'est pas naturel doit démontrer des capacités d'intelligence.
 
 En résumé, elle va permettre d'agréger, de percevoir, de raisonner, de communiquer et d'agir.  
@@ -34,12 +34,12 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 
 > ### Première dimension  
 > ___
-Des systèmes qui pensent comme des humains.  
+#### Des systèmes qui pensent comme des humains  
 * Basé sur une modélisation cognitive du fonctionnement du cerveau (il y a un aspect de compréhension, modélisation et apropriation ; pas que du code).  
 * Requière des théories scientifiques sur l'activité <!--interne -->du cerveau par introspection ou expérience psychologiques
   * Approche `top-down` en sciences cognitives  
     C'est-à-dire, prédire et tester le comportement des humains  
-  * Appreche `bottom-up` en neurosciences cognitives  
+  * Approche `bottom-up` en neurosciences cognitives  
     Pour identifier le comportement à partir de données neurologiques  
 
 * Comment valider ses systèmes ? Sur une certaine compréhension que l'on a de l'activité neuronale.  
@@ -47,6 +47,23 @@ Des systèmes qui pensent comme des humains.
 
 _Mais tout ceci est à l'ébauche de la recherche_.
 
+#### Des systèmes qui pensent rationnellement
+* Reposent sur la pensée logique
+  * 19e siècle : la logique formelle
+    * Permet d'écrire des énoncés sur les objets du monde et leurs relations
+    * Lien entre mathématique et philosophie
+  <!-- * ⤷ Si le modèle est faux le résultat est faux -->
+Cependant, 
+* Il aura des difficultés pour décrire certaines connaissances, des états informels, incertains, etc. _Comment les modéliser ?_
+* Il aura aussi un complexité de calculs
+  Du passage du principe théorique à la mise en oeuvre réelle
+* Tout comportement intelligent n'est pas véhiculé par le raisonnement
+
+**Ce sont donc des approches qui ne sont pas valables dans toutes les situations.**
+<!-- C'est important de les connaîtres et de s'en saisir pour dire ce que l'on veut faire et pourquoi. -->
+
+#### Des systèmes qui agissent comme des humains
+Ils peuvent donc faire des erreurs comme n'importe quel humain.
 
 <!-- ## **La connaissance** -->
 
