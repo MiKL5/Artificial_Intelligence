@@ -35,7 +35,7 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 > ### Première dimension  
 > ___
 #### Des systèmes qui pensent comme des humains  
-* Basé sur une modélisation cognitive du fonctionnement du cerveau (il y a un aspect de compréhension, modélisation et apropriation ; pas que du code).  
+* Basé sur une modélisation cognitive du fonctionnement du cerveau (il y a un aspect de compréhension, modélisation et appropriation ; pas que du code).  
 * Requière des théories scientifiques sur l'activité <!--interne -->du cerveau par introspection ou expérience psychologiques
   * Approche `top-down` en sciences cognitives  
     C'est-à-dire, prédire et tester le comportement des humains  
@@ -55,8 +55,8 @@ _Mais tout ceci est à l'ébauche de la recherche_.
   <!-- * ⤷ Si le modèle est faux le résultat est faux -->
 Cependant, 
 * Il aura des difficultés pour décrire certaines connaissances, des états informels, incertains, etc. _Comment les modéliser ?_
-* Il aura aussi un complexité de calculs
-  Du passage du principe théorique à la mise en oeuvre réelle
+* Il aura aussi une complexité de calculs
+  Du passage du principe théorique à la mise en œuvre réelle
 * Tout comportement intelligent n'est pas véhiculé par le raisonnement
 
 **Ce sont donc des approches qui ne sont pas valables dans toutes les situations.**
