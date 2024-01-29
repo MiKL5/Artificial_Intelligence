@@ -4,7 +4,9 @@
 <!-- <br> -->
 <div align="center">
     <!-- <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-    <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
+    <!-- <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
+    <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/AE493CE96966A0AB67A85A38E639F14F-01.jpg" title="Intelligence artificielle" height="500px">
+
 </div>
 <br>
 <hr>
