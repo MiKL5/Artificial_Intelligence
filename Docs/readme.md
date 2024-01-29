@@ -75,5 +75,5 @@ ___
 <!-- * [Les biais](machineLearning/bias "Les biais") -->
 
 <div align="center">
-    <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/890A4BB002879ACE2280D866A8024D9D-01.jpg?x-oss-process=image/resize,w_276/format,webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
+    <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/979AC2663A78DB96A3AB06FB4DB08D69-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
 </div>
