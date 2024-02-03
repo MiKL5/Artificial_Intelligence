@@ -7,6 +7,8 @@
   L'intelligence artificielle est reconnue en tant que discipline académique.
 * _**1957**_  
   Naissance du neurone formel _(le [perceptron](/Docs/basics/perceptron))_.
+* _**1972**_
+  Langage Prolog (Colmaerauer)
 * _**1970 à 1980**_  
   Un peu délaisser à cause des limitations scientifiques et technologiques.
   C'est le premier hiver de l'IA.
@@ -16,12 +18,26 @@
 * _**1990 à 2000**_  
   Un peu mise de côté à cause des difficultés de maintenance des systèmes experts.
   Ces systèmes étaient devenus trop complexes.
-* _**2009 à 2019**_  
-  Nouvel engouement pour l'IA avec le ML et le DL.  
-  D'où les voitures autonomes
-  - Google en 2009
-  - Watson d'IBM en 2011
-  - AlphaGo de Google en 2016, ...
+* _**1997**_  
+  Victoire de Deep Blue face à Kasparov
+  * _**1998**_  
+  Web sémantique
+* _**2006**_  
+  Monte-Carlo Tree Search (MCTS)
+* _**2007**_  
+  Linked Open Data ➻ Web de donnée (partage d'info via Wikidata)
+* _**2009**_  
+  Google Car
+* _**2010**_  
+  Assistants virtuels personnels
+  ↳ Siri, Cortana, Alexa, Google Assistant
+* _**2011**_  
+  Watson (IBM) gagne au Jeopardy
+* _**2012**_  
+  Deep Learning
+  Apparition du Knowledge Graph dans le moteur de recherche de Google (exploite et modélise les connaissance de façon sémantique via ce grade de connaissance)
+* _**2017**_  
+  Alphago (Google) gagne face au champion du monde Ke Jie
 * _**2019**_  
   De très grandes quantités de données (internes à l'entreprise ou externes, tel que les réseaux sociaux) sont facilement accessibles.  
   Ainsi que la puissance de calcul des machines (processeurs et cartes graphiques) permettent de faire assez simplement de l'intelligence artificielle. Car les deux éléments dont elle a besoin sont la puissance de calcul et les données.  

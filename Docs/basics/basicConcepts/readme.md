@@ -98,20 +98,22 @@ Là encore, il y a des choix à faire en fonction de l'objectif.
 L'intelligence artificielle est une forme d'intelligence et c'est celle que l'on donne au système informatique. Et aujourd'hui en IA, on travaille beaucoup avec les émotions, parce qu'on a de la reconnaissance faciale et la question est de savoir comment l'interpréter (concentrer ou en colère). Il peut y avoir une erreur. Cependant, il y a l'interprétation et la reconnaissance des émotions. Il y a aussi le fait de transpirer ou d'autres aspects qui peuvent démonter de l'émotion. Avec ces données, si on a un modèle qui informe qu'à partir de ces données, on peut en déduire que la personne en face de nous ressent une certaine émotion, on est dans la rationnalité.  
 
 ## Plusieurs catégorisations  
-### L'IA forte  
-A pour objectif d'être capable de comportements intelligents tels que définis ci-avant, nonobstant, essentiellement douée de conscience. D'où le problème philosophique de la conscience : "Qu'est-ce-que la conscience ? " et "Quelle est la conscience de soi ?".  
-Certains chercheurs y travaillent, d'autres la considèrent impossible. Car les ordis sont considérés comme des machines de Turing (c'est-à-dire, exécutant des algorithmes). Et ces algorithmes sont incapables de modéliser l'intelligence et la conscience.  
+### L'IA forte vs IA faible
+* L'IA forte  
+  A pour objectif d'être capable de comportements intelligents tels que définis ci-avant, nonobstant, essentiellement douée de conscience. D'où le problème philosophique de la conscience : « Qu'est-ce-que la conscience ? » et « Quelle est la conscience de soi ? ».  
+  Certains chercheurs y travaillent, d'autres la considèrent impossible. Car les ordis sont considérés comme des machines de Turing (c'est-à-dire, exécutant des algorithmes). Et ces algorithmes sont incapables de modéliser l'intelligence et la conscience.  
 
-### L'IA faible  
-Elle repose sur une approche d'ingénierie et très pragmatique.  
-Il s'agit de développer des systèmes de plus en plus autonomes (Google car, ...) qui permettent de résoudre des problèmes de plus en plus complexes en simulant l'intelligence humaine.  
-```IA faible = simulation```
+* L'IA faible  
+  Elle repose sur une approche d'ingénierie et très pragmatique.  
+  Il s'agit de développer des systèmes de plus en plus autonomes (Google car, ...) qui permettent de résoudre des problèmes de plus en plus complexes en simulant l'intelligence humaine.  
+  ```IA faible = simulation```
 
-### L'IA connexionniste
-
-
-### L'IA symbolique
-
+### L'IA connexionniste versus IA symbolique
+* L'IA connexionniste
+  Ce système décompose les problèmes en sous-éléments connectés entre eux.  
+  Elle exploite par biomimétisme des neurones biologiques et le fonctionnement empirique et expérimental de la nature (le poids des neurones est progressivement ajusté, et surtout beaucoup de calculs parallèles). Elle met en place des techniques parallélisant les problèmes et utilisant de la logique inductive, mais peu explicable. On obtient des éléments qui servent à obtenir des éléments de plus en plus précis afin d'obtenir la résolution du problème.  
+* L'IA symbolique
+  Travaille à la manipulation logique de symboles pour faire un ensemble d'opérations afin de résoudre des associant, des règles, des faits et des raisonnements émanant de l'analyse humaine. Donc, l'agent simule, reproduit ces déductions via les manipulations de symboles.  
 
 <!-- ## **La connaissance** -->
 
