@@ -1,14 +1,8 @@
 <h1 align="center">Artificial intelligence</h1>
 
 <div align="center">
-<h3><b>
-
-
-« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.  
-
-Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »
-
-</b></h3>
+<h3><b>« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</b></h4>
+<h3><b>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</b></h4>
 <br>
 <a href="#">
     <!-- <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
