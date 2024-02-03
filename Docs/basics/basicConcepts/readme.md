@@ -30,6 +30,8 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 **Raisonnement** | Systèmes qui pensent comme des humains | Syes qui pensent rationnellement
 **Comportement** | Syes qui agissent comme des humains | Syes qui agissent rationnellement
 
+À partir du moment où on est d'accord sur nos définitions et modèles ainsi que le contenu des modèles, on peut travailler ensemble, entre individus et entre individus et systèmes informatiques, sans ambigüités. 
+
 </div>
 
 > ### Première dimension  
@@ -45,7 +47,8 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 * Comment valider ses systèmes ? Sur une certaine compréhension que l'on a de l'activité neuronale.  
   On pourrait implémenter des théories et les comparées avec les humaines
 
-_Mais tout ceci est à l'ébauche de la recherche_.
+_Mais tout ceci est à l'ébauche de la recherche_.  
+<!-- Ils peuvent donc faire des erreurs comme n'importe quel humain, contrairement au principe de rationnalité. -->
 
 #### Des systèmes qui pensent rationnellement
 * Reposent sur la pensée logique
@@ -61,9 +64,20 @@ Cependant,
 
 **Ce sont donc des approches qui ne sont pas valables dans toutes les situations.**
 <!-- C'est important de les connaîtres et de s'en saisir pour dire ce que l'on veut faire et pourquoi. -->
+<!-- Avec le principe de rationalité, les systèmes d'IA ne peut pas faire d'erreur. -->
 
 #### Des systèmes qui agissent comme des humains
-Ils peuvent donc faire des erreurs comme n'importe quel humain.
+Ils peuvent donc faire des erreurs comme n'importe quel humain.  
+Et requièrent ces capacités  
+* Le traitement de la langue naturelle ;  
+* Les représentations des connaissances ;  
+* Raisonnement automatique ;
+* Apprentissage.
+
+Pour savoir si une machine pense ou agit comme un humain, il n'y a actuellement que le test de Turing qui consiste à mettre un interlocuteur derrière un panneau. L'interlocuteur converse soit avec une machine ou un humain, et si à la fin, il est incapable de distinguer l'humain de la machine, on peut considérer que pense ou agit comme un humain.
+
+#### Des systèmes qui agissent rationnellement  
+
 
 <!-- ## **La connaissance** -->
 

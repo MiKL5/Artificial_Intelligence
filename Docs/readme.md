@@ -1,11 +1,19 @@
 <h1 align="center">Artificial intelligence</h1>
-<h4 align="center">"L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre de problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
-<h4 align="center">Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine."</h4>
-<!-- <br> -->
+
 <div align="center">
+<b>
+
+```
+« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.  
+Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »
+```
+</b>
+<br>
+<a href="#">
     <!-- <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-    <!-- <img align="center" src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-    <a href="#"><img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/AE493CE96966A0AB67A85A38E639F14F-01.jpg" title="Intelligence artificielle" height="500px"></a>
+    <!-- <img src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
+    <img src="https://maze-guru.oss-accelerate.aliyuncs.com/image/AE493CE96966A0AB67A85A38E639F14F-01.jpg" title="Intelligence artificielle" height="500px">
+</a>
 
 </div>
 <br>
