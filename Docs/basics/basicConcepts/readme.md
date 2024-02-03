@@ -1,4 +1,5 @@
 # **Quelques concepts pour comprendre ce qu'est l'IA**
+
 ## **Le concept d'intelligence**
 Il est difficile d'avoir une définition universelle dans tous les contextes. Nonobstant, il y a des points communs.  
 
@@ -7,6 +8,7 @@ C'est-à-dire que l'humain se construit une représentation mentale de ce qu'il 
 C'est une capacité à saisir des connaissances et d'apprendre.  
 Et, de ce fait, une capacité à appliquer ces connaissances à différentes situations pour résoudre des problèmes.  
 Puis, la capacité à communiquer. Ce qui est essentiel pour se comprendre et pouvoir échanger des connaissances dans le but d'apprendre et progresser.
+
 ## **Le concept d'artificiel**
 Celon le Larousse : Produit par le travail de l'Homme et non par la nature.  
 
@@ -35,8 +37,8 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 </div>
 
 > ### Première dimension  
+> ### Des systèmes qui pensent comme des humains  
 > ___
-#### Des systèmes qui pensent comme des humains  
 * Basé sur une modélisation cognitive du fonctionnement du cerveau (il y a un aspect de compréhension, modélisation et appropriation ; pas que du code).  
 * Requière des théories scientifiques sur l'activité <!--interne -->du cerveau par introspection ou expérience psychologiques
   * Approche `top-down` en sciences cognitives  
@@ -50,7 +52,9 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 _Mais tout ceci est à l'ébauche de la recherche_.  
 <!-- Ils peuvent donc faire des erreurs comme n'importe quel humain, contrairement au principe de rationnalité. -->
 
-#### Des systèmes qui pensent rationnellement
+> ### Seconde dimension  
+> ### Des systèmes qui pensent rationnellement
+> ___
 * Reposent sur la pensée logique
   * 19e siècle : la logique formelle
     * Permet d'écrire des énoncés sur les objets du monde et leurs relations
@@ -66,7 +70,9 @@ Cependant,
 <!-- C'est important de les connaîtres et de s'en saisir pour dire ce que l'on veut faire et pourquoi. -->
 <!-- Avec le principe de rationalité, les systèmes d'IA ne peut pas faire d'erreur. -->
 
-#### Des systèmes qui agissent comme des humains
+> ### Troisième dimension  
+> ### Des systèmes qui agissent comme des humains
+>___
 Ils peuvent donc faire des erreurs comme n'importe quel humain.  
 Et requièrent ces capacités  
 * Le traitement de la langue naturelle ;  
@@ -76,7 +82,35 @@ Et requièrent ces capacités
 
 Pour savoir si une machine pense ou agit comme un humain, il n'y a actuellement que le test de Turing qui consiste à mettre un interlocuteur derrière un panneau. L'interlocuteur converse soit avec une machine ou un humain, et si à la fin, il est incapable de distinguer l'humain de la machine, on peut considérer que pense ou agit comme un humain.
 
-#### Des systèmes qui agissent rationnellement  
+> ### Quatrième dimension  
+> ### Des systèmes qui agissent rationnellement  
+>___
+* Le comportement est rational  
+  Les actions sont effectuées selon les informations disponibles, dans le but de maximiser l'accomplissement et la résolution d'un problème.  
+* L'agent est rational
+  L'agent perçoit de la connaissance dans un environnement pour accomplir une mission.  
+* Mais il y a un problème  
+  À chaque proposition, il y a des limites. La rationnalité parfaite n'existe pas.  
+  Le but est de concevoir le meilleur programme selon les ressources disponibles.  
+
+Là encore, il y a des choix à faire en fonction de l'objectif.  
+
+L'intelligence artificielle est une forme d'intelligence et c'est celle que l'on donne au système informatique. Et aujourd'hui en IA, on travaille beaucoup avec les émotions, parce qu'on a de la reconnaissance faciale et la question est de savoir comment l'interpréter (concentrer ou en colère). Il peut y avoir une erreur. Cependant, il y a l'interprétation et la reconnaissance des émotions. Il y a aussi le fait de transpirer ou d'autres aspects qui peuvent démonter de l'émotion. Avec ces données, si on a un modèle qui informe qu'à partir de ces données, on peut en déduire que la personne en face de nous ressent une certaine émotion, on est dans la rationnalité.  
+
+## Plusieurs catégorisations  
+### L'IA forte  
+A pour objectif d'être capable de comportements intelligents tels que définis ci-avant, nonobstant, essentiellement douée de conscience. D'où le problème philosophique de la conscience : "Qu'est-ce-que la conscience ? " et "Quelle est la conscience de soi ?".  
+Certains chercheurs y travaillent, d'autres la considèrent impossible. Car les ordis sont considérés comme des machines de Turing (c'est-à-dire, exécutant des algorithmes). Et ces algorithmes sont incapables de modéliser l'intelligence et la conscience.  
+
+### L'IA faible  
+Elle repose sur une approche d'ingénierie et très pragmatique.  
+Il s'agit de développer des systèmes de plus en plus autonomes (Google car, ...) qui permettent de résoudre des problèmes de plus en plus complexes en simulant l'intelligence humaine.  
+```IA faible = simulation```
+
+### L'IA connexionniste
+
+
+### L'IA symbolique
 
 
 <!-- ## **La connaissance** -->
