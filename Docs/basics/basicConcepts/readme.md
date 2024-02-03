@@ -26,7 +26,7 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 <div align="center">
 
 | | **Performances humaines** | **Performances idéales**  
---:|:--|:--
+--:|:-:|:-:
 **Raisonnement** | Systèmes qui pensent comme des humains | Syes qui pensent rationnellement
 **Comportement** | Syes qui agissent comme des humains | Syes qui agissent rationnellement
 
