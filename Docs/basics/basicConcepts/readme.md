@@ -135,7 +135,7 @@ C'est très varié. Le ML et le DL ne sont pas les seules techniques d'IA.
 L'explicabilité est une tendance très importante actuellement. On ne va pas signer un chèque en blanc à un système que va dire comment faire ou résoudre le problème. Si le sye est capable d'argumenter la raison pour laquelle la solution qu'il propose et la bonne de son point de vue, il peut convaincre de s'inféoder. En 1994, les systèmes experts explicatifs étaient déjà utilisés. Puis, on a un peu oublié et aujourd'hui ça revient beaucoup, car l'apprentissage automatique qui peine à expliquer son comportement.  
 Certains travaux permettent de mixer différentes approches dans le but de proposer un minimum d'explications aux solutions obtenues.   
 
-<p align="center"><b>L'IA est omniprésente sous différentes formes.</b></p  
+<p align="center"><b>L'IA est omniprésente sous différentes formes.</b></p>  
 
 ## **La connaissance**
 ### Qu'est-ce qu'une connaissance ?
