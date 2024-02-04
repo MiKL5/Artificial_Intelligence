@@ -1,7 +1,7 @@
 # **Languages et Frameworks**
 
 ## Les langages
-### **Python** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">  
+### **Python** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px"></a>
 Le plus utilisé dans ce domaine.  
 En effet, c'est un langage de choix, car il est facile à apprendre, polyvalent et il est riche de bibliothèques et frameworks.  
 
@@ -25,7 +25,7 @@ En effet, c'est un langage de choix, car il est facile à apprendre, polyvalent 
     * De recommandations de produits ;
     * De gestion de la chaîne d'approvisionnement ;
     * De robotique. -->
-### **R** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R" title="R" widht="auto" height="64px">
+### **R** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R" title="R" widht="auto" height="64px"></a>
 C'est un langage de programmation statistique open source qui est largement utilisé pour l'analyse de données, la science des données, l'apprentissage automatique et le deep learning.  
 Effectivement, c'est un langage puissant et flexible qui offre une large gamme de fonctionnalités pour l'analyse de données. Il est également facile à apprendre et à utiliser, ce qui en fait un choix populaire pour les data scientists et les statisticiens.
 ⇛ Ses principaux usages sont :
@@ -41,7 +41,7 @@ Effectivement, c'est un langage puissant et flexible qui offre une large gamme d
       * Ses produits de recherche et de recommandation ;  
       * Ses applications de visualisation de données.  
     * Chez Facebook et Amazon l'utilisation et la même qu'avec Python -->
-### **Java** <img align="right" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" title="Java" widht="auto" height="64px">
+### **Java** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" title="Java" widht="auto" height="64px"></a>
 Java est un langage de programmation orienté objet populaire utilisé pour une variété d'applications. Java est un choix populaire pour l'IA pour :
   * La portabilité  
     Java peut être exécuté sur différentes plates-formes, y compris les ordinateurs de bureau, les appareils mobiles et les serveurs. Il est idéal pour le développement d'applications qui doivent être déployées sur plusieurs plates-formes.
@@ -62,7 +62,7 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
     * La synthèse vocale (assistant vocaux et chatbots).  
 
     <!-- ▶ Dans l'intelligence artificielle les utilisations concrète de Java sont le même que pour Python. -->
-### **C++** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++" widht="auto" height="64px">  
+### **C++** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++" widht="auto" height="64px"></a> 
   Le C++ est un langage de programmation de bas niveau qui est souvent utilisé pour le développement d'applications à forte intensité de calcul, telles que les jeux vidéo et les applications d'IA.  
     * La performance  
       Le rend idéal pour le développement d'applications d'IA qui nécessitent des performances élevées, telles que les systèmes de recommandation et les systèmes de reconnaissance d'image.
@@ -86,13 +86,13 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
     * Google l'utilise dans son moteur de recherche, son assistant vocal et son système de recommandation de produits ;
     * Facebook dans ses applications de recommandation de contenu, de reconnaissance faciale et de traduction automatique ;
     * Amazon dans ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique. -->
-* ### **C# (C sharp)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" title="C#" widht="auto" height="64px">
+* ### **C# (C sharp)** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" title="C#" widht="auto" height="64px"></a>
   C# est un langage de POO développé par Microsoft. Souvent utilisé pour le développement d'applications Windows, il est aussi utilisé pour le développement d'applications Web, mobiles et d'IA.  
     Il est choisi pour  
     * La portabilité (exécutable sur différentes plates-formes, y compris Windows, Linux et macOS) ;
     * La performance ;
     * La sécurité (grâce à un ensemble de fonctionnalités de sécurité intégrées permettant de protéger les applications d'IA contre les attaques malveillantes).
-### **F# (F sharp)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" alt="C#" title="C#" widht="auto" height="64px">
+### **F# (F sharp)** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Fsharp_logo.png" alt="C#" title="C#" widht="auto" height="64px"></a>
   C'est un langage de programmation fonctionnel, impératif et orienté objet et moderne qui a été développé par Microsoft pour la plateforme .Net. Il est souvent utilisé pour développer des applications Web, des applications mobiles et des applications d'entreprise ou d'applications d'intelligence artificielle.  
   Ses avantages pour l'IA
   * Fonctionnels  
@@ -114,7 +114,7 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
 
 ## **Les frameworks**
 
-### **.Net (dot net)** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".Net" title=".Net" widht="auto" height="64px">
+### **.Net (dot net)** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".Net" title=".Net" widht="auto" height="64px"></a>
   C'est un framework de développement logiciel développé par Microsoft. Il fournit une plate-forme unifiée pour le développement d'applications Web,mobiles, de bureau et d'IA.
   * La portabilité  
   .NET est un framework portable, ce qui signifie qu'il peut être utilisé pour développer des applications d'IA qui doivent être déployées sur différentes plates-formes, y compris Windows, Linux et macOS.  
@@ -135,7 +135,7 @@ Java est un langage de programmation orienté objet populaire utilisé pour une 
   * Amazon utilise .NET pour développer ses systèmes de recommandation de produits, de gestion de la chaîne d'approvisionnement et de robotique.
   * Unity Technologies utilise .NET pour développer son moteur de jeu Unity, qui est utilisé pour créer des jeux vidéo et des applications immersives. -->
 
-### **TensorFlow**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+### **TensorFlow** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"></a>
 TensorFlow est un framework open source pour le développement d'applications d'apprentissage automatique et de deep learning développé par Google et est disponible pour plusieurs langages de programmation, notamment Python, Java et C++.
 
 Les raisons de sa popularité sont :
@@ -167,7 +167,7 @@ TensorFlow est utilisé dans une grande variété d'applications d'IA, surtout :
   TensorFlow dispose d'un vaste écosystème de bibliothèques de troisième partie qui peuvent être utilisées pour ajouter des fonctionnalités supplémentaires aux applications d'IA. -->
 
 ## **Les bibliothèques**
-### **Scikit learn**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+### **Scikit learn** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt=".Net" title=".Net" widht="auto" height="64px"></a>
   Bibliothèque Python open source pour l'apprentissage automatique.  
   Elle fournit une large gamme d'algorithmes d'apprentissage automatique supervisés et non supervisés, ainsi que des outils pour préparer les données et évaluer les modèles.
   Elle est populaire dans ce domaine ces plusieurs raisons   
@@ -199,7 +199,7 @@ TensorFlow est utilisé dans une grande variété d'applications d'IA, surtout :
   * La traduction automatique ;
   * La recommandation de produits.
 
-### **PyTorch** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+### **PyTorch** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt=".Net" title=".Net" widht="auto" height="64px"></a>
 Bibliothèque Python open source fournissant une interface flexible et puissante pour développer et entraîner des réseaux de neurones aartificiels.  
 
 Ses avantages
@@ -215,7 +215,7 @@ Voici un exemple de fonctionnalités spécifiques
 * La prise en charge des bibliothèques de troisième partie.  
   PyTorch dispose d'un vaste écosystème de bibliothèques de troisième partie qui peuvent être utilisées pour ajouter des fonctionnalités supplémentaires.
 
-### **Keras** <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+### **Keras** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"></a>
 Keras est une bibliothèque Python open source pour le deep learning. Elle est conçue pour être facile à utiliser et à apprendre, tout en offrant une grande flexibilité.  
 Les raisons qui la rende populaire pour le deep leerning sont  
 * La facilité à apprendre ;
@@ -246,7 +246,7 @@ Voici quelques-unes de ses fonctions spécifiques
 * La prise en charge des réseaux de neurones artificiels dynamiques afin que les développeurs de créer des réseaux de neurones artificiels qui peuvent être modifiés en temps réel ;
 * La prise en charge des bibliothèques de troisième partie (un vaste écosystème) dans le but d'ajouter des fonctionnalités supplémentaires.
 
-### **Pandas**  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px">
+### **Pandas** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=".Net" title=".Net" widht="auto" height="64px"></a>
 Pandas est une bibliothèque Python open source pour l'analyse de données et la manipulation de données.  
 Elle fournit un ensemble de structures de données et de fonctions pour manipuler des données tabulaires, telles que des feuilles de calcul et des bases de données.
 

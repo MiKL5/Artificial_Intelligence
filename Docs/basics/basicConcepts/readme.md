@@ -143,8 +143,23 @@ C'est une faculté mentale produisant une assimilation par l'esprit d'un contenu
 Donc, observer quelque chose d'objectif (quelqu'un agir ou lire un document) traduit en signe et idées, puis m'approprier une connaissance.  
 Par conséquent, la connaissance est une possession symbolique des choses. Cette représentation mentale sera réutilisée plus tard pour résoudre un problème.  
 
-<!-- ### La Pyramide des connaissances -->
+### La Pyramide des connaissances
+La connaissance est souvent présentée dans une pyramide de hiérarchie de concepts où se trouvent des données, des infos et en haut les connaissances, puis le haut ultime, la sagesse, considérée stade ultime, l'évolution cognitive, qui est l'expérience acquise et permet des recommandations et des suggestions.  
+<div align="center">
 
+![Pyramides de la connaissances](../../../assets/images/pyramideConnaissances.png)
+
+</div>
+En remontant la pyramide, les données sont très minimalistes, on passe d'une donnée à une info, puis à une connaissance, voire à la sagesse en tenant compte du contexte et de la comréhenion.  
+
+#### Qu'est-ce qu'une donnée ?
+Une donnée est une description minimaliste d'un objet élémentaire : son existence, son essence<!-- (la température, un nmbre, etc)-->. <!-- Sans contexte, elle est incompréhensible. -->  
+Elle peut être définie par son essence sans exister (l'ensemble des nombres réels est définissable par des propriétés algébriques [son essence]). C'est un ensemble infini, ce qui n'existe pas dans la nature.  
+Une donnée peut être la définition d'élément qui n'existe pas réellement.  
+
+Et pour l'interpréter il faut plus d'éléments.  
+
+<!-- #### Qu'est qu'une info ? -->
 
 <!-- ## **La représentation des connaissances** -->
 
