@@ -139,6 +139,11 @@ Certains travaux permettent de mixer différentes approches dans le but de propo
 
 ## **La connaissance**
 ### Qu'est-ce qu'une connaissance ?
+C'est une faculté mentale produisant une assimilation par l'esprit d'un contenu objectif préalablement traduit en signes et en idées. C'est, en fait, le résultat de cette opération.  
+Donc, observer quelque chose d'objectif (quelqu'un agir ou lire un document) traduit en signe et idées, puis m'approprier une connaissance.  
+Par conséquent, la connaissance est une possession symbolique des choses. Cette représentation mentale sera réutilisée plus tard pour résoudre un problème.  
+
+<!-- ### La Pyramide des connaissances -->
 
 
 <!-- ## **La représentation des connaissances** -->
