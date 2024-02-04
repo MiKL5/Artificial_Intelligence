@@ -20,7 +20,7 @@
   Ces systèmes étaient devenus trop complexes.
 * _**1997**_  
   Victoire de Deep Blue face à Kasparov
-  * _**1998**_  
+* _**1998**_  
   Web sémantique
 * _**2006**_  
   Monte-Carlo Tree Search (MCTS)
