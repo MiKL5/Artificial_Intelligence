@@ -36,9 +36,7 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 
 </div>
 
-> ### Première dimension  
 > ### Des systèmes qui pensent comme des humains  
-> ___
 * Basé sur une modélisation cognitive du fonctionnement du cerveau (il y a un aspect de compréhension, modélisation et appropriation ; pas que du code).  
 * Requière des théories scientifiques sur l'activité <!--interne -->du cerveau par introspection ou expérience psychologiques
   * Approche `top-down` en sciences cognitives  
@@ -51,10 +49,9 @@ Différentes dimensions (principalement quatre), mais deux principales approches
 
 _Mais tout ceci est à l'ébauche de la recherche_.  
 <!-- Ils peuvent donc faire des erreurs comme n'importe quel humain, contrairement au principe de rationnalité. -->
+<br><br><br>
 
-> ### Seconde dimension  
 > ### Des systèmes qui pensent rationnellement
-> ___
 * Reposent sur la pensée logique
   * 19e siècle : la logique formelle
     * Permet d'écrire des énoncés sur les objets du monde et leurs relations
@@ -69,10 +66,9 @@ Cependant,
 **Ce sont donc des approches qui ne sont pas valables dans toutes les situations.**
 <!-- C'est important de les connaîtres et de s'en saisir pour dire ce que l'on veut faire et pourquoi. -->
 <!-- Avec le principe de rationalité, les systèmes d'IA ne peut pas faire d'erreur. -->
+<br><br><br>
 
-> ### Troisième dimension  
 > ### Des systèmes qui agissent comme des humains
->___
 Ils peuvent donc faire des erreurs comme n'importe quel humain.  
 Et requièrent ces capacités  
 * Le traitement de la langue naturelle ;  
@@ -81,10 +77,9 @@ Et requièrent ces capacités
 * Apprentissage.
 
 Pour savoir si une machine pense ou agit comme un humain, il n'y a actuellement que le test de Turing qui consiste à mettre un interlocuteur derrière un panneau. L'interlocuteur converse soit avec une machine ou un humain, et si à la fin, il est incapable de distinguer l'humain de la machine, on peut considérer que pense ou agit comme un humain.
+<br><br><br>
 
-> ### Quatrième dimension  
 > ### Des systèmes qui agissent rationnellement  
->___
 * Le comportement est rational  
   Les actions sont effectuées selon les informations disponibles, dans le but de maximiser l'accomplissement et la résolution d'un problème.  
 * L'agent est rational
@@ -96,6 +91,7 @@ Pour savoir si une machine pense ou agit comme un humain, il n'y a actuellement 
 Là encore, il y a des choix à faire en fonction de l'objectif.  
 
 L'intelligence artificielle est une forme d'intelligence et c'est celle que l'on donne au système informatique. Et aujourd'hui en IA, on travaille beaucoup avec les émotions, parce qu'on a de la reconnaissance faciale et la question est de savoir comment l'interpréter (concentrer ou en colère). Il peut y avoir une erreur. Cependant, il y a l'interprétation et la reconnaissance des émotions. Il y a aussi le fait de transpirer ou d'autres aspects qui peuvent démonter de l'émotion. Avec ces données, si on a un modèle qui informe qu'à partir de ces données, on peut en déduire que la personne en face de nous ressent une certaine émotion, on est dans la rationnalité.  
+<br>
 
 ## Plusieurs catégorisations  
 ### L'IA forte vs IA faible
@@ -114,8 +110,36 @@ L'intelligence artificielle est une forme d'intelligence et c'est celle que l'on
   Elle exploite par biomimétisme des neurones biologiques et le fonctionnement empirique et expérimental de la nature (le poids des neurones est progressivement ajusté, et surtout beaucoup de calculs parallèles). Elle met en place des techniques parallélisant les problèmes et utilisant de la logique inductive, mais peu explicable. On obtient des éléments qui servent à obtenir des éléments de plus en plus précis afin d'obtenir la résolution du problème.  
 * L'IA symbolique
   Travaille à la manipulation logique de symboles pour faire un ensemble d'opérations afin de résoudre des associant, des règles, des faits et des raisonnements émanant de l'analyse humaine. Donc, l'agent simule, reproduit ces déductions via les manipulations de symboles.  
+<br>
 
-<!-- ## **La connaissance** -->
+## Les domaines de l'IA (conférence européenne d'UA en 2020)
+* Agent-base and Multi-agent Systems (MAS) [Systèmes à base d'agents et systèmes multi-agents]
+* Computational Intelligence (CI) [Intelligence informatique]
+* Constraints and Satisfiability (CS) [Contraintes et satisfiabilité]
+* Games and Virtuals Environments (GAME) [Jeux et environnements virtuels]
+* Heuristique search (HEU) [Recherche heuristique]
+* Human Aspects in AI (HAI) [Aspects humains de l'IA]
+* Information Retrieval and Filtering (IRF) [Recherche d'information et filtrage]
+* Knowledge Représentation and Reasoning (KRR) [Représentation des connaissances et raisonnement]
+* Machine learning (ML) [Apprentissage automatique]
+* Multidisciplinary Topics and Applicatns (MULT) [Sujets et applications multidisciplinaires]
+* Natural Language Processing (NLP) [Traitement du langage naturel]
+* Planning and scheduling (PLAN) [Planification et ordonnancement]
+* Robotics (ROB) [Robotique]
+* Safe, Explanable, and Trustworthy IA (XAI) [IA sûre, explicable et digne de confiance]
+* Semantics Technologies (SEM) [Technologies sémantiques]
+* Uncertainty in AI (UAI) [Incertitude dans l'IA]
+* Vision (VIS)
+
+C'est très varié. Le ML et le DL ne sont pas les seules techniques d'IA.  
+L'explicabilité est une tendance très importante actuellement. On ne va pas signer un chèque en blanc à un système que va dire comment faire ou résoudre le problème. Si le sye est capable d'argumenter la raison pour laquelle la solution qu'il propose et la bonne de son point de vue, il peut convaincre de s'inféoder. En 1994, les systèmes experts explicatifs étaient déjà utilisés. Puis, on a un peu oublié et aujourd'hui ça revient beaucoup, car l'apprentissage automatique qui peine à expliquer son comportement.  
+Certains travaux permettent de mixer différentes approches dans le but de proposer un minimum d'explications aux solutions obtenues.   
+
+<p align="center"><b>L'IA est omniprésente sous différentes formes.</b></p  
+
+## **La connaissance**
+### Qu'est-ce qu'une connaissance ?
+
 
 <!-- ## **La représentation des connaissances** -->
 
