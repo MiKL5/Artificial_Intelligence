@@ -157,9 +157,30 @@ Une donnée est une description minimaliste d'un objet élémentaire : son exist
 Elle peut être définie par son essence sans exister (l'ensemble des nombres réels est définissable par des propriétés algébriques [son essence]). C'est un ensemble infini, ce qui n'existe pas dans la nature.  
 Une donnée peut être la définition d'élément qui n'existe pas réellement.  
 
-Et pour l'interpréter il faut plus d'éléments.  
+Néanmoins, pour l'interpréter, il faut plus d'éléments.  
 
-<!-- #### Qu'est qu'une info ? -->
+#### Qu'est-ce-qu'une information ?
+Une information est une collection de données stockées à divers degrés de façon à êtres organisées, traitées et interprétées par une entité biologique, artificielle, un système physique, etcétéra et servant de stimuli à celui-ci.  
+Chacun peut avoir une interprétation différente de la même info.
+L'info a besoin un support de mémoire (texte, cerveau humain, une unité de stockage d'un ordinateur, et cætera) ainsi que des moyens pour organiser, interpréter et traiter l'ensemble des données.  
+
+Partager une connaissance, c'est s'assurer que l'interprétation par les individus est la même.  
+
+#### Qu'est-ce-que la connaissance ?
+Une connaissance de base est une quantité d'info stockée, vraie pour un contexte.  
+Tout ensemble de connaissances de base produisant des nouvelles infos vérifiées dans un contexte. Car sans contexte, l'interprétation est compliquée.  
+Donc, une connaissance permet de savoir 'pourquoi ?' et 'comment ?' et expliquer.  
+
+C'est le résultat de que l'on apprend par la pratique ou l'étude et cela inclus la généralisation et l'abstraction d'un grand volume de données.  
+
+Le raisonement permet de
+* Penser de manière cohérente et logique ;
+* Faire des inférences <!-- (déductions) --> logiques ;
+* Créer des connaissances implicites à partir de celles explicitées.
+
+#### Qu'est-ce que la représentation ?
+C'est l'action de rendre sensible quelque chose au moyen d'une figure, d'un symbole, s'un signe.  
+↳ L'écriture est la représentation de la langue parlée par des signes graphiques (images, figure, symbole, signe qui représente un phénomène, une idée).  
 
 <!-- ## **La représentation des connaissances** -->
 
