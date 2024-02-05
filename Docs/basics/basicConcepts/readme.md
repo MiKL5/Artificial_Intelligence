@@ -70,7 +70,7 @@ Cependant,
 
 > ### Des systèmes qui agissent comme des humains
 Ils peuvent donc faire des erreurs comme n'importe quel humain.  
-Et requièrent ces capacités  
+Et requièrent ces capacités :  
 * Le traitement de la langue naturelle ;  
 * Les représentations des connaissances ;  
 * Raisonnement automatique ;
@@ -113,29 +113,29 @@ L'intelligence artificielle est une forme d'intelligence et c'est celle que l'on
 <br>
 
 ## Les domaines de l'IA (conférence européenne d'UA en 2020)
-* Agent-base and Multi-agent Systems (MAS) [Systèmes à base d'agents et systèmes multi-agents]
-* Computational Intelligence (CI) [Intelligence informatique]
-* Constraints and Satisfiability (CS) [Contraintes et satisfiabilité]
-* Games and Virtuals Environments (GAME) [Jeux et environnements virtuels]
-* Heuristique search (HEU) [Recherche heuristique]
-* Human Aspects in AI (HAI) [Aspects humains de l'IA]
-* Information Retrieval and Filtering (IRF) [Recherche d'information et filtrage]
-* Knowledge Représentation and Reasoning (KRR) [Représentation des connaissances et raisonnement]
-* Machine learning (ML) [Apprentissage automatique]
-* Multidisciplinary Topics and Applicatns (MULT) [Sujets et applications multidisciplinaires]
-* Natural Language Processing (NLP) [Traitement du langage naturel]
-* Planning and scheduling (PLAN) [Planification et ordonnancement]
-* Robotics (ROB) [Robotique]
-* Safe, Explanable, and Trustworthy IA (XAI) [IA sûre, explicable et digne de confiance]
-* Semantics Technologies (SEM) [Technologies sémantiques]
-* Uncertainty in AI (UAI) [Incertitude dans l'IA]
-* Vision (VIS)
+* Agent-base and Multi-agent Systems (MAS) [Systèmes à base d'agents et systèmes multi-agents] ;
+* Computational Intelligence (CI) [Intelligence informatique] ;
+* Constraints and Satisfiability (CS) [Contraintes et satisfiabilité] ;
+* Games and Virtuals Environments (GAME) [Jeux et environnements virtuels] ;
+* Heuristique search (HEU) [Recherche heuristique] ;
+* Human Aspects in AI (HAI) [Aspects humains de l'IA] ;
+* Information Retrieval and Filtering (IRF) [Recherche d'information et filtrage] ;
+* Knowledge Représentation and Reasoning (KRR) [Représentation des connaissances et raisonnement] ;
+* Machine learning (ML) [Apprentissage automatique] ;
+* Multidisciplinary Topics and Applicatns (MULT) [Sujets et applications multidisciplinaires] ;
+* Natural Language Processing (NLP) [Traitement du langage naturel] ;
+* Planning and scheduling (PLAN) [Planification et ordonnancement] ;
+* Robotics (ROB) [Robotique] ;
+* Safe, Explanable, and Trustworthy IA (XAI) [IA sûre, explicable et digne de confiance] ;
+* Semantics Technologies (SEM) [Technologies sémantiques] ;
+* Uncertainty in AI (UAI) [Incertitude dans l'IA] ;
+* Vision (VIS).
 
 C'est très varié. Le ML et le DL ne sont pas les seules techniques d'IA.  
 L'explicabilité est une tendance très importante actuellement. On ne va pas signer un chèque en blanc à un système que va dire comment faire ou résoudre le problème. Si le sye est capable d'argumenter la raison pour laquelle la solution qu'il propose et la bonne de son point de vue, il peut convaincre de s'inféoder. En 1994, les systèmes experts explicatifs étaient déjà utilisés. Puis, on a un peu oublié et aujourd'hui ça revient beaucoup, car l'apprentissage automatique qui peine à expliquer son comportement.  
 Certains travaux permettent de mixer différentes approches dans le but de proposer un minimum d'explications aux solutions obtenues.   
 
-<p align="center"><b>L'IA est omniprésente sous différentes formes.</b></p>  
+<p align="center"><b>L'IA est omniprésente sous différentes formes.</b></p><br>
 
 ## **La connaissance**
 ### Qu'est-ce qu'une connaissance ?
@@ -144,7 +144,7 @@ Donc, observer quelque chose d'objectif (quelqu'un agir ou lire un document) tra
 Par conséquent, la connaissance est une possession symbolique des choses. Cette représentation mentale sera réutilisée plus tard pour résoudre un problème.  
 
 ### La Pyramide des connaissances
-La connaissance est souvent présentée dans une pyramide de hiérarchie de concepts où se trouvent des données, des infos et en haut les connaissances, puis le haut ultime, la sagesse, considérée stade ultime, l'évolution cognitive, qui est l'expérience acquise et permet des recommandations et des suggestions.  
+La connaissance est souvent représentée dans une pyramide de hiérarchie de concepts où se trouvent des données, des infos et en haut les connaissances, puis le haut ultime, la sagesse, considérée stade ultime, l'évolution cognitive, qui est l'expérience acquise et permet des recommandations et des suggestions.  
 <div align="center">
 
 ![Pyramides de la connaissances](../../../assets/images/pyramideConnaissances.png)
@@ -152,37 +152,107 @@ La connaissance est souvent présentée dans une pyramide de hiérarchie de conc
 </div>
 En remontant la pyramide, les données sont très minimalistes, on passe d'une donnée à une info, puis à une connaissance, voire à la sagesse en tenant compte du contexte et de la comréhenion.  
 
-#### Qu'est-ce qu'une donnée ?
+>> #### Qu'est-ce qu'une donnée ?
 Une donnée est une description minimaliste d'un objet élémentaire : son existence, son essence<!-- (la température, un nmbre, etc)-->. <!-- Sans contexte, elle est incompréhensible. -->  
 Elle peut être définie par son essence sans exister (l'ensemble des nombres réels est définissable par des propriétés algébriques [son essence]). C'est un ensemble infini, ce qui n'existe pas dans la nature.  
 Une donnée peut être la définition d'élément qui n'existe pas réellement.  
 
 Néanmoins, pour l'interpréter, il faut plus d'éléments.  
 
-#### Qu'est-ce-qu'une information ?
+>> #### Qu'est-ce-qu'une information ?
 Une information est une collection de données stockées à divers degrés de façon à êtres organisées, traitées et interprétées par une entité biologique, artificielle, un système physique, etcétéra et servant de stimuli à celui-ci.  
 Chacun peut avoir une interprétation différente de la même info.
 L'info a besoin un support de mémoire (texte, cerveau humain, une unité de stockage d'un ordinateur, et cætera) ainsi que des moyens pour organiser, interpréter et traiter l'ensemble des données.  
 
 Partager une connaissance, c'est s'assurer que l'interprétation par les individus est la même.  
 
-#### Qu'est-ce-que la connaissance ?
+>> #### Qu'est-ce-que la connaissance ?
 Une connaissance de base est une quantité d'info stockée, vraie pour un contexte.  
 Tout ensemble de connaissances de base produisant des nouvelles infos vérifiées dans un contexte. Car sans contexte, l'interprétation est compliquée.  
 Donc, une connaissance permet de savoir 'pourquoi ?' et 'comment ?' et expliquer.  
 
 C'est le résultat de que l'on apprend par la pratique ou l'étude et cela inclus la généralisation et l'abstraction d'un grand volume de données.  
 
-Le raisonement permet de
+Le raisonnement permet de
 * Penser de manière cohérente et logique ;
 * Faire des inférences <!-- (déductions) --> logiques ;
 * Créer des connaissances implicites à partir de celles explicitées.
 
-#### Qu'est-ce que la représentation ?
+## **La représentation des connaissances**
+### Qu'est-ce que la représentation ?
 C'est l'action de rendre sensible quelque chose au moyen d'une figure, d'un symbole, s'un signe.  
-↳ L'écriture est la représentation de la langue parlée par des signes graphiques (images, figure, symbole, signe qui représente un phénomène, une idée).  
+↳ Par ex. : l'écriture est la représentation de la langue parlée par des signes graphiques (images, figure, symbole, signe qui représente un phénomène, une idée).  
 
-<!-- ## **La représentation des connaissances** -->
+La connaissance est personnelle ; pour pouvoir la partager, il faut se donner des règles d'interprétation à partir de représentation issues de la connaissance que l'on se fait.  
+
+### Comment peut-on représenter une connaissance ?
+La représentation des connaissances est un inévitable moyen pour dépasser la gestion des informations et entreprendre celle des connaissances.<!-- Gérer des infos est différents de gérer des connaissances. Derrière la connaissance, il y a la notion d'interprétaton. -->  
+Son rôle est d'échanger, de transmettre ou traiter des connaissances, il est vital de pouvoir représenter sur un support externe à notre cerveau, sous forme transmissible ou traitable.  
+C'est le support préparatoire aux traitements ultérieurs que l'on souhaite effectuer sur ces connaissances.  
+Finalement, la représentation des connaissances, c'est le traitement obligatoire à faire afin de prévoir une manipulation de ces représentations. Et, en fonction de la représentation que l'on choisit, on peut faire un ensemble des manipulations de ces représentations.  
+
+#### Modèle de représentation mental
+C'est la compréhension d'une information qui par ex. peut être exprimée textuellement ou un pictogramme par un humain.  
+
+Pour transmettre une connaissance, il va falloir un ensemble d'expression et le faire correspondre à chaque connaissance, une ou plusieurs expressions et vice versa afin de s'assurer qu'il y ait appropriation de la même connaissance.  
+Ce qui mène à la nécessité de distinguer la syntaxe et la sémantique.  
+
+### Syntaxe et sémantique
+Cela consiste à définir des conventions et règles pour écrire ce langage symbolique. Donc, définir une grammaire, ensuite, la sémantique, à savoir le manière d'interpréter de la syntaxe pour y transmettre un sens.  
+
+La sémantique est une méthode pour donner un sens aux expressions de la grammaire couplée à une méthode pour associer une ou plusieurs expressions de la grammaire à des connaissances appartenant au modèle mental de la personne.  
+<!-- ![explanationOfSemantics](explanationOfSemantics) -->
+Sachant qu'une connaissance en notre possession que l'on veut expliquer, nous devons disposer de méthode pour la traduire à l'aire des expressions d'un langage. Il s'agit de représentation ou de modélisation. Ça implique des choix :
+* Quel est le niveau de détail souhaiter ?
+* Quels sont les facteurs importants ?
+
+Et c'est ce langage de représentation qui permet de produire des signes ou expressions, qui seront interprétées de la même façon des personnes <!-- les membres de la communauté --> ou, en l'occurrence, par des systèmes informatiques, dans le but de garantir une interprétation partagée.  
+
+Cependant, il peut y avoir un conflit. S'il y a un stop et une urgence. Que faire ? Le contexte et les éléments que l'on a donnés à l'IA lui doivent permettre de prendre la bonne décision.  
+Vient avec ceci, le problème d'éthique, donc un ensemble de problème juridique :
+* Qui est responsable de la décision prise ? 
+  * Le concepteur du programme ?
+  * Le fait que les données aient été mal transmissent ?
+
+Donc, parmi les questions à se poser dans la modélisation :
+* Quel est le niveau de détail souhaitable ?<!-- !en fonction du problème à résoudre.  -->
+* Quels sont les facteurs importants ?
+
+Il faut d'abord définir les bons facteurs, pour bien choisir les méthodes de représentation.  
+
+En conclusion, représenter, c'est 
+* Approximer dans le contexte d'une tâche / activité particulière ;
+* Trouver une structure de symboles pour "décrire" une approximation d'un modèle du monde dans le contexte s'une tâche particulière ;
+* Interpréter cette structure, voire la composition de l'interprétation des différents symboles la constituant.
+
+On n'est pas dans la réalité, mais sur de la représentation. Une carte n'est pas un territoire, mais sa représentation.  
+
+Il y a pour se faire deux approches
+* Approche symbolique (_les systèmes formels_) :  
+  Il y a une correspondance entre les éléments du modèle et la représentation symbolique.  
+  L'algo manipulant ces connaissances exploite directement cette correspondance.  
+* Une approche inspirée des concepts biologiques (comme _les algorithmes génétiques_ ou _réseaux de neurones_) :
+  Les correspondances sont inspirées entre les deux modèles (réel et représenté). Néanmoins, ces correspondances autres que les entrées et les sorties sont très difficiles à mettre en exergue. Par contre, le processus de calcul de résolution de problème entre l'entrée et la sortie est difficilement explicitable. La démarche est purement calculatoire. Les méthodes les plus utilisées sont les statistiques et les probabilités.  
+<div algin="center">
+
+![Processus d'inspiration biologique](../../../assets/images/processInspBio.png)
+
+</div>
+
+Les dendrites sont les entrées du neurone qui reçoivent des influx électriques.  
+La sommation se fait en continu dans les synapses. À partir d'un certain seuil, une décharge se propage à l'axone et il va y avoir une action.  
+Au niveau du noyau, il y a une sommation, puis des synapses donnent des poids aux entrées du neurone (qui a des entrées est une sortie).  
+Cette sortie devient l'entrée d'autres neurones. D'où le connexionnisme.
+
+Mathématiquement, le modèle que se traduit, ce sont des 0 et 1 qui représentent un problème à traiter. Supposons qu'il y est en sortie qu'ue 0 et un 1, comme il y a plusieurs neurones pour le problème, il y a une sortie avec plusieurs 0 et 1.  
+
+Enfin, il y a les poids, qu'il faut calculer, puis une fonction d'activation ou de transfert permettant d'obtenir la sortie en fonction des sommations.  
+Et cette pondération est très difficile à expliquer. Il faut beaucoup d'exemples et / ou de données, d'où l'apprentissage automatique (qui n'est qu'une des techniques basée sur les ANN).  
+<br><br><div algin="center">
+
+<!-- ![Processus d'inspiration biologique](../../../assets/images/processInspgenetique.png)S -->
+
+</div>
 
 ___
 >>>**NOTA BENE**

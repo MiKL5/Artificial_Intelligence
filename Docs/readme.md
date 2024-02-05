@@ -83,6 +83,6 @@ ___
     <a href="#">
         <!-- img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/101E8BCE8EE41BE7B8718F2CCDEE1C67-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
         <!-- <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/608AA2F661846DF8855A13AF358253C1-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-        <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/422BC52DFA06E274BDA7F733D2DCAAD4-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
+        <!-- <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/422BC52DFA06E274BDA7F733D2DCAAD4-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
     </a>
 </div>
