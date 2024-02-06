@@ -1,7 +1,17 @@
 # **L'histoire de l'IA**
 
+* _**1943**_  
+  Warren McCulloch et Walter Pitts publient un article sur un modèle mathématique de neurone, posant les bases des réseaux de neurones artificiels.
+* _**1950s**_
+  Naissance de l'IA connexinniste.
+* 1950  
+  Alan Turing propose le test de Turing, un moyen d'évaluer la capacité d'une machine à exhiber un comportement intelligent équivalent à celui d'un humain.
 * _**1940 à 1960**_  
-  Naissance de l'IA dans le sillage de la cybernétique
+  Naissance de l'IA dans le sillage de la cybernétique.
+* 1956  
+  John McCarthy invente le terme "intelligence artificielle" lors de la première conférence sur le sujet. Cette même année, Allen Newell, J.C. Shaw et Herbert Simon créent le Logic Theorist, un programme capable de démontrer des théorèmes mathématiques.
+* 1957  
+  Frank Rosenblatt développe le perceptron, un type de réseau neuronal capable de résoudre des problèmes de classification simples.
 * _**1956**_  
   Naissance du terme "`intelligence artificielle`".  
   L'intelligence artificielle est reconnue en tant que discipline académique.
@@ -35,7 +45,7 @@
   Watson (IBM) gagne au Jeopardy
 * _**2012**_  
   Deep Learning
-  Apparition du Knowledge Graph dans le moteur de recherche de Google (exploite et modélise les connaissance de façon sémantique via ce grade de connaissance)
+  Apparition du Knowledge Graph dans le moteur de recherche de Google (exploite et modélise les connaissances de façon sémantique via ce grade de connaissance)
 * _**2017**_  
   Alphago (Google) gagne face au champion du monde Ke Jie
 * _**2019**_  
