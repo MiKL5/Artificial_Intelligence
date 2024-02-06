@@ -4,10 +4,12 @@ L'intelligence artificielle connexionniste est issue du connexionnisme.
 Le connexionnisme est courant issu des sciences cognitives et développé dans les années 50. Le principe fondateur de cette discipline vise à expliquer les phénomènes mentaux grâce à des réseaux de neurones formels. Appliqué au système d’apprentissage supervisé (base du machine learning tel qu’il est connu aujourd’hui, où un modèle est entraîné à partir d’un jeu d’apprentissage pour ensuite réaliser des prédictions de manière autonome), le premier algorithme d'apprentissage reposant sur cette théorie voit le jour en 1957.  
 
 Ce système s'inspire du cerveau humain pour décompose les problèmes en sous-éléments connectés entre eux.  
-L'Ia connexionniste exploite par biomimétisme des neurones biologiques et le fonctionnement empirique et expérimental de la nature (le poids des neurones est progressivement ajusté, et surtout beaucoup de calculs parallèles). Elle met en place des techniques parallélisant les problèmes et utilisant de la logique inductive, mais peu explicable. On obtient des éléments qui servent à obtenir des éléments de plus en plus précis afin d'obtenir la résolution du problème.  
+L'IA connexionniste exploite par biomimétisme des neurones biologiques et le fonctionnement empirique et expérimental de la nature. Elle met en place des techniques parallélisant les problèmes et utilisant de la logique inductive, mais peu explicable. On obtient des éléments qui servent à obtenir des éléments de plus en plus précis afin d'obtenir la résolution du problème.  
+Ces réseaux apprennent de manière itérative en analysant de grandes quantités de données, ajustant les connexions entre les neurones pour affiner leurs prédictions ou décisions.  
+Ces réseaux apprennent de manière itérative en analysant de grandes quantités de données, ajustant les connexions entre les neurones pour affiner leurs prédictions ou décisions.  
+Le deep learning est un sous-ensemble de l'IA connexionniste qui utilise des réseaux de neurones profonds pour apprendre des représentations complexes des données.  
 
-
-Les points fort sont  
+Les avantages sont  
 * L'**Apprentissage automatique**  
   Les réseaux de neurones profonds peuvent apprendre des données et s'améliorer au fil du temps, ce qui leur permet de s'adapter à de nouvelles situations et de découvrir des patterns complexes.
 * La **flexibilité**  

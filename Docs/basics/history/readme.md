@@ -2,8 +2,8 @@
 
 * _**1943**_  
   Warren McCulloch et Walter Pitts publient un article sur un modèle mathématique de neurone, posant les bases des réseaux de neurones artificiels.
-* _**1950s**_
-  Naissance de l'IA connexinniste.
+* _**1950s**_  
+  Naissance de l'IA connexionniste.
 * 1950  
   Alan Turing propose le test de Turing, un moyen d'évaluer la capacité d'une machine à exhiber un comportement intelligent équivalent à celui d'un humain.
 * _**1940 à 1960**_  
