@@ -1,4 +1,4 @@
-<h1 align="center">Artificial intelligence</h1>
+<h1 align="center">Les intelligences artificielles</h1>
 
 <div align="center">
 <h3>« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
@@ -20,7 +20,7 @@
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Histoire](basics/history "L'histoire de l'intelligence artificielle")   
 [Les craintes](basics/fears "Les caintes face à l'IA")   
-<!-- [L'IA symbolique]bisics/sai "l'IA symbolique")   -->
+[L'IA symbolique](bisics/sai "L'IA symbolique")  
 [L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
 <!-- [L'IA hybride](bisics/hai "L'intelligence artificielle hybride")   -->
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
