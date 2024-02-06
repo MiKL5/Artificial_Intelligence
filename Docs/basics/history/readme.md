@@ -41,3 +41,5 @@
 * _**2019**_  
   De très grandes quantités de données (internes à l'entreprise ou externes, tel que les réseaux sociaux) sont facilement accessibles.  
   Ainsi que la puissance de calcul des machines (processeurs et cartes graphiques) permettent de faire assez simplement de l'intelligence artificielle. Car les deux éléments dont elle a besoin sont la puissance de calcul et les données.  
+* _**2020s**_  
+  De plus en plus omniprésente dans notre vie quotidienne, avec des applications dans la santé, la finance, la transportation, etc.
