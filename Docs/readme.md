@@ -20,6 +20,9 @@
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Histoire](basics/history "L'histoire de l'intelligence artificielle")   
 [Les craintes](basics/fears "Les caintes face à l'IA")   
+<!-- [L'IA symbolique](bisics/sai "l'IA symbolique")   -->
+[L'IA connexioniste](bisics/cai 'Le réseau de neurones profond')  
+<!-- [L'IA hybride](bisics/hai "L'intelligence artificielle hybride")   -->
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
