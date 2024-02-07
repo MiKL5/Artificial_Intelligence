@@ -4,7 +4,7 @@
 <h3>« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
 <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
 <br>
-<a href="#">
+<a href="../">
     <img src="https://maze-guru.oss-accelerate.aliyuncs.com/image/AE493CE96966A0AB67A85A38E639F14F-01.jpg" title="Intelligence artificielle" height="500px">
 </a>
 
@@ -79,7 +79,7 @@ ___
 <!-- * [Les biais](machineLearning/bias "Les biais") -->
 
 <div align="center">
-    <a href="#">
+    <a href="../">
         <img src="https://cdn.maze.guru/image/CBFBD5C06B5DDDDB65DDA86552C889BC-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
     </a>
 </div>

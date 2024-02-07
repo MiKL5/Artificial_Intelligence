@@ -262,7 +262,6 @@ Et cette pondération est très difficile à expliquer. Il faut beaucoup d'exemp
 Pour ce faire, on se base sur la représentation d'un chromosome. Un chromosome est composé de gène, lui-m^me composé d'allèles et cætera. Une réprésentation numérique ce base sur ceci pour voir quelle combinaison de chromosomes permet de résoudre le problème.  
 
 ### Les formalismes symboliques
-
 Les approches logiques et non logiques sont basées sur graphes. Dans les graphes, il y a les 
 * Réseaux sémantiques ;
 * Frames ;
@@ -274,7 +273,22 @@ Le choix du formalisme à utiliser dépend
 * Des opérations à mettre en œuvre sur les connaissances ;
 * De la culture du modélisateur.
 
-Une **ontologie** est un graphe de représentation explicite d'une correspondance entre une idée mentale est son expression symboique (spécificayion explicite d'une conceptualisation).
+Une **ontologie** est un graphe de représentation explicite d'une correspondance entre une idée mentale est son expression symbolique. C'est par définition la spécification explicite d'une conceptualisation.
+
+La conceptualisation peut avoir lieu en langage formel. Ce qui permet aux algorithmes de l'exploiter.  
+
+Le but de l'ontologie est de permettre de définir un vocabulaire partagé avec des significations partagées dans une communauté afin d'y garantir la communication. Elle représente donc le vocabulaire commun, dans l'intérêt de faire des requêtes et inférences, elle _doit incontestablement être cohérente_ (contradiction impossible) et complète (contenir tous les concepts utiles).  
+L'ontologie est un puissant moyen de :
+* Lever les ambiguïtés lors des échanges ;
+* Améliorer la précision de la recherche d'informations.
+
+Donc, elle définit les comcepts, les realtion et les axiomes et inclu généralement
+* Une organistion hiérarchique des concepts pertinents ;
+* Les relations qui existent entre ces concepts ;
+* Les règles et les axiomes qui les contraignents.
+
+<!-- ### La nature d'un concept -->
+
 
 ___
 >>>**NOTA BENE**
