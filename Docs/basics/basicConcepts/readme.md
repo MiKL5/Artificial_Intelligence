@@ -282,13 +282,63 @@ L'ontologie est un puissant moyen de :
 * Lever les ambiguïtés lors des échanges ;
 * Améliorer la précision de la recherche d'informations.
 
-Donc, elle définit les comcepts, les realtion et les axiomes et inclu généralement
-* Une organistion hiérarchique des concepts pertinents ;
+Donc, elle définit les concepts, les relations et les axiomes et inclus généralement
+* Une organisation hiérarchique des concepts pertinents ;
 * Les relations qui existent entre ces concepts ;
-* Les règles et les axiomes qui les contraignents.
+* Les règles et les axiomes qui les contraignent.
 
-<!-- ### La nature d'un concept -->
+### La nature d'un concept
+C'est un nœud de l'ontologie, représente par 
+* Le terme  
+  Exprime le concept en langue
+* La notion ou l'intension  
+  Signification du concept
+* L(es)'objet(s) dénoté par le concept, aussi nommé réalisation ou extension du concept.
 
+Un terme n'est pas un concept et vice versa.  
+Le terme peut avoir plusieurs sens ≠ du concept qu'un seul sens et une seule définition. Ce qui incombe de gérer les soucis de synonymie<!-- (un concept dénoté par plusieurs termes) --> et d'homonymie<!-- (un terme dénotant plusieurs concepts) -->. 
+De la même manière, il faut définir (en intension<!--comme celle du dictionnaire-->, en extension<!--(Victor Hugo, Notre Dame de Paris)--> ou linguistique<!--"à écrit" ou "auteur de"-->) les relations pouvant exister entre les instances de ces concepts. La relation possède une signature<!--Type du prédécesseur et du successeur de la relation-->, c'est-à-dire une liste spécifiant les types d'instances qu'elle relie.
+
+Définir ces concepts permettent de déduire un ensemble d'infos.
+L'ontologie explicite des connaissances pour les récupérer.
+
+Maintenant, je recherche un livre écrit pas "HUGO."
+
+#### Ontologie est système d'information
+Dans un système d'information, l'ajout d'une connaissance taxinomique (classification) peut permettre d'améliorer considérablement les capacités des machines.   
+Sur un système d'information, on est face au
+* bruit  
+  Le sye ne fait pas la différence entre le patronyme, le prénom, la rue.
+* silence.
+  S'il rencentre le terme "roman", il ne saura pas qu'il est pertiaent à la requête ; il cherche "livre".
+
+La solution est d'expliquer au système (par des langages) quelques aspects de notre réalité du monde :
+* hommes et femmes sont de types humain ;
+* Homme ou Humain est un type d'être vivant ;
+* Les <!--documeents -->Roman et Nouvell sont des sous-types de livre ;
+* Les relations entre ces concepts et leurs signatures ;
+  * Une relation Auteur, pouvant être établie entre un Document et un Humain ;
+  * ...
+
+Le modèle a été suivi construit, on le traduit dans les éléments auquels on est confronté. Et maintenant qu'on à le modèle on peut l'intéeffoger.  
+En utilisant la logique du langage défini, le système infère qu'un
+* roman est un livre ;
+* livre est un document ;
+* romain est un document.
+
+Le système retrouve les livres écrit par Hugo.
+
+L'ontologie n'est pas une taxinomie (hierarchiie de concept) ; çz va larement au delà pour expliquer un ensemble d'axiomes et d'informations à considérer pour raisoner.
+<!--Elle peut contenir :
+* Des connaissances de composition :
+  * En chimie ;
+  * En production ;
+  * En médesine.
+* Des définition complètes ;
+* Des congtraintes d'intégrité (ch. un un livre par ISBN) ;
+* Des fonction de calcul.-->
+
+<!-- ## L'objectif de l'IA -->
 
 ___
 >>>**NOTA BENE**
