@@ -351,7 +351,8 @@ Les ontologies
 * exploitent un formalisme logique de déscription ;
 * sont utilisées pour mettre en œuvre les Knowlefge Graph utilisés pas les moteur de recherche.
 
-Il est crucial de considérer l'éthique et l'explicabilité pour développer des systèmes intelligents.  
+<h3 align="center"><b>Il est crucial de considérer l'éthique et l'explicabilité pour développer des systèmes intelligents.</b></h3>  
+
 ___
 >>>**NOTA BENE**
 >>>
