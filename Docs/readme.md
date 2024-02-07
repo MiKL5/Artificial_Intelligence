@@ -5,14 +5,10 @@
 <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
 <br>
 <a href="#">
-    <!-- <img src="img\ai.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-    <!-- <img src="img\T4JJfM4rH7ibTZXbojOQ--1--ojlrz.webp" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
     <img src="https://maze-guru.oss-accelerate.aliyuncs.com/image/AE493CE96966A0AB67A85A38E639F14F-01.jpg" title="Intelligence artificielle" height="500px">
 </a>
 
 </div>
-<br>
-<hr>
 <br>
 <div align="center">
 
@@ -22,7 +18,7 @@
 [Les craintes](basics/fears "Les caintes face à l'IA")   
 [L'IA symbolique](basics/sai "L'IA symbolique")  
 [L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
-<!-- [L'IA hybride](bisics/hai "L'intelligence artificielle hybride")   -->
+<!-- [L'IA hybride](bisics/hai "L'intelligence artificielle hybride")    -->
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
@@ -84,8 +80,6 @@ ___
 
 <div align="center">
     <a href="#">
-        <!-- img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/101E8BCE8EE41BE7B8718F2CCDEE1C67-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-        <!-- <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/608AA2F661846DF8855A13AF358253C1-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
-        <!-- <img align="center" src="https://maze-guru.oss-accelerate.aliyuncs.com/image/422BC52DFA06E274BDA7F733D2DCAAD4-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px"> -->
+        <img src="https://cdn.maze.guru/image/CBFBD5C06B5DDDDB65DDA86552C889BC-01.jpg" alt="Intelligence artificielle" title="Intelligence artificielle" height="500px">
     </a>
 </div>

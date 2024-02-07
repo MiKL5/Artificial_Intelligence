@@ -232,7 +232,10 @@ Il y a pour se faire deux approches
   Il y a une correspondance entre les éléments du modèle et la représentation symbolique.  
   L'algo manipulant ces connaissances exploite directement cette correspondance.  
 * Une approche inspirée des concepts biologiques (comme _les algorithmes génétiques_ ou _réseaux de neurones_) :
-  Les correspondances sont inspirées entre les deux modèles (réel et représenté). Néanmoins, ces correspondances autres que les entrées et les sorties sont très difficiles à mettre en exergue. Par contre, le processus de calcul de résolution de problème entre l'entrée et la sortie est difficilement explicitable. La démarche est purement calculatoire. Les méthodes les plus utilisées sont les statistiques et les probabilités.  
+  Les correspondances sont inspirées entre les deux modèles (réel et représenté). Néanmoins, ces correspondances autres que les entrées et les sorties sont très difficiles à mettre en exergue. Par contre, le processus de calcul de résolution de problème entre l'entrée et la sortie est difficilement explicable. La démarche est purement calculatoire. Les méthodes les plus utilisées sont les statistiques et les probabilités.  
+<br>
+
+#### **Réseau de neurones**
 <div algin="center">
 
 ![Processus d'inspiration biologique](../../../assets/images/processInspBio.png)
@@ -248,11 +251,30 @@ Mathématiquement, le modèle que se traduit, ce sont des 0 et 1 qui représente
 
 Enfin, il y a les poids, qu'il faut calculer, puis une fonction d'activation ou de transfert permettant d'obtenir la sortie en fonction des sommations.  
 Et cette pondération est très difficile à expliquer. Il faut beaucoup d'exemples et / ou de données, d'où l'apprentissage automatique (qui n'est qu'une des techniques basée sur les ANN).  
-<br><br><div algin="center">
+<br>
 
-<!-- ![Processus d'inspiration biologique](../../../assets/images/processInspgenetique.png)S -->
+#### **Les algorithmes génétiques**
+<div algin="center">
+
+![Processus d'inspiration biologique](../../../assets/images/processInspgenetique.png)
 
 </div>
+Pour ce faire, on se base sur la représentation d'un chromosome. Un chromosome est composé de gène, lui-m^me composé d'allèles et cætera. Une réprésentation numérique ce base sur ceci pour voir quelle combinaison de chromosomes permet de résoudre le problème.  
+
+### Les formalismes symboliques
+
+Les approches logiques et non logiques sont basées sur graphes. Dans les graphes, il y a les 
+* Réseaux sémantiques ;
+* Frames ;
+* Graphes conceptuels ;
+* Ontologies.  
+
+Le choix du formalisme à utiliser dépend 
+* Du domaine d'application ;
+* Des opérations à mettre en œuvre sur les connaissances ;
+* De la culture du modélisateur.
+
+Une **ontologie** est un graphe de représentation explicite d'une correspondance entre une idée mentale est son expression symboique (spécificayion explicite d'une conceptualisation).
 
 ___
 >>>**NOTA BENE**
