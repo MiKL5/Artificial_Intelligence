@@ -12,13 +12,13 @@
 <br>
 <div align="center">
 
-[Quelques concepts pour comprendre](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est l'intelligence artificielle") <kbd>_**Wip**_</kbd>   
+[Quelques concepts pour comprendre](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est l'intelligence artificielle")  
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Histoire](basics/history "L'histoire de l'intelligence artificielle")   
 [Les craintes](basics/fears "Les caintes face à l'IA")   
 [L'IA symbolique](basics/sai "L'IA symbolique")  
 [L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
-<!-- [L'IA hybride](bisics/hai "L'intelligence artificielle hybride")    -->
+[L'IA hybride](bisics/hai "L'intelligence artificielle hybride") <kbd>_**Wip**_</kbd>  
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
