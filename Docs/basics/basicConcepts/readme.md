@@ -328,7 +328,7 @@ En utilisant la logique du langage défini, le système infère qu'un
 
 Le système retrouve les livres écrit par Hugo.
 
-L'ontologie n'est pas une taxinomie (hierarchiie de concept) ; çz va larement au delà pour expliquer un ensemble d'axiomes et d'informations à considérer pour raisoner.
+L'ontologie n'est pas une taxinomie (hierarchiie de concept) ; ça va larement au delà pour expliquer un ensemble d'axiomes et d'informations à considérer pour raisoner.
 <!--Elle peut contenir :
 * Des connaissances de composition :
   * En chimie ;
@@ -338,8 +338,20 @@ L'ontologie n'est pas une taxinomie (hierarchiie de concept) ; çz va larement a
 * Des congtraintes d'intégrité (ch. un un livre par ISBN) ;
 * Des fonction de calcul.-->
 
-<!-- ## L'objectif de l'IA -->
+## L'objectif de l'IA
+Le but est de construire des artefacts intelligents pour l'IA.  
 
+La représentation des connaissance sert à 
+* simuler le raisonnement humain <!--(c'est donc une approche de l'AI) -->;
+* expliquer la démarhe suivie pour atteindre la résolution de problème.
+
+Les ontologies 
+<!-- * serventà mettre en place cette explicaon -->
+* Sont mises en application via les applis web dans le casre du web des données et en s'appuyant sur les technologies du web sémantique ;
+* exploitent un formalisme logique de déscription ;
+* sont utilisées pour mettre en œuvre les Knowlefge Graph utilisés pas les moteur de recherche.
+
+Il est crucial de considérer l'éthique et l'explicabilité pour développer des systèmes intelligents.  
 ___
 >>>**NOTA BENE**
 >>>
