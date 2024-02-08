@@ -1,6 +1,6 @@
 **L’intelligence artificielle hydride**  
 
-Elle est la jonction de l'IA [connexionniste](../cai/) et de l'IA [symbolique](../sai/).  
+Elle est la jonction de l'IA [symbolique](../sai/) et de l'IA [connexionniste](../cai/).  
 
 L'IA hybride tire donc parti des forces de chaque approche afin de créer des systèmes plus intelligents et plus performants.  
 
