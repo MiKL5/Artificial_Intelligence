@@ -17,7 +17,9 @@
 [Les craintes](basics/fears "Les caintes face à l'IA")   
 [L'IA symbolique](basics/sai "L'IA symbolique")  
 [L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
-[L'IA hybride](bisics/hai "L'intelligence artificielle hybride") <kbd>_**Soon**_</kbd>  
+[L'IA hybride](basics/hai "L'intelligence artificielle hybride") <kbd>_**Soon**_</kbd>  
+[L'IA multimodale](basics/mai "L'intelligence artificielle multimodale")  
+[L'IA hybride versus l'IA multimodale](basics/haiVsMai/ "L'intelligence artificielle hybride vs l'IA multimodale")  
 [Les quatre phases de développement de l'IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L'IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L'intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
