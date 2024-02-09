@@ -10,9 +10,9 @@
 </div>
 <br>
 
-[Quelques concepts pour comprendre](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est l'intelligence artificielle")  
+[Quelques concepts de bazse](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
-[Histoire](basics/history "L'histoire de l'intelligence artificielle")   
+[Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")   
 [Les craintes](basics/fears "Les caintes face à l'IA")   
 [L'IA symbolique](basics/sai "L'IA symbolique")  
 [L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
