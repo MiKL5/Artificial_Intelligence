@@ -9,7 +9,6 @@
     </a>
 </div>
 <br>
-<div align="center">
 
 [Quelques concepts pour comprendre](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est l'intelligence artificielle")  
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
@@ -28,8 +27,6 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
-
-</div>
 
 ___
 
