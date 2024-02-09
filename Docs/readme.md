@@ -10,7 +10,7 @@
 </div>
 <br>
 
-[Quelques concepts de bazse](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
+[Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
 [Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")   
 [Les craintes](basics/fears "Les caintes face à l'IA")   
@@ -27,7 +27,6 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
-
 ___
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
@@ -36,45 +35,45 @@ ___
 [Stratégie vs plan](StatégieVSplan "Stratégie vs plan")  
 [Pénalité de vie](PenaliteDeVie "Pénalité de vie")  
 
-**Q-learning**  
-- [Intuition](Q-learningIntuition "Q-Learning, Intuition")  
-- [Différence temporelle](timeDifference "Différence temporelle")  
-- [Q-learning visualisation](Q-learningVisualisaition "Q-learning visualisation")  
+## **Q-learning**  
+[Intuition](Q-learningIntuition "Q-Learning, Intuition")  
+[Différence temporelle](timeDifference "Différence temporelle")  
+[Q-learning visualisation](Q-learningVisualisaition "Q-learning visualisation")  
 
-**Réseaux de neurones artificiels**  
-* [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond")  
-* [Le neurone](ArtificiallNeuralNetwork/Neuron "Le neurone")  
-* [La fonction d'activation](ArtificiallNeuralNetwork/activationFunction "La fonction d'activation")  
-* [Comment fonctionnent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment fonctionnenet les réseaux de neurones artificiels")  
-* [Comment apprennent les ANNs](ArtificiallNeuralNetwork/HowANNsLearn "Comment apprennent les réseaux de neurones artificiels")  
-* [Algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
-* [Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
-* [Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
+## **Réseaux de neurones artificiels**  
+[C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond")  
+[Le neurone](ArtificiallNeuralNetwork/Neuron "Le neurone")  
+[La fonction d'activation](ArtificiallNeuralNetwork/activationFunction "La fonction d'activation")  
+[Comment fonctionnent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment fonctionnenet les réseaux de neurones artificiels")  
+[Comment apprennent les ANNs](ArtificiallNeuralNetwork/HowANNsLearn "Comment apprennent les réseaux de neurones artificiels")  
+[Algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
+[Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
+[Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
 
-<!-- **Réseau de neurone à convolution**
-* [Définition]( 'Qu'est qu'un réseau de neurone à convolution)
-* [Convolution]()
-* [Couche ReLU]()
-* [Pooling]()
-* [Flattening]()
-* [Full conection]()
-* [Fonction `softmax` et entropie croisée]() -->
+<!-- ##**Réseau de neurone à convolution**
+[Définition]( 'Qu'est qu'un réseau de neurone à convolution)  
+[Convolution]()  
+[Couche ReLU]()  
+[Pooling]()  
+[Flattening]()  
+[Full conection]()  
+[Fonction `softmax` et entropie croisée]() -->
 
 ## **Deep learning**
-**Deep Q-learning**
-* [Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")  
-* [Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")
+### **Deep Q-learning**
+[Comment ça marche ?](Deep_Q-Learning_intuition/ccm "Comment ça marche")    
+[Experience replay](Deep_Q-Learning_intuition/experienceReplay "Experience replay")  
 
-**Deep Q learning à convolution**
-* [Intuition](Convolutional_Deep_Q-learning/Intuition)  
-* [Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")
+### **Deep Q learning à convolution**
+[Intuition](Convolutional_Deep_Q-learning/Intuition)    
+[Eligibility Trace](Convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")  
 
 ## **Machine learning**
-* [Définition](machineLearning/definition "Définition de l'apprentissage automatique")
-* [L'abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")
-* [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")
-* [Les modèles](machineLearning/models "Les modèles de machine learning")
-<!-- * [Les biais](machineLearning/bias "Les biais") -->
+[Définition](machineLearning/definition "Définition de l'apprentissage automatique")  
+[L'abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")  
+[Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")  
+[Les modèles](machineLearning/models "Les modèles de machine learning")  
+<!-- [Les biais](machineLearning/bias "Les biais") -->
 
 <div align="center">
     <a href="../">
