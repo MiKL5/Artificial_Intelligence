@@ -1,4 +1,4 @@
-<h1 align="center">Les intelligences artificielles</h1>
+<h1 align="center"><b>Les intelligences artificielles</b></h1>
 
 <div align="center">
     <h3>« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
@@ -11,9 +11,9 @@
 <br>
 
 [Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
-[Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")   
-[Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")   
-[Les craintes](basics/fears "Les caintes face à l'IA")   
+[Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")  
+[Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
+[Les craintes](basics/fears "Les caintes face à l'IA")  
 [L'IA symbolique](basics/sai "L'IA symbolique")  
 [L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
 [L'IA hybride](basics/hai "L'intelligence artificielle hybride")  
