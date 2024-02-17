@@ -10,7 +10,7 @@
   Cela fait émerger des emplois dans la date, tel que data analyst, data scientist, data engineer.
 * ### Le risque de détournement et de malveillance  
   Les internautes peuvent apprendre des grossièretés aux chatbots, jusqu'aux propos racistes, ce qui biaise des IA jusqu'à devenir malveillantes. Le principe [ethic by design](../../basics/ethicByDesign) sus-cité vient réduire ce risque. Car il impose aux systèmes d'IA d'êtres équitables et non discriminatoires.
-* ### Ce seraient des boîtes noires  
+* ### Son fonctionnement est nébuleux 
   Le fait de ne pas savoir comment elle réalise une tâche.  
   C'est-à-dire qu'on la nourrit de données en entrée. On voit ce qu'il en ressort. Mais que se passe-t-il au milieu ? Ça ne se voit pas.  
   Au final, ça reste une logique mathématique dont l'utilisateur n'a aucune maîtrise.
