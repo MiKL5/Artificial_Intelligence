@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#8b000099",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#8B0000"
+    "peacock.color": "#8B0000",
+    "CodeGPT.query.language": "French",
+    "excalidraw.language": "fr-FR",
+    "dotnet.defaultSolution": "disable"
 }
