@@ -5,7 +5,7 @@
     <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
     <br>
     <a href="../">
-        <img src="https://maze-guru.oss-accelerate.aliyuncs.com/image/AE493CE96966A0AB67A85A38E639F14F-01.jpg" alt="Les intelligences artificielles" height="500px">
+        <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="500px">
     </a>
 </div>
 <br>
@@ -77,6 +77,6 @@ ___
 
 <div align="center">
     <a href="../">
-        <img src="https://cdn.maze.guru/image/CBFBD5C06B5DDDDB65DDA86552C889BC-01.jpg" title="Les intelligences artificielles" height="500px">
+        <img src="../assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f43424642443543303642354444444442363544444138363535324338383942432d30312e6a7067.png" title="Les intelligences artificielles" height="500px">
     </a>
 </div>
