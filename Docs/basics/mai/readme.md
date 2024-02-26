@@ -1,10 +1,10 @@
 # **L'intelligence artificielle multimodale**
 
-L'**IA multimodale** est une intelligence artificielle qui voit, entend et comprend.  
+L'**IA multimodale** est une intelligence artificielle qui <mark>voit, entend et comprend</mark>.  
 
 L'IA multimodale est une technologie qui s'inspire de la façon dont les humains perçoivent le monde. Elle combine plusieurs sources de données, telles que le texte, la voix, les images et les vidéos, pour obtenir une compréhension plus riche et plus précise de l'environnement.  
 
-En d'autres termes, elle imite le fonctionnement d'un cerveau humain qui peut traiter et interpréter différentes formes d'informations en même temps, comme le texte, la voix, les images et les données.
+En d'autres termes, elle <mark>imite le fonctionnement d'un cerveau humain qui peut traiter et interpréter différentes formes d'informations en même temps</mark>, comme le texte, la voix, les images et les données.
 
 Comment fonctinne une IA multimodale ?
 1. **Fusion des données** parcequ'elle rassemble des informations provenant de différentes sources, comme des capteurs, des microphones et des caméras ;
