@@ -7,7 +7,7 @@ L'intelligence artificielle symbolique est un courant de l'intelligence artifici
 Travaille à la manipulation logique de symboles pour faire un ensemble d'opérations afin de résoudre des associant, des règles, des faits et des raisonnements émanant de l'analyse humaine. Donc, l'agent simule, reproduit ces déductions via les manipulations de symboles.  
 
 L'IA symbolique a pour avantages  
-* La **ransparence**  
+* La **transparence**  
   Les règles et les symboles utilisés par l'IA symbolique sont facilement compréhensibles par les humains, ce qui rend cette approche plus transparente et plus facile à déboguer.
 * L'**interprétabilité**  
   Les décisions prises par les systèmes d'IA symbolique peuvent être expliquées et justifiées, ce qui est important dans des domaines sensibles comme la médecine ou la finance.
