@@ -1,7 +1,7 @@
 <h1 align="center"><b>Les intelligences artificielles</b></h1>
 
 <div align="center">
-    <dfn><h3>« Uneintelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4></dfn>
+    <h3>« Uneintelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
     <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
     <br>
     <a href="../">
