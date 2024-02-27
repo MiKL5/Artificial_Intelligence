@@ -1,7 +1,7 @@
 <h1 align="center"><b>Les intelligences artificielles</b></h1>
 
 <div align="center">
-    <h3>« L’intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
+    <dfn><h3>« Uneintelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4></dfn>
     <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
     <br>
     <a href="../">
@@ -14,7 +14,7 @@
 [Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")  
 [Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
 [L'IA symbolique](basics/sai "L'IA symbolique")  
-[L'IA connexionniste](basics/cai 'Le réseau de neurones profond')  
+[L'IA connexionniste](basics/cai "L'IA connexioniste ⟶ le réseau de neurones profond")  
 [L'IA hybride](basics/hai "L'intelligence artificielle hybride")  
 [L'IA multimodale](basics/mai "L'intelligence artificielle multimodale")  
 [L'IA hybride versus l'IA multimodale](basics/haiVsMai/ "L'intelligence artificielle hybride vs l'IA multimodale")  
@@ -77,6 +77,6 @@ ___
 
 <div align="center">
     <a href="../">
-        <img src="../assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f43424642443543303642354444444442363544444138363535324338383942432d30312e6a7067.png" title="Les intelligences artificielles" height="500px">
+        <img src="../assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f43424642443543303642354444444442363544444138363535324338383942432d30312e6a7067.png" height="500px">
     </a>
 </div>
