@@ -27,6 +27,10 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
+<!-- ___ -->
+<!-- [Le Gig Data](basics/bigData)   -->
+<!-- [l'informatique quantique](others/iq)   -->
+<!-- [Le Quality monitoring](others/qualityMonitoring/)   -->
 ___
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
