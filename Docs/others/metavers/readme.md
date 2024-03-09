@@ -25,15 +25,23 @@ Le métavers est encore en développement, mais il a le potentiel de révolution
 
 Le métavers est un concept ambitieux et son développement prendra du temps. Cependant, il a le potentiel de devenir une plateforme révolutionnaire qui changera la façon dont nous interagissons avec le monde numérique.
 
+## **Le développement du métavers**
 Voici quelques exemples de plateformes qui contribuent au développement du métavers :
 * Jeux vidéo : Fortnite, Roblox, Second Life
 * Réseaux sociaux : Facebook, VRChat
 * Plateformes de réalité virtuelle : Oculus Quest, HTC Vive
 * Crypto-monnaies : Bitcoin, Ethereum
 
+## **Les plateformes du métavers**
+* Second Life
+* Fortnite
+* Roblox
+* Decentraland
+* The Sandbox
+
 ___
-Pour en savoir plus sur le métavers, vous pouvez consulter les ressources suivantes :  
-https://en.wikipedia.org/wiki/Metaverse  
-https://fr.wikipedia.org/wiki/M%C3%A9tavers  
-https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know  
-https://www.e-marketing.fr/Definitions-Glossaire/Metavers-ou-metaverse-Definition-et-principe-378267.htm  
+>>> Pour en savoir plus sur le métavers, vous pouvez consulter les ressources suivantes :  
+> https://en.wikipedia.org/wiki/Metaverse  
+> https://fr.wikipedia.org/wiki/M%C3%A9tavers  
+> https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know  
+> https://www.e-marketing.fr/Definitions-Glossaire/Metavers-ou-metaverse-Definition-et-principe-378267.htm  
