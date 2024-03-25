@@ -27,10 +27,6 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
-<!-- ___ -->
-<!-- [Le Gig Data](basics/bigData)   -->
-<!-- [l'informatique quantique](others/iq)   -->
-<!-- [Le Quality monitoring](others/qualityMonitoring/)   -->
 ___
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
@@ -41,8 +37,8 @@ ___
 
 ## **Q-learning**  
 [Intuition](Q-learningIntuition "Q-Learning, Intuition")  
-[Différence temporelle](timeDifference "Différence temporelle")  
-[Q-learning visualisation](Q-learningVisualisaition "Q-learning visualisation")  
+[La différence temporelle](timeDifference "Différence temporelle")  
+[Le Q-learning visualisation](Q-learningVisualisaition "Q-learning visualisation")  
 
 ## **Réseaux de neurones artificiels**  
 [C'est quoi le Deep-Learning](ArtificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond")  
@@ -50,18 +46,27 @@ ___
 [La fonction d'activation](ArtificiallNeuralNetwork/activationFunction "La fonction d'activation")  
 [Comment fonctionnent les ANNs](ArtificiallNeuralNetwork/HowANNswork "Comment fonctionnenet les réseaux de neurones artificiels")  
 [Comment apprennent les ANNs](ArtificiallNeuralNetwork/HowANNsLearn "Comment apprennent les réseaux de neurones artificiels")  
-[Algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
-[Algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
-[Retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
+[L'algorithme du Gradient](ArtificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
+[L'algorithme du Gradient Stochastique](ArtificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
+[La retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
 
-<!-- ##**Réseau de neurone à convolution**
-[Définition]( 'Qu'est qu'un réseau de neurone à convolution)  
-[Convolution]()  
-[Couche ReLU]()  
-[Pooling]()  
-[Flattening]()  
-[Full conection]()  
-[Fonction `softmax` et entropie croisée]() -->
+<!-- ## **Réseau de neurone à convolution**
+[Définition]( 'Qu'est qu'un réseau de neurone à convolution)  -->
+<!-- [Convolution]()   -->
+<!-- [Couche ReLU]()   -->
+<!-- [Pooling]()   -->
+<!-- [Flattening]()   -->
+<!-- [Full conection]()   -->
+<!-- [Fonction `softmax` et entropie croisée]()  -->
+
+## **Réseaux de Neurones Récurrents**
+[Définition](rnn)
+<!-- [Les LSTM](rnn/LSTM) -->
+<!-- [Les GRU](rnn/GRU) -->
+
+## **Réseau de neurones séquence à séquence**
+[Définition](Seq2Seq)  
+[Les réseaux de neurones transformers](Seq2Seq/transformers)  
 
 ## **Deep learning**
 ### **Deep Q-learning**
@@ -78,6 +83,16 @@ ___
 [Les types d'apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")  
 [Les modèles](machineLearning/models "Les modèles de machine learning")  
 <!-- [Les biais](machineLearning/bias "Les biais") -->
+<!-- ## **Thompson sampling** -->
+## **Les grands modèles de langage**
+[Qu'est-ce qu'un LLM ?](other/llm)  
+[Qu'est-ce qu'un MLLM ?](other/mllm) 
+___ 
+## **Autres sujets**
+<!--  [Le Big Data](other/bigData)  -->
+[Le métavers](other/metavers)
+<!-- [l'informatique quantique](other/iq)  -->
+<!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
 
 <div align="center">
     <a href="../">
