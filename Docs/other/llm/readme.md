@@ -2,7 +2,7 @@
 LLM signifie Large Language Model (en français, grand modèle de langage). Il s'agit d'un type d'intelligence artificielle (IA) capable de traiter et de générer du langage naturel à grande échelle.
 
 ## **Comment ça fonctionne ?**
-Les LLM sont basés sur des réseaux de neurones profonds, en particulier des [transformers](ArtificiallNeuralNetwork/transformers).
+Les LLM sont basés sur des réseaux de neurones profonds, en particulier des [transformers](../../Seq2Seq/transformers).
 Ils sont entraînés sur d'énormes ensembles de données textuelles, ce qui leur permet d'apprendre les structures et les patterns du langage.
 Ils peuvent ensuite effectuer diverses tâches liées au langage, comme la traduction, la génération de texte, la réponse aux questions et la synthèse de contenu.
 
