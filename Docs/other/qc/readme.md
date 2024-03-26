@@ -25,3 +25,5 @@ L'IA et l'informatique quantique sont des technologies complémentaires qui peuv
   Pour développer des outils de développement pour l'informatique quantique.
 * **Microsoft Quantum**  
   Initiative visant à développer des logiciels quantiques et à créer de nouvelles applications quantiques pour le cloud computing.
+
+L'informatique quantique et l'IA sont des technologies prometteuses qui ont le potentiel de se révolutionner mutuellement. Ça demande du temps et des efforts pour maîtriser les défis techniques. L'informatique quantique sur l'IA et amené à ce développe progressivement dans les prochaines années.
