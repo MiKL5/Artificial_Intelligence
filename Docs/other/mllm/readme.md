@@ -1,5 +1,5 @@
 # **Multimodal Large Language Model (MLLM), en français, modèle de langage large multimodal**
-Un MLLM, qui signifie "Multimodal Large Language Model" en français, est un type avancé de modèle de langage capable de comprendre et de générer des données sous plusieurs formes. En plus du texte, cela peut inclure des images, des sons et d'autres types de données sensorielles.
+Un MLLM, qui signifie "Multimodal Large Language Model", en français Modèle Multimodal de Langage Volumineux. C'est un type avancé de modèle de langage capable de comprendre et de générer des données sous plusieurs formes. En plus du texte, cela peut inclure des images, des sons et d'autres types de données sensorielles.
 
 Ce qui confère aux MLLM un avantage considérable sur les modèles de langage traditionnels. Assimilable à la capacité de voir le monde à travers plusieurs sens, tout comme nous le faisons en tant qu'êtres humains.  
 
