@@ -90,8 +90,8 @@ ___
 ___ 
 ## **Autres sujets**
 <!--  [Le Big Data](other/bigData)  -->
-[Le métavers](other/metavers)
-<!-- [l'informatique quantique](other/iq)  -->
+[Le métavers](other/metavers)  
+[l'informatique quantique](other/iq) 
 <!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
 
 <div align="center">
