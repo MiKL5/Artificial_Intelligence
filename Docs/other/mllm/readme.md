@@ -11,6 +11,6 @@ Voici le genre d'interaction que les MLLM ont le potentiel de permettre.
 * Interagir avec le monde de manière plus naturelle  
   Imaginez un assistant virtuel qui peut non seulement comprendre nos questions parlées, mais aussi montrer des images ou des vidéos pour illustrer ses réponses.
 
-## **En Conclusion**
+## **En conclusion**
 Les MLLM représentent une avancée significative dans le domaine du traitement du langage naturel. Ils permettent une meilleure compréhension du langage et ouvrent la voie à de nouvelles possibilités passionnantes pour l'interaction homme-machine.
 
