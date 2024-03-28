@@ -15,7 +15,12 @@
         "statusBar.border": "#8b0000",
         "statusBar.debuggingBorder": "#008b8b",
         "titleBar.border": "#8b0000",
-        "tab.activeBorder": "#be0000"
+        "titleBar.activeForeground": "#fff",
+        "titleBar.inactiveForeground": "#000",
+        "tab.activeBorder": "#be0000",
+        "editorError.foreground": "#000000ff",
+        "editorInfo.foreground": "#000000ff",
+        "editorWarning.foreground": "#000000ff"
     },
     "peacock.color": "#8B0000",
     "CodeGPT.query.language": "French",
