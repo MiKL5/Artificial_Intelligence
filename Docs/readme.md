@@ -84,14 +84,16 @@ ___
 [Les modèles](machineLearning/models "Les modèles de machine learning")  
 <!-- [Les biais](machineLearning/bias "Les biais") -->
 <!-- ## **Thompson sampling** -->
+<!-- [Définition]() -->
 ## **Les grands modèles de langage**
 [Qu'est-ce qu'un LLM ?](other/llm)  
 [Qu'est-ce qu'un MLLM ?](other/mllm) 
 ___ 
+
 ## **Autres sujets**
-<!--  [Le Big Data](other/bigData)  -->
+<!-- [Le Big Data](other/bigData)   -->
 [Le métavers](other/metavers)  
-[L'informatique quantique](other/qc)   
+[L'informatique quantique](other/qc)  
 <!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
 
 <div align="center">
