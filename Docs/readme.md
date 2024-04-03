@@ -51,7 +51,7 @@ ___
 [La retropropagation](ArtificiallNeuralNetwork/Retropropagation "La retropropagation")
 
 <!-- ## **Réseau de neurone à convolution**
-[Définition]( 'Qu'est qu'un réseau de neurone à convolution)  -->
+[Définition](. "Qu'est qu'un réseau de neurone à convolution")  -->
 <!-- [Convolution]()   -->
 <!-- [Couche ReLU]()   -->
 <!-- [Pooling]()   -->
