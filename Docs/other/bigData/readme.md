@@ -22,5 +22,7 @@ Le Big Data, prend tout son sens grâce à l'IA. L'analyse de vastes ensembles d
   L'IA peut analyser les données historiques et les tendances actuelles pour prédire des événements futurs, comme à la demande des consommateurs, les pannes d'équipement ou les risques financiers.
 * Détection de fraude  
   Les algorithmes d'IA peuvent analyser les transactions financières et les comportements des utilisateurs pour identifier des activités frauduleuses.
+* Analyse du sentiment  
+  Les outils d'IA analysent de grands volumes de texte, tel que les avis des clients, les publications sur les réseaux sociaux et les articles de presse, pour identifier les sentiments et les opinions exprimés. Ces informations permettent aux entreprises de mieux comprendre la perception de leurs produits et services, de mesurer l'impact de leurs campagnes marketing et de détecter d'éventuels problèmes de satisfaction client.
 * Recommandation personnalisée  
   L'IA peut analyser les préférences des utilisateurs et leurs habitudes d'achat pour leur proposer des produits ou des services pertinents.
