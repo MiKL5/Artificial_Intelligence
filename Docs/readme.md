@@ -91,7 +91,7 @@ ___
 ___ 
 
 ## **Autres sujets**
-<!-- [Le Big Data](other/bigData)   -->
+[Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
 [L'informatique quantique](other/qc)  
 <!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
