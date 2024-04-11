@@ -47,9 +47,12 @@
   Deep Learning
   Apparition du Knowledge Graph dans le moteur de recherche de Google (exploite et modélise les connaissances de façon sémantique via ce grade de connaissance)
 * _**2017**_  
-  Alphago (Google) gagne face au champion du monde Ke Jie
+  Alphago (Google) gagne face au champion du monde Ke Jie.  
+  Google introduit le réseau de neurones Open Source "_transformer_", une référence en traitement automatique du langage.
 * _**2019**_  
   De très grandes quantités de données (internes à l'entreprise ou externes, tel que les réseaux sociaux) sont facilement accessibles.  
   Ainsi que la puissance de calcul des machines (processeurs et cartes graphiques) permettent de faire assez simplement de l'intelligence artificielle. Car les deux éléments dont elle a besoin sont la puissance de calcul et les données.  
 * _**2020s**_  
   De plus en plus omniprésente dans notre vie quotidienne, avec des applications dans la santé, la finance, la transportation, etc.
+* _**2021**_  
+  L'IA générative.
