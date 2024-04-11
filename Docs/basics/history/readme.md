@@ -55,4 +55,4 @@
 * _**2020s**_  
   De plus en plus omniprésente dans notre vie quotidienne, avec des applications dans la santé, la finance, la transportation, etc.
 * _**2021**_  
-  L'IA générative.
+  Bien qu'elle soit née en 2010 via les réseaux neuronaux génératifs adverses (GAN). Essor de l'IA générativen.
