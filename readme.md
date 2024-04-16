@@ -1,7 +1,7 @@
 <h1 align="center"><b>Les intelligences artificielles</b></h1>
 
 <div align="center"> 
-    <a href="Docs"><img src="assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f38313545433145413641453042363235453245333832314334384242463941322d30312e6a7067.png" alt="Les intelligences artificielles" height="500px"></a>
+    <a href="Docs"><img src="assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f38313545433145413641453042363235453245333832314334384242463941322d30312e6a7067.png" alt="Les intelligences artificielles" height="300px"></a>
     <br>
     <br>
 
