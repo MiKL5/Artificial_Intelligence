@@ -16,7 +16,7 @@
   Au final, ça reste une logique algorithmique dont l'utilisateur n'a aucune maîtrise.
 * ### La menace sur la vie privée
   Malgré le RGPD, plus l'intelligence artificielle apprend de l'utilisateur, plus elle devient efficace.  
-  En effet, c'est avant tout un agent qui traite d'immenses bases de données de façon algorithmique. Chaque utilisateur à son agent qui a pour savoir ces bases de données ainsi que les propos qu'il lu tient.  
+  En effet, c'est avant tout un agent qui traite d'immenses bases de données de façon algorithmique. Chaque utilisateur à son agent qui a pour savoir ces bases de données ainsi que les propos qu'il lui tient.  
   L'[ethic by design](../../basics/ethicByDesign), le [privacy by design](../../basics/privacyByDesign), ainsi que [privacy by default](../../basics/privacyByDefault) permettent à l'utilisateur d'accordé une certaine confiance en cet agent. Nonobstant, le but de l'IA est de correspondre aux attentes du public. Ainsi, une IA génératrice d'image aura tendance à proposer des résultats plus pertinents au fur et à mesure. Les IA conversationnelles telles que "ChatGPT" ou "Gemini" en font de même. En d'autres termes, pour obtenir l'IA-art que j'imagine, je dois donner un contexte afin que le résultat final si approche le plus.
 
 > Conclusion  
