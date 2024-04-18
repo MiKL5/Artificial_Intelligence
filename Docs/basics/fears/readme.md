@@ -13,11 +13,11 @@
 * ### Son fonctionnement est nébuleux 
   Le fait de ne pas savoir comment elle réalise une tâche.  
   C'est-à-dire qu'on la nourrit de données en entrée. On voit ce qu'il en ressort. Mais que se passe-t-il au milieu ? Ça ne se voit pas.  
-  Au final, ça reste une logique mathématique dont l'utilisateur n'a aucune maîtrise.
+  Au final, ça reste une logique algorithmique dont l'utilisateur n'a aucune maîtrise.
 * ### La menace sur la vie privée
   Malgré le RGPD, plus l'intelligence artificielle apprend de l'utilisateur, plus elle devient efficace.  
-  En effet, c'est avant tout un agent qui traite de très grandes bases de données de façon algorithmique. Chaque utilisateur à son agent qui a pour savoir ces bases de données ainsi que les propos qu'il tient à cet agent.  
-  L'[ethic by design](../../basics/ethicByDesign), le [privacy by design](../../basics/privacyByDesign), ainsi que [privacy by default](../../basics/privacyByDefault) permettent à l'utilisateur d'accordé une certaine confiance en cet agent. Nonobstant, le but de l'IA est de correspondre aux attentes du public. Ainsi, une IA génératrice d'image aura tendance à proposer des résultats plus pertinents au fur et à mesure. Les IA conversationnelles telles que "ChatGPT" ou "Bard" en font de même. En d'autres termes, pour obtenir l'IA-art que j'imagine, je dois donner un contexte afin que le résultat final si approche le plus.
+  En effet, c'est avant tout un agent qui traite d'immenses bases de données de façon algorithmique. Chaque utilisateur à son agent qui a pour savoir ces bases de données ainsi que les propos qu'il lu tient.  
+  L'[ethic by design](../../basics/ethicByDesign), le [privacy by design](../../basics/privacyByDesign), ainsi que [privacy by default](../../basics/privacyByDefault) permettent à l'utilisateur d'accordé une certaine confiance en cet agent. Nonobstant, le but de l'IA est de correspondre aux attentes du public. Ainsi, une IA génératrice d'image aura tendance à proposer des résultats plus pertinents au fur et à mesure. Les IA conversationnelles telles que "ChatGPT" ou "Gemini" en font de même. En d'autres termes, pour obtenir l'IA-art que j'imagine, je dois donner un contexte afin que le résultat final si approche le plus.
 
 > Conclusion  
 **L'utilisateur reste seul responsable des infos qu'il donne** et qui ne **lui appartient plus**, ainsi que de **ce qu'il demande** et **le contexte du prompt**, car ce contexte _**influence le résultat**_, donc _**le comportement de cet agent face à l'utilisateur et ce qu'il lui répond**_.  
