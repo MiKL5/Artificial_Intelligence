@@ -7,7 +7,7 @@
   Par ailleurs, il est toujours impossible de lui construire une conscience. Il y a également quatre lois qui sont les bases de [la gestion des risques](../../basics/riskManagement "La gestion des risques") liés à l'IA. Ainsi que les principes : [ethic by design](../../basics/ethicByDesign), [privacy by design](../../basics/privacyByDesign), [privacy by default](../../basics/privacyByDefault) qui permettent de coder des IA respectant l'être humain ainsi que sa confidentialité.
 * ### La menace sur certains emplois  
   Les métiers non qualifiés, aux tâches simples, répétitives et pouvant être effectué par l'IA sont menacés.
-  Cela fait émerger des emplois dans la date, tel que data analyst, data scientist, data engineer.
+  Cela fait émerger des emplois dans la data, tel que data analyst, data scientist, data engineer.
 * ### Le risque de détournement et de malveillance  
   Les internautes peuvent apprendre des grossièretés aux chatbots, jusqu'aux propos racistes, ce qui biaise des IA jusqu'à devenir malveillantes. Le principe [ethic by design](../../basics/ethicByDesign) sus-cité vient réduire ce risque. Car il impose aux systèmes d'IA d'êtres équitables et non discriminatoires.
 * ### Son fonctionnement est nébuleux 
