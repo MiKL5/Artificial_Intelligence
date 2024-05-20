@@ -1,0 +1,5 @@
+# **Comment fonctionnent les réseaux de neurones artificiels** step by step
+
+L'agent doit connaître le prix de vente de la maison. Pour cela, il connaît la surface, le nombre de chambres, la distance du centre-ville (km) et l'âge. C'est la couche d'entrée. Le prix de vente est la couche de sortie. Les couches cachées permettent plus de souplesse et des meilleures prédictions.  
+Un neurone s'intéresse aux maisons qui se détachent du fonctionnement habituel, un autre aux maisons familiales, un autre aux maisons neuve, un aux maisons moins chères, il est possible qu'un neurone prenne toutes les variables d'entrée, etc. Comme chaque neurone s'intéresse à une particularité apporte plus de souplesse et de rapidité.  
+Le tout est envoyé au neurone de sortie qui utilisera sa fonction d'activation et prédire le prix de la maison.
