@@ -82,7 +82,7 @@ ___
 [L’abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")  
 [Les types d’apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")  
 [Les modèles](machineLearning/models "Les modèles de machine learning")  
-<!-- [Les biais](machineLearning/bias "Les biais") -->
+<!-- [Les biais](ma!chineLearning/bias "Les biais") -->
 <!-- ## **Thompson sampling** -->
 <!-- [Définition]() -->
 ## **Les grands modèles de langage**
@@ -91,11 +91,13 @@ ___
 ___ 
 
 ## **Autres sujets**
+<!-- [La Business Intelligence](other/bi) -->
 [Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
 [L’informatique quantique](other/qc)  
 <!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
 
+<br>
 <!-- <div align="center">
     <a href="../">
         <img src="../assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f43424642443543303642354444444442363544444138363535324338383942432d30312e6a7067.png" height="300px">
