@@ -91,7 +91,7 @@ ___
 ___ 
 
 ## **Autres sujets**
-[La Business Intelligence](other/bi)
+[La Business Intelligence](other/bi)  
 [Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
 [L’informatique quantique](other/qc)  
