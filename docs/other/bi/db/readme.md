@@ -38,4 +38,4 @@ Le T-SQL est une extension de SQL développée par Microsoft, utilisée principa
 
 <br><div align="center">
 
-**_les bases de données SQL et les langages de requête  sont des composants essentiels de l’infrastructure BI. Ils permettent de gérer efficacement les données qui sont ensuite analysées pour fournir des insights et soutenir la prise de décision stratégique dans les entreprises._**
+**_Les bases de données SQL et les langages de requête  sont des composants essentiels de l’infrastructure BI. Ils permettent de gérer efficacement les données qui sont ensuite analysées pour fournir des insights et soutenir la prise de décision stratégique dans les entreprises._**
