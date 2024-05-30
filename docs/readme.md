@@ -83,12 +83,14 @@ ___
 [Les types d’apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")  
 [Les modèles](machineLearning/models "Les modèles de machine learning")  
 <!-- [Les biais](ma!chineLearning/bias "Les biais") -->
+
 <!-- ## **Thompson sampling** -->
 <!-- [Définition]() -->
+
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
 [Qu’est-ce qu’un MLLM ?](other/mllm) 
-___ 
+___
 
 ## **Autres sujets**
 [La Business Intelligence](other/bi)  
