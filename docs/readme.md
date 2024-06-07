@@ -93,6 +93,8 @@ ___
 ___
 
 ## **Autres sujets**
+[La gérance des données](other/dataStewarding)
+[Quelle est la différence entre la gérance des données et la business intelligence](DSvsBI)
 [La Business Intelligence](other/bi)  
 [Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
