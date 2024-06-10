@@ -13,5 +13,7 @@
 
 <!-- ## [**Documentation**](Docs) -->
 
+## Contenu connexe
+[Business Intelligence](https://github.com/MiKL5/BI/)  
 
 </div>
