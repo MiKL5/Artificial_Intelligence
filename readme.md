@@ -1,4 +1,4 @@
-<h1 align="center"><b>Les intelligences artificielles</b></h1>
+<h1 align="center"><b>Les intelligences artificielles</b> <a href="https://github.com/MiKL5/"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 <div align="center"> 
     <a href="docs"><img src="assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px"></a>
