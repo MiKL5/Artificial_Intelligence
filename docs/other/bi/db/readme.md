@@ -1,4 +1,4 @@
-# **Les bases de données en SQL, T-SQL et PL/SQL font partie de la business intelligence** <a href="../"><img src="https://github.com/MiKL5/BI/assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Les bases de données en SQL, T-SQL et PL/SQL font partie de la business intelligence** <a href="../"><img src=".../../../https://github.com/MiKL5/BI/assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 Les bases de données et les langages de requête tels que le SQL, le T-SQL et le PL/SQL jouent un rôle crucial dans la Business Intelligence (BI) pour collecter, stocker, géer et analyser _les données_, qui _sont les fondements de la BI_. 
 ## **Comment ils s’intègrent ?**
 ### Le SQL (Structured Query Language)
