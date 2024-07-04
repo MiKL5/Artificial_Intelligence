@@ -27,7 +27,7 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
-___
+
 
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
 [Équation de Bellman](bellmanEquation "Équation de Bellman")  
@@ -87,14 +87,14 @@ ___
 <!-- ## **Thompson sampling** -->
 <!-- [Définition]() -->
 
-## **Les grands modèles de langage**
-[Qu’est-ce qu’un LLM ?](other/llm)  
-[Qu’est-ce qu’un MLLM ?](other/mllm)
-
 ## **Les algorithmes**
 [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 [L’algorithme de parcours en largeur BFS](algo/bfs)  
 <!-- [L’algorithme de recherche de chemin A*](algo/a)   -->
+
+## **Les grands modèles de langage**
+[Qu’est-ce qu’un LLM ?](other/llm)  
+[Qu’est-ce qu’un MLLM ?](other/mllm)
 ___
 
 ## **Autres sujets**
