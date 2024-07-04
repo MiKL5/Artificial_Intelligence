@@ -12,7 +12,7 @@
 <!-- [Casse-briques](projects/brickBreaker) **_<kbd>Soon</kbd>_** <a href="projects/practice1"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>   -->
 <!-- ### **Projets en Machine Learning** -->
 
-<!-- ## [**Documentation**](Docs) -->
+## [**Documentation**](Docs)
 
 ## Contenu connexe
 [Business Intelligence](https://github.com/MiKL5/BI/)  
