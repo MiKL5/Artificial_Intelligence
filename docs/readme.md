@@ -89,13 +89,18 @@ ___
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
-[Qu’est-ce qu’un MLLM ?](other/mllm) 
+[Qu’est-ce qu’un MLLM ?](other/mllm)
+
+<!-- ## **Les algorithmes** -->
+<!-- [L’algorithme d eparcoues DFS](algo/dfs)   -->
+<!-- [L’algorithme de parcours BFS](algo/bfs)   -->
+<!-- [L’algorithme de recherche de chemin A*](algo/a)   -->
 ___
 
 ## **Autres sujets**
 [La gérance des données](other/dataStewarding)  
 [La Business Intelligence](other/bi)  
-[La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
+[La différence entre la gérance des données et la business intelligence](other/DSvsBI)  =
 [Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
 [L’informatique quantique](other/qc)  
