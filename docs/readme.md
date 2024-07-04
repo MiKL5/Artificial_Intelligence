@@ -93,7 +93,7 @@ ___
 
 ## **Les algorithmes**
 [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
-<!-- [L’algorithme de parcours en largeur BFS](algo/bfs)   -->
+[L’algorithme de parcours en largeur BFS](algo/bfs)  
 <!-- [L’algorithme de recherche de chemin A*](algo/a)   -->
 ___
 

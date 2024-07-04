@@ -1,0 +1,2 @@
+# **L’algorithme de parcours en largeur BFS (Breadth-First Search)**
+L’algorithme de parcours en largeur est une méthode itérative, niveau par niveau, servant à explorer sysématiquement un graphe ou un arbre. Il débute par un nœud source et explore ensuite tous ses voisins avant de passer aux voisins des voisins, et ainsi de suite.
