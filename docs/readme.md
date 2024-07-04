@@ -91,9 +91,9 @@ ___
 [Qu’est-ce qu’un LLM ?](other/llm)  
 [Qu’est-ce qu’un MLLM ?](other/mllm)
 
-<!-- ## **Les algorithmes** -->
-<!-- [L’algorithme d eparcoues DFS](algo/dfs)   -->
-<!-- [L’algorithme de parcours BFS](algo/bfs)   -->
+## **Les algorithmes**
+[L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
+<!-- [L’algorithme de parcours en largeur BFS](algo/bfs)   -->
 <!-- [L’algorithme de recherche de chemin A*](algo/a)   -->
 ___
 
