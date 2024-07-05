@@ -1,0 +1,2 @@
+# **L’algorithme de recherche de chemin A* (A-star)**
+L’algorithme de recherche de chemin A* (A-star) est un algorithme très populaire et efficace pour trouver le chemin le plus court entre deux points dans un graphe pondéré, souvent utilisé en intelligence artificielle pour la planification de trajectoires et en jeux vidéo pour le déplacement des personnages.
