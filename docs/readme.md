@@ -90,7 +90,7 @@
 ## **Les algorithmes**
 [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 [L’algorithme de parcours en largeur BFS](algo/bfs)  
-<!-- [L’algorithme de recherche de chemin A*](algo/a)   -->
+[L’algorithme de recherche de chemin A*](algo/a)  
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
