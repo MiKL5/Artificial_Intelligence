@@ -22,7 +22,8 @@ Utilise moins de mémoire que BFS (Breadth-First Search) ; il ne stocke que la p
 * L’identification des cycles dans un graphe.
 * Détection des composants fortement connexes : Dans un graphe orienté.
 * Résolution de puzzles : Comme les labyrinthes où l’on explore les chemins jusqu’à trouver la solution.
-<!-- ## **Utilisation en IA**
+
+## **Utilisation en IA**
 1. Recherche en graphe  
    * Cheminement et planification  
      Trouver des chemins optimaux ou acceptables dans des graphes, crucial pour la navigation robotique, la planification de trajets ou la recherche d’informations dans des bases de connaissances complexes.
@@ -47,4 +48,4 @@ Utilise moins de mémoire que BFS (Breadth-First Search) ; il ne stocke que la p
      * Recherche heuristique  
        DFS est une composante de nombreux algorithmes de recherche heuristique, et est souvent combiné avec d’autres techniques pour améliorer l’efficacité, comme dans les algorithmes de recherche en profondeur itérative (IDA*).
      * Optimisation combinatoire  
-       Utilisé dans des algorithmes pour des problèmes de combinatoire pour explorer toutes les combinaisons possibles, (le problème du voyageur de commerce (TSP)). -->
+       Utilisé dans des algorithmes pour des problèmes de combinatoire pour explorer toutes les combinaisons possibles, (le problème du voyageur de commerce (TSP)).
