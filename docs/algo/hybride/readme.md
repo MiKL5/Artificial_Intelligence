@@ -1,7 +1,6 @@
 # **Algorithme de recherche hybride**
 Cela combine plusieurs méthodes de recherche différentes pour tirer parti de leurs avantages.  
 Par exemple : combiner une recherche heuristique (comme un [algorithme glouton](glouton)) avec une recherche exhaustive (comme un algorithme de [force brute](bruteForcde)).
-
 ## **Quelles sont les étapes générales d’un algorithme de recherche hybride ?**
 1. **La phase de recherche heuristique**  
    L’utilisation d’une méthode de recherche heuristique rapide pour trouver une solution approchée au problème.  

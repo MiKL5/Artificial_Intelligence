@@ -1,5 +1,5 @@
 # **Les algorithmes de recherche**
-## **Quel est le lien entre les algorithmes de recherche et la Business intelligence ?**
+## **Les algorithmes de recherche et la business intelligence**
 Il y a un lien étroit entre les algorithmes de recherche et la business intelligence (BI). Voici quelques façons dont les algorithmes de recherche interviennent dans la BI
 1. **L’accès à l’information d’entreprise**
     * Les algorithmes de recherche hybrides permettent aux utilisateurs de BI d’accéder plus facilement aux données, rapports, tableaux de bord et autres informations pertinentes stockées dans les différents systèmes de l’entreprise.  
@@ -16,7 +16,7 @@ Il y a un lien étroit entre les algorithmes de recherche et la business intelli
     * Une recherche d’information performante, rendue possible par les algorithmes hybrides, contribue à une meilleure expérience utilisateur pour les analystes et décideurs qui utilisent les outils de BI.
 
 _**⟹ Les algorithmes de recherche avancés sont devenus un élément clé de la business intelligence moderne, permettant d’enrichir et de personnaliser les analyses pour une meilleure prise de décision.**_
-## **Quel est le lien ent les algorithmes de recherche et les Intelligences artificielles ?**
+## **Les algorithmes de recherche et les intelligences artificielles**
 Il y a un lien étroit.
 1. **La recherche sémantique et la compréhension du langage naturel**
     * Les algorithmes de recherche avancés, s’appuyant sur des techniques d’IA comme le traitement du langage naturel (TLN), permettent de mieux comprendre le sens et le contexte des requêtes des utilisateurs.  
