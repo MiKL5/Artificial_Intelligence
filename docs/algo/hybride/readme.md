@@ -51,14 +51,17 @@ _**⟹ En suivant ces principes, on peut concevoir un algorithme hybride dans le
    Les plateformes de streaming musical <!--comme Spotify -->emploient des algorithmes hybrides combinant l’analyse des goûts des utilisateurs, les tendances du marché, la popularité des artistes, etc. pour proposer des suggestions de titres et d’artistes personnalisées.
 7. **Le domaine médical**  
    Dans le secteur de la santé, l’algorithme de recherche hybride facilite l’accès aux informations médicales en croisant des données structurées (dossiers médicaux) et non structurées (articles de recherche).  
-   Cela permet une prise de décision clinique plus éclairée et améliore les nouvelles pistes de recherche.
+   Cela permet une prise de décision clinique plus éclairée et améliore les nouvelles pistes de recherche.  
+   Et donc permettre une médecine de précision  
+   * Aidant au diagnostic, au traitement personnalisé et à la découverte de nouvelles thérapies.
+   * Combinant l’analyse de données cliniques, génomiques, d’imagerie médicale et de la littérature scientifique pour fournir des insights précieux aux professionnels de santé.
 
 _**⟹ Différentes techniques de recherche, l’algorithme hybride semble apporter des bénéfices dans des domaines variés nécessitant une analyse et une synthèse d’informations provenant de sources multiples.**_
 <!-- ### Dans la robotique (pas d'études de cas concrètes)
 1. Navigation et localisation des robots : L'algorithme pourrait combiner des données de capteurs (caméras, lidars, etc.) avec des informations contextuelles (cartes, données géographiques) pour améliorer la localisation et la navigation des robots dans leur environnement.
-1. Interaction homme-robot : En analysant les interactions passées entre les humains et les robots, l'algorithme hybride pourrait aider les robots à mieux comprendre les besoins et les préférences des utilisateurs afin d'améliorer leur capacité d'interaction.
-1. Diagnostic et maintenance des robots : L'algorithme pourrait corréler les données de capteurs, les historiques de maintenance et les informations techniques pour détecter plus rapidement les problèmes et proposer des solutions adaptées.
-1. Planification de tâches robotiques : En combinant des données sur l'environnement, les ressources disponibles et les contraintes opérationnelles, l'algorithme pourrait optimiser la planification et l'ordonnancement des tâches robotiques. 
+2. Interaction homme-robot : En analysant les interactions passées entre les humains et les robots, l'algorithme hybride pourrait aider les robots à mieux comprendre les besoins et les préférences des utilisateurs afin d'améliorer leur capacité d'interaction.
+3. Diagnostic et maintenance des robots : L'algorithme pourrait corréler les données de capteurs, les historiques de maintenance et les informations techniques pour détecter plus rapidement les problèmes et proposer des solutions adaptées.
+4. Planification de tâches robotiques : En combinant des données sur l'environnement, les ressources disponibles et les contraintes opérationnelles, l'algorithme pourrait optimiser la planification et l'ordonnancement des tâches robotiques. 
 _**⟹Bien que ceux-ci soient hypothétiques, ils illustrent les potentiels bénéfices que pourrait apporter l'utilisation d'un algorithme de recherche hybride dans le domaine de la robotique. Cependant, des études de cas concrets seraient nécessaires pour en confirmer les applications réelles.**_-->
 ## **Quels sont les avantages d’un algorithme de recherche hybride ?**
 * Bénéficier de la rapidité des méthodes heuristiques et de la garantie d’optimalité des méthodes exhaustives.
@@ -71,3 +74,21 @@ _**⟹Bien que ceux-ci soient hypothétiques, ils illustrent les potentiels bén
 * La robustesse. Si une source de données est indisponible ou incomplète, l’algorithme hybride peut encore fournir des résultats satisfaisants en s’appuyant sur les autres sources.
 
 _**⟹ Les algorithmes hybrides sont utilisés dans de nombreux domaines comme l’optimisation combinatoire, la planification, la robotique, etc. Leur conception nécessite cependant un équilibre subtil entre les différentes composantes pour obtenir les meilleures performances. C’est une solution de choix pour de nombreux utilisations.**_
+## **Quels sont les inconvénients d’un algorithme de recherche hybride ?**
+1. **La complexité de mise en œuvre**
+    * La combinaison de différentes techniques de recherche (textuelle, sémantique, etc.) rend la conception et l’implémentation de l’algorithme plus complexes.
+    * Cela nécessite des compétences pointues en matière d’apprentissage automatique et de traitement du langage naturel.
+1. **Les coûts de développement et de maintenance sont élevés**
+    * Le développement et l’entretien d’un algorithme de recherche hybride peuvent représenter des investissements importants en termes de ressources humaines et de calcul.
+    * Les mises à jour régulières de l’algorithme et de ses modèles de données sont nécessaires pour maintenir la performance.
+1. **L’interprétabilité et explicabilité limitées**
+    * Les algorithmes de recherche hybrides, comme de nombreux systèmes d’apprentissage automatique, peuvent être perçus comme des “boîtes noires” dont il est difficile de comprendre le fonctionnement interne.
+    * Cela peut poser des problèmes de transparence et de confiance pour les utilisateurs.
+1. **Les risques de biais et d’erreurs**
+    * La combinaison de différentes sources de données et de techniques de recherche peut introduire des biais dans les résultats, notamment si les données d’entraînement sont incomplètes ou biaisées.
+    * Des erreurs peuvent également se produire lors de l’intégration des différents composants de l’algorithme.
+1. **L’adaptabilité et évolutivité limitées**
+    * Les algorithmes de recherche hybrides peuvent être moins flexibles face à des changements dans les sources de données, les besoins des utilisateurs ou les technologies utilisées.
+    * Leur évolution peut nécessiter des efforts de refonte plus importants contrairement aux approches plus simples.
+
+_**⟹ Les avantages des algorithmes de recherche hybrides soient significatifs, nonobstant, ces inconvénients doivent être considérés lors de leur conception et de leur déploiement dans des applications réelles.**_
