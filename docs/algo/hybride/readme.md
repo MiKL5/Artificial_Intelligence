@@ -11,12 +11,6 @@ Par exemple : combiner une recherche heuristique (comme un [algorithme glouton](
    Cette phase permet de garantir l’optimalité de la solution finale.
 3. **La combinaison des résultats**  
    La fusion des résultats obtenus lors des deux phases précédentes pour obtenir la solution finale.
-## **Quels sont les avantages d’un algorithme de recherche hybride ?**
-* Bénéficier de la rapidité des méthodes heuristiques et de la garantie d’optimalité des méthodes exhaustives.
-* Permettre d’explorer efficacement l’espace des solutions, en évitant de se perdre dans des recherches trop coûteuses.
-* S’adapter à la complexité du problème en ajustant le poids relatif de chaque phase.
-
-_**⟹ Les algorithmes hybrides sont utilisés dans de nombreux domaines comme l’optimisation combinatoire, la planification, la robotique, etc. Leur conception nécessite cependant un équilibre subtil entre les différentes composantes pour obtenir les meilleures performances.**_
 ## **Comment  assurer une bonne coopération entre les différentes techniques utilisées dans l’algorithme hybride ?**
 Voici quelques éléments clés pour assurer une bonne coopération entre les différentes techniques utilisées dans un algorithme hybride combinant la recherche tabou :
 1. **Définir les rôles de chaque composant**
@@ -60,4 +54,20 @@ _**⟹ En suivant ces principes, on peut concevoir un algorithme hybride dans le
    Cela permet une prise de décision clinique plus éclairée et améliore les nouvelles pistes de recherche.
 
 _**⟹ Différentes techniques de recherche, l’algorithme hybride semble apporter des bénéfices dans des domaines variés nécessitant une analyse et une synthèse d’informations provenant de sources multiples.**_
-### Dans la robotique
+<!-- ### Dans la robotique (pas d'études de cas concrètes)
+1. Navigation et localisation des robots : L'algorithme pourrait combiner des données de capteurs (caméras, lidars, etc.) avec des informations contextuelles (cartes, données géographiques) pour améliorer la localisation et la navigation des robots dans leur environnement.
+1. Interaction homme-robot : En analysant les interactions passées entre les humains et les robots, l'algorithme hybride pourrait aider les robots à mieux comprendre les besoins et les préférences des utilisateurs afin d'améliorer leur capacité d'interaction.
+1. Diagnostic et maintenance des robots : L'algorithme pourrait corréler les données de capteurs, les historiques de maintenance et les informations techniques pour détecter plus rapidement les problèmes et proposer des solutions adaptées.
+1. Planification de tâches robotiques : En combinant des données sur l'environnement, les ressources disponibles et les contraintes opérationnelles, l'algorithme pourrait optimiser la planification et l'ordonnancement des tâches robotiques. 
+_**⟹Bien que ceux-ci soient hypothétiques, ils illustrent les potentiels bénéfices que pourrait apporter l'utilisation d'un algorithme de recherche hybride dans le domaine de la robotique. Cependant, des études de cas concrets seraient nécessaires pour en confirmer les applications réelles.**_-->
+## **Quels sont les avantages d’un algorithme de recherche hybride ?**
+* Bénéficier de la rapidité des méthodes heuristiques et de la garantie d’optimalité des méthodes exhaustives.
+* La précision est améliorée. Un algorithme hybride combine les forces de différentes approches de recherche, comme le filtrage collaboratif et le filtrage basé sur le contenu. Cela permet d’obtenir de meilleurs résultats de recherche, plus pertinents pour l’utilisateur.
+* La flexibilité est accrue. L’algorithme hybride peut s’adapter à différents types de données et de préférences d’utilisateurs, le rendant plus polyvalent qu’un seul algorithme.
+<!-- * La réduction des biais. -->En utilisant plusieurs sources d'information, l'algorithme hybride peut réduire les biais potentiels d'un seul type d'approche.
+* Une meilleure compréhension des utilisateurs. La combinaison d’informations démographiques, comportementales et de contenu permet une modélisation plus complète des préférences des utilisateurs. 
+* Permettre d’explorer efficacement l’espace des solutions, en évitant de se perdre dans des recherches trop coûteuses.
+* <!-- évolutif-->S’adapter à la complexité du problème en ajustant le poids relatif de chaque phase.
+* La robustesse. Si une source de données est indisponible ou incomplète, l’algorithme hybride peut encore fournir des résultats satisfaisants en s’appuyant sur les autres sources.
+
+_**⟹ Les algorithmes hybrides sont utilisés dans de nombreux domaines comme l’optimisation combinatoire, la planification, la robotique, etc. Leur conception nécessite cependant un équilibre subtil entre les différentes composantes pour obtenir les meilleures performances. C’est une solution de choix pour de nombreux utilisations.**_
