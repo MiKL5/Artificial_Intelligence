@@ -88,11 +88,11 @@ ___
 
 ## **Les algorithmes**
 ### **Les algorithmes de parcours**
-[L’algorithme de parcous et la Business Intelligence](algo/path)
+[L’algorithme de parcous et la Business Intelligence](algo/path)  
 [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 [L’algorithme de parcours en largeur BFS](algo/bfs)  
 ### **Les algorithmes de recherches**
-[Les algorithme de recherche](algo/search)
+[Les algorithme de recherche](algo/search)  
 [L’algorithme de recherche de chemin A*](algo/a)  
 [L’algorithme de recherche de chemin tabou](algo/tabou)  
 [L’algorithme glouton](algo/glouton)  
