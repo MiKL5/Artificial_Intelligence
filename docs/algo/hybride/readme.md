@@ -11,7 +11,7 @@ Par exemple : combiner une recherche heuristique (comme un [algorithme glouton](
    Cette phase permet de garantir l’optimalité de la solution finale.
 3. **La combinaison des résultats**  
    La fusion des résultats obtenus lors des deux phases précédentes pour obtenir la solution finale.
-## **Quels sont les avantages d’un algorithme de recherche hybride sont ?**
+## **Quels sont les avantages d’un algorithme de recherche hybride ?**
 * Bénéficier de la rapidité des méthodes heuristiques et de la garantie d’optimalité des méthodes exhaustives.
 * Permettre d’explorer efficacement l’espace des solutions, en évitant de se perdre dans des recherches trop coûteuses.
 * S’adapter à la complexité du problème en ajustant le poids relatif de chaque phase.
@@ -40,5 +40,24 @@ Voici quelques éléments clés pour assurer une bonne coopération entre les di
 
 _**⟹ En suivant ces principes, on peut concevoir un algorithme hybride dans lequel les différentes techniques collaborent de manière synergique, tirant le meilleur parti de leurs forces respectives.**_
 ## Quels sont les exemples concrets d’utilisations ?
-Domaines ?
+1. **La relation client**  
+   L’algorithme de recherche hybride permet de résumer automatiquement les dernières interactions avec les clients et de générer des comptes-rendus.  
+   Cela facilite la consultation des historiques et améliore la compréhension des besoins des clients.
+2. **La gestion des systèmes d’information**  
+   L’algorithme hybride améliore la recherche d’informations dans les bases de données et les systèmes d’information, en combinant la recherche textuelle et sémantique pour obtenir des résultats plus pertinents.
+3. **Les moteurs de recherche web**  
+   Ils utilisent un algorithme de recherche hybride en combinant diverses techniques comme l’analyse sémantique, l’indexation par mots-clés, le classement par pertinence, etc.  
+   Cela leur permet d’offrir des résultats de recherche plus pertinents et personnalisés.
+4. **La recommandation de produits**  
+   Les sites de e-commerce comme Amazon emploient un algorithme de recherche hybride pour faire des recommandations de produits aux utilisateurs. Ils combinent des données sur les préférences des utilisateurs, les ventes passées, les tendances du marché, etc. pour proposer des produits susceptibles d’intéresser chaque client.
+5. **Les systèmes de recherche d’emploi**  
+   Les plateformes d’emploi <!--comme LinkedIn -->utilisent un algorithme hybride pour trouver les meilleurs candidats pour un poste.  
+   Ils prennent en compte les compétences, l’expérience, le réseau professionnel, etc. des utilisateurs pour leur suggérer des offres d’emploi pertinentes. 
+6. **Les systèmes de recommandation musicale**  
+   Les plateformes de streaming musical <!--comme Spotify -->emploient des algorithmes hybrides combinant l’analyse des goûts des utilisateurs, les tendances du marché, la popularité des artistes, etc. pour proposer des suggestions de titres et d’artistes personnalisées.
+7. **Le domaine médical**  
+   Dans le secteur de la santé, l’algorithme de recherche hybride facilite l’accès aux informations médicales en croisant des données structurées (dossiers médicaux) et non structurées (articles de recherche).  
+   Cela permet une prise de décision clinique plus éclairée et améliore les nouvelles pistes de recherche.
+
+_**⟹ Différentes techniques de recherche, l’algorithme hybride semble apporter des bénéfices dans des domaines variés nécessitant une analyse et une synthèse d’informations provenant de sources multiples.**_
 ### Dans la robotique

@@ -27,6 +27,7 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
+___
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
 [Équation de Bellman](bellmanEquation "Équation de Bellman")  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")  
