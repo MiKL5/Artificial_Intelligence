@@ -27,8 +27,6 @@
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
-
-
 [Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
 [Équation de Bellman](bellmanEquation "Équation de Bellman")  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")  
@@ -94,8 +92,8 @@
 ### **Les algorithmes de recherches**
 [L’algorithme de recherche de chemin A*](algo/a)  
 [L’algorithme de recherche de chemin tabou](algo/tabou)  
-[L'algorithme glouton](algo/glouton)  
-[L'algorithme de force brute](algo/brutForce)  
+[L’algorithme glouton](algo/glouton)  
+[L’algorithme de force brute](algo/brutForce)  
 [Algorithme de recherche hybride](algo/hybride)
 
 ## **Les grands modèles de langage**
