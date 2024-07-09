@@ -22,7 +22,6 @@ Utilise moins de mémoire que BFS (Breadth-First Search) ; il ne stocke que la p
 * L’identification des cycles dans un graphe.
 * Détection des composants fortement connexes : Dans un graphe orienté.
 * Résolution de puzzles : Comme les labyrinthes où l’on explore les chemins jusqu’à trouver la solution.
-
 ## **Utilisation en IA**
 1. Recherche en graphe  
    * Cheminement et planification  
