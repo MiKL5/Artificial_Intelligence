@@ -55,4 +55,4 @@ _**⟹ En résumé, les algorithmes de recherche et l’intelligence artificiell
     * Utilisant un arbre de décision pour orienter la recherche.
     * Très utilisé dans des domaines comme la reconnaissance de formes et la classification.
 
-_**⟹ Largement utilisés dans divers domaines, comme les bases de données, les moteurs de recherche, la reconnaissance de formes, etc. Leur choix dépend principalement de la structure de données à explorer et des performances requises.**_
+_**⟹ Largement utilisés dans divers domaines, comme les bases de données, les moteurs de recherche, la reconnaissance de formes, et cætera. Leur choix dépend principalement de la structure de données à explorer et des performances requises.**_

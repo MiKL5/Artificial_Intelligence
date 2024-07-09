@@ -36,3 +36,25 @@ Des liens importants entre les algorithmes de parcours et l’IA existent, voici
     * Les connaissances et les modèles acquis par les algorithmes de parcours peuvent être transférés et réutilisés dans d’autres applications d’IA, facilitant ainsi l’apprentissage et l’adaptation à de nouveaux domaines.
 
 _**⟹  les algorithmes de parcours ont un rôle essentiel dans de nombreuses techniques et applications de l’intelligence artificielle, en permettant l’exploration, la modélisation, la prise de décision et l’apprentissage dans des environnements complexes.**_
+## **Les algorithmes de parcours les plus utilisés**
+1. **Le parcours en profondeur (Depth-First Search - DFS)**
+    * Explore prioritairement les branches les plus profondes d’un graphe ou d’un arbre.
+    * Utilise une pile pour garder une trace des nœuds à visiter.
+    * Très utile pour trouver des chemins et détecter des cycles dans les graphes.
+1. **Le parcours en largeur (Breadth-First Search - BFS)**
+    * Explore prioritairement les nœuds les plus proches de la racine d’un graphe ou d’un arbre.
+    * Utilise une file d’attente pour garder trace des nœuds à visiter.
+    * Particulièrement adapté pour trouver les plus courts chemins dans un graphe.
+1. **L’algorithme de Dijkstra**
+    * C’est un algorithme de parcours de graphe utilisé pour trouver le plus court chemin entre deux nœuds.
+    * Fonctionne en attribuant des poids/coûts aux arêtes du graphe.
+    * Très utilisé en planification de trajectoire, en calcul d’itinéraires, etc.
+1. __L’algorithme A*__
+    * Un algorithme de parcours de graphe amélioré par rapport à Dijkstra, utilisant une fonction heuristique.
+    * Permet de trouver le chemin le plus court en prenant en compte à la fois le coût réel du chemin et une estimation du coût restant.
+    * Très utilisé en robotique, jeux vidéo et planification de trajectoires.
+1. **Le parcours topologique**
+    * Permettant de déterminer l’ordre d’exécution des tâches dans un graphe orienté sans cycle.
+    * Très utile pour la planification de projet, l’ordonnancement de tâches, etc.
+
+_**⟹ Largement utilisés dans de nombreux domaines, tels que la robotique, les systèmes de navigation, l’analyse de réseaux sociaux, la planification de projet, etc. Leur choix dépend des propriétés du graphe ou de l’arbre à explorer et des objectifs de l’application.**_
