@@ -35,3 +35,24 @@ Il y a un lien étroit.
     💡 Permettant une expérience de recherche plus riche et multimodale, en combinant différentes modalités (texte, image, audio, etc.).
 
 _**⟹ En résumé, les algorithmes de recherche et l’intelligence artificielle sont devenus des domaines étroitement liés, où l’IA améliore constamment la pertinence, la précision et l’expérience des systèmes de recherche.**_
+## **Quels sont les algorithmes de recherche les plus utilisés**
+1. **La recherche dichotomique (Dichotomie)**
+    * Efficace pour les listes triées.
+    * Divise récursivement l’espace de recherche en deux parties, ne conservant que celle contenant la solution.
+1. **La recherche séquentielle (Linear Search)**
+    * C’est un algorithme simple parcourant de manière séquentielle tous les éléments d’une liste jusqu’à trouver la solution.
+    * Efficace pour les petites listes, mais moins performant que la dichotomie pour les grandes listes.
+1. **La recherche à saut (Jump Search)**
+    * Pour les listes triées, intermédiaire entre la recherche séquentielle et la dichotomie.
+    * Effectue des “sauts” de taille variable dans la liste pour se rapprocher rapidement de la solution.
+1. **La recherche de Fibonacci**
+    * Basé sur la suite de Fibonacci, adapté aux listes triées.
+    * Similaire à la dichotomie, mais avec des subdivisions de l’espace de recherche proportionnelles aux nombres de Fibonacci.
+1. **La recherche hachée (Hashing)**
+    * Très efficace, basé sur l’utilisation de fonctions de hachage.
+    * Permet l’accès direct aux éléments dans des structures de données associatives comme les tables de hachage.
+1. La recherche par arbre de décision (Decision Tree Search)
+    * Utilisant un arbre de décision pour orienter la recherche.
+    * Très utilisé dans des domaines comme la reconnaissance de formes et la classification.
+
+_**⟹ Largement utilisés dans divers domaines, comme les bases de données, les moteurs de recherche, la reconnaissance de formes, etc. Leur choix dépend principalement de la structure de données à explorer et des performances requises.**_
