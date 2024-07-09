@@ -87,4 +87,4 @@ _**⟹ Cette démarche itérative permet de concevoir progressivement un algorit
 
 ___
 >>> Cf.  
-[Algorithme de recherche hybride](algo/hybride)
+[Algorithme de recherche hybride](../hybride)
