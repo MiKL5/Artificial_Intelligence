@@ -35,7 +35,7 @@ Il y a un lien étroit.
     💡 Permettant une expérience de recherche plus riche et multimodale, en combinant différentes modalités (texte, image, audio, etc.).
 
 _**⟹ En résumé, les algorithmes de recherche et l’intelligence artificielle sont devenus des domaines étroitement liés, où l’IA améliore constamment la pertinence, la précision et l’expérience des systèmes de recherche.**_
-## **Quels sont les algorithmes de recherche les plus utilisés**
+## **Les algorithmes de recherche les plus utilisés**
 1. **La recherche dichotomique (Dichotomie)**
     * Efficace pour les listes triées.
     * Divise récursivement l’espace de recherche en deux parties, ne conservant que celle contenant la solution.
