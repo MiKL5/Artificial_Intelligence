@@ -97,41 +97,41 @@ Son implémentation simple et son efficacité en font un algorithme très utilis
 ## **`BFS` versus `A*`**
 
 <table>
-  <tr>
-    <th align="center">Aspect</th>
-    <th align="center">BFS</th>
-    <th align="center">A*</th>
-  </tr>
-  <tr>
-    <td >Le principe de fonctionnement</td>
-    <td>Explore tous les voisins d'un nœud avant de passer au niveau suivant, en utilisant une file d'attente</td>
-    <td>Explore les nœuds en priorité selon une fonction d'évaluation qui combine le coût du chemin parcouru et une estimation du coût restant jusqu'à la destination</td>
-  </tr>
-  <tr>
-    <td>L'objectif</td>
-    <td>Trouver le plus court chemin entre deux nœuds</td>
-    <td>Trouver le plus optimal chemin (le moins coûteux) entre deux nœuds</td>
-  </tr>
-  <tr>
-    <td>La complexité temporelle</td>
-    <td><code>O(|V| + |E|)</code>, où <code>|V|</code> est le nombre de nœuds et <code>|E|</code> le nombre d'arêtes</td>
-    <td>Dépend de la fonction d'estimation utilisée, mais peut être plus efficace que BFS dans certains cas</td>
-  </tr>
-  <tr>
-    <td>La mémoire requise</td>
-    <td>Doit stocker tous les nœuds du niveau courant dans la file d'attente</td>
-    <td>Nécessite de stocker les nœuds dans une structure de priorité (comme une file de priorité)</td>
-  </tr>
-  <tr>
-    <td>L'application</td>
-    <td>Convient bien pour les problèmes où tous les déplacements ont le même coût, comme dans les jeux de labyrinthe</td>
-    <td>Adapté aux problèmes où les coûts des déplacements peuvent varier, comme dans la planification de chemin pour un robot mobile</td>
-  </tr>
-  <tr>
-    <td>La fonction d'estimation</td>
-    <td>N'utilise pas de fonction d'estimation, explore simplement les voisins de manière uniforme</td>
-    <td>Utilise une fonction d'estimation du coût restant jusqu'à la destination, souvent basée sur une heuristique qui estime la distance restante</td>
-  </tr>
+    <tr>
+        <th align="center">Aspect</th>
+        <th align="center">BFS</th>
+        <th align="center">A*</th>
+    </tr>
+    <tr>
+        <td >Le principe de fonctionnement</td>
+        <td>Explore tous les voisins d'un nœud avant de passer au niveau suivant, en utilisant une file d'attente</td>
+        <td>Explore les nœuds en priorité selon une fonction d'évaluation qui combine le coût du chemin parcouru et une estimation du coût restant jusqu'à la destination</td>
+    </tr>
+    <tr>
+        <td>L'objectif</td>
+        <td>Trouver le plus court chemin entre deux nœuds</td>
+        <td>Trouver le plus optimal chemin (le moins coûteux) entre deux nœuds</td>
+    </tr>
+    <tr>
+        <td>La complexité temporelle</td>
+        <td><code>O(|V| + |E|)</code>, où <code>|V|</code> est le nombre de nœuds et <code>|E|</code> le nombre d'arêtes</td>
+        <td>Dépend de la fonction d'estimation utilisée, mais peut être plus efficace que BFS dans certains cas</td>
+    </tr>
+    <tr>
+        <td>La mémoire requise</td>
+        <td>Doit stocker tous les nœuds du niveau courant dans la file d'attente</td>
+        <td>Nécessite de stocker les nœuds dans une structure de priorité (comme une file de priorité)</td>
+    </tr>
+    <tr>
+        <td>L'application</td>
+        <td>Convient bien pour les problèmes où tous les déplacements ont le même coût, comme dans les jeux de labyrinthe</td>
+        <td>Adapté aux problèmes où les coûts des déplacements peuvent varier, comme dans la planification de chemin pour un robot mobile</td>
+    </tr>
+    <tr>
+        <td>La fonction d'estimation</td>
+        <td>N'utilise pas de fonction d'estimation, explore simplement les voisins de manière uniforme</td>
+        <td>Utilise une fonction d'estimation du coût restant jusqu'à la destination, souvent basée sur une heuristique qui estime la distance restante</td>
+    </tr>
 </table><br>
 
 _**⟹  BFS est un algorithme de recherche en largeur, tandis que A* est un algorithme de recherche informée qui utilise une fonction d’estimation pour explorer les nœuds les plus prometteurs en premier.  
