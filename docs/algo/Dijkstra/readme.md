@@ -12,7 +12,7 @@ Marquer ce nœud comme “visité”.
 Pour chaque nœud voisin du nœud sélectionné  
 * Calculer la distance depuis le nœud de départ en passant par le nœud sélectionné.
 * Si la distance est plus faible que la distance actuellement enregistrée pour ce nœud voisin ; mettre à jour la distance.
-1. Répéter les étapes 2 et 3 tant que tous les nœuds aient été visités.
+4. Répéter les étapes 2 et 3 tant que tous les nœuds aient été visités.
 ```stata
 Fonction Dijkstra(graphe, nœud_départ):
     Initialiser un tableau "distances" avec une distance infinie pour tous les nœuds, sauf le nœud de départ qui a une distance de 0
