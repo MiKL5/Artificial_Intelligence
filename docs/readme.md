@@ -109,7 +109,7 @@ ___
 [Qu’est-ce qu’un MLLM ?](other/mllm)
 ___
 
-## **Cujets connexes**
+## **Sujets connexes**
 [La gérance des données](other/dataStewarding)  
 [La Business Intelligence](other/bi)  
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
