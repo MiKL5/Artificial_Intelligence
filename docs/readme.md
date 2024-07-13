@@ -98,7 +98,7 @@ ___
 [Définition](algo/path)  
 [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 [L’algorithme de parcours en largeur BFS](algo/bfs)  
-<!-- [L'algorithme de Dijkstra](algo/Dijkstra)   -->
+[L’algorithme de Dijkstra](algo/Dijkstra)  
 <!-- [L’algorithme de Kahn](algo/Kahn)   -->
 [L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
 
@@ -109,7 +109,7 @@ ___
 [Qu’est-ce qu’un MLLM ?](other/mllm)
 ___
 
-## **Autres sujets**
+## **Cujets connexes**
 [La gérance des données](other/dataStewarding)  
 [La Business Intelligence](other/bi)  
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
