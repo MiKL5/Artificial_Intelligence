@@ -100,7 +100,7 @@
 [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 [L’algorithme de parcours en largeur BFS](algo/bfs)  
 [L’algorithme de Dijkstra](algo/Dijkstra)  
-<!-- [L’algorithme de Kahn](algo/Kahn)   -->
+[L’algorithme de Kahn](algo/Kahn)  
 [L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
 
 [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
