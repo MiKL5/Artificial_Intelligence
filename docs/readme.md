@@ -88,22 +88,27 @@
 <!-- [Définition]() -->
 
 ## **Les algorithmes**
-### **Les algorithmes de recherches**
-[Définition](algo/search)  
-[L’algorithme de recherche de chemin A* (A star)](algo/a)  
-[L’algorithme de recherche de chemin tabou](algo/tabou)  
-[L’algorithme glouton](algo/glouton)  
-[L’algorithme de force brute](algo/brutForce)  
-[Algorithme de recherche hybride](algo/hybride)
-### **Les algorithmes de parcours**
-[Définition](algo/path)  
-[L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
-[L’algorithme de parcours en largeur BFS](algo/bfs)  
-[L’algorithme de Dijkstra](algo/Dijkstra)  
-[L’algorithme de Kahn](algo/Kahn)  
-[L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
+> ### **Les algorithmes de recherches**
+> [Définition](algo/search)  
+> [L’algorithme de recherche de chemin A* (A star)](algo/a)  
+> [L’algorithme de recherche de chemin tabou](algo/tabou)  
+> [L’algorithme glouton](algo/glouton)  
+> [L’algorithme de force brute](algo/brutForce)  
+> [Algorithme de recherche hybride](algo/hybride)
+
+> ### **Les algorithmes de parcours**
+> [Définition](algo/path)  
+> [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
+> [L’algorithme de parcours en largeur BFS](algo/bfs)  
+> [L’algorithme de Dijkstra](algo/Dijkstra)  
+> [L’algorithme de Kahn](algo/Kahn)  
+> [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/KahnVsTarjan)  
+> [L’algorithme de Kahn](algo/tarjan)  
+> [L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
 
 [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
+
+[S’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination](algo/EthicalNon-discriminationPrinciples)
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
