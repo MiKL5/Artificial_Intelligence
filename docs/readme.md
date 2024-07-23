@@ -101,10 +101,10 @@
 > [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 > [L’algorithme de parcours en largeur BFS](algo/bfs)  
 > [L’algorithme de Dijkstra](algo/Dijkstra)  
-> [L’algorithme de Kahn](algo/Kahn)  
-> [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/KahnVsTarjan)  
-> [L’algorithme de Tarjan](algo/tarjan)  
 > [L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
+> [L’algorithme de Kahn](algo/Kahn)  
+> [L’algorithme de Tarjan](algo/tarjan)  
+> [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/KahnVsTarjan)  
 
 [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
 
