@@ -32,3 +32,12 @@ Fonction Dijkstra(graphe, nœud_départ):
     Retourner le tableau "précédents" qui contient le plus court chemin depuis le nœud de départ jusqu'à chaque autre nœud
 ```
 Cet algorithme a une complexité en temps de `O((|V| + |E|) log |V|)`, où `|V|` est le nombre de nœuds et `|E|` le nombre d’arêtes du graphe.
+## **Les avantages**
+1. **L’efficacité**  
+   L’algorithme de Dijkstra a une complexité en temps de O((|V| + |E|) log |V|), ce qui le rend relativement efficace pour les graphes de taille moyenne à grande.
+2. **La simplicité**  
+   L’algorithme de Dijkstra est assez simple à comprendre et à mettre en œuvre par rapport à certains autres algorithmes de recherche de plus court chemin.
+3. **La robustesse**  
+   L’algorithme fonctionne correctement pour des graphes avec des poids d’arêtes positifs, ce qui en fait un choix fiable dans de nombreuses applications.
+4. **Le calcul de tous les plus courts chemins**  
+   Dijkstra calcule le plus court chemin depuis un nœud de départ vers tous les autres nœuds du graphe, pas seulement vers un nœud de destination spécifique.
