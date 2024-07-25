@@ -93,8 +93,7 @@
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
 > [L’algorithme de recherche de chemin tabou](algo/tabou)  
 > [L’algorithme glouton](algo/glouton)  
->> [L’algorithme glouton de Prim](algo/prim)  
-
+> [L’algorithme glouton de Prim](algo/prim)  
 > [L’algorithme de force brute](algo/brutForce)  
 > [Algorithme de recherche hybride](algo/hybride)
 
