@@ -34,10 +34,20 @@ Fonction Dijkstra(graphe, nœud_départ):
 Cet algorithme a une complexité en temps de `O((|V| + |E|) log |V|)`, où `|V|` est le nombre de nœuds et `|E|` le nombre d’arêtes du graphe.
 ## **Les avantages**
 1. **L’efficacité**  
-   L’algorithme de Dijkstra a une complexité en temps de O((|V| + |E|) log |V|), ce qui le rend relativement efficace pour les graphes de taille moyenne à grande.
+   L’algorithme de Dijkstra a une complexité en temps de `O((|V| + |E|) log |V|)`, ce qui le rend relativement efficace pour les graphes de taille moyenne à grande.
 2. **La simplicité**  
    L’algorithme de Dijkstra est assez simple à comprendre et à mettre en œuvre par rapport à certains autres algorithmes de recherche de plus court chemin.
 3. **La robustesse**  
    L’algorithme fonctionne correctement pour des graphes avec des poids d’arêtes positifs, ce qui en fait un choix fiable dans de nombreuses applications.
 4. **Le calcul de tous les plus courts chemins**  
    Dijkstra calcule le plus court chemin depuis un nœud de départ vers tous les autres nœuds du graphe, pas seulement vers un nœud de destination spécifique.
+## **Les inconvénients**
+1. **Le poids négatifs**  
+   Cet algorithme ne fonctionne pas correctement lorsque le graphe contient des poids d’arêtes négatifs.  
+   Dans ce cas, l’algorithme de ”`Bellman-Ford`” est plus approprié.
+2. **Pas de prise en compte des contraintes**  
+   Dijkstra ne tient pas compte de certaines contraintes comme la limite de capacité des arêtes ou les interdictions de circulation. D’autres algorithmes comme Kruskal ou Prim peuvent être plus adaptés dans ces cas.
+3. **Le calcul de tous les plus courts chemins**  
+   Bien que ce soit un avantage dans certains cas, le fait de calculer tous les plus courts chemins peut être un inconvénient si on ne s’intéresse qu’à un seul chemin particulier. Dans ce cas, des algorithmes plus ciblés peuvent être plus efficaces.
+4. **La sensibilité aux erreurs de données**  
+   Comme l’algorithme se base sur les poids des arêtes, toute erreur dans ces poids peut avoir un impact important sur le résultat final.
