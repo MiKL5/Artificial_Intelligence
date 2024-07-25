@@ -46,8 +46,11 @@ Cet algorithme a une complexité en temps de `O((|V| + |E|) log |V|)`, où `|V|`
    Cet algorithme ne fonctionne pas correctement lorsque le graphe contient des poids d’arêtes négatifs.  
    Dans ce cas, l’algorithme de ”`Bellman-Ford`” est plus approprié.
 2. **Pas de prise en compte des contraintes**  
-   Dijkstra ne tient pas compte de certaines contraintes comme la limite de capacité des arêtes ou les interdictions de circulation. D’autres algorithmes comme Kruskal ou Prim peuvent être plus adaptés dans ces cas.
+   Dijkstra ne tient pas compte de certaines contraintes comme la limite de capacité des arêtes ou les interdictions de circulation.  
+   D’autres algorithmes comme ”`Kruskal`” ou ”`Prim`” peuvent être plus adaptés dans ces cas.
 3. **Le calcul de tous les plus courts chemins**  
    Bien que ce soit un avantage dans certains cas, le fait de calculer tous les plus courts chemins peut être un inconvénient si on ne s’intéresse qu’à un seul chemin particulier. Dans ce cas, des algorithmes plus ciblés peuvent être plus efficaces.
 4. **La sensibilité aux erreurs de données**  
-   Comme l’algorithme se base sur les poids des arêtes, toute erreur dans ces poids peut avoir un impact important sur le résultat final.
+   Se basant sur les poids des arêtes, toute erreur dans ces poids peut avoir un impact important sur le résultat final.
+
+_**⟹ L’algorithme de Dijkstra est un choix pertinent pour de nombreuses applications de recherche de plus court chemin. Nonobstant il est limité selon le type de graphe et les contraintes à considérer.**_
