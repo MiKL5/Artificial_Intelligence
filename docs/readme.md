@@ -93,6 +93,7 @@
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
 > [L’algorithme de recherche de chemin tabou](algo/tabou)  
 > [L’algorithme glouton](algo/glouton)  
+>> [L’algorithme de Prim](algo/prim)  
 > [L’algorithme de force brute](algo/brutForce)  
 > [Algorithme de recherche hybride](algo/hybride)
 
@@ -104,6 +105,8 @@
 > [L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
 > [L’algorithme de Kahn](algo/Kahn)  
 > [L’algorithme de Tarjan](algo/tarjan)  
+> [L’algorithme de Bellman-Ford](algo/bF)  
+> [L’algorithme de Kruskal](algo/kruskal)  
 > [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/kahnVsTarjan)  
 
 [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
