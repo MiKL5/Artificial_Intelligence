@@ -1,7 +1,7 @@
 # **L’effet Eliza**
 Le domaine de l’IA consiste à créer des machines pouvant imiter l’intelligence humaine.
 ## **Son histoire**
-L’un des premiers exemples emblématiques est le programme Eliza, développé dans les années 1960 par Joseph Weizenbaum.
+L’un des premiers exemples emblématiques est le programme Eliza, développé en 1966 par Joseph Weizenbaum.
 
 Eliza était conçu pour simuler un psychothérapeute rogérien.  
 Il ne comprenait pas réellement ce que l’utilisateur disait, mais il était capable de reformuler les phrases et de poser des questions de manière à donner l’illusion d’une conversation profonde.  
