@@ -42,5 +42,5 @@ ___
 >>> Sujet connexe  
 [Concepts de bases](../../basics/basicConcepts)  
 [Les 4 phases de développement des IA](../../basics/aiDevelopmentPeriods)  
-[Ethic by design](../ethicByDesign)
+[Ethic by design](../ethicByDesign)  
 [Le test de Turing](../../basics/turing)
