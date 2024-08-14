@@ -18,12 +18,12 @@
 [L’IA hybride](basics/hai "L'intelligence artificielle hybride")  
 [L’IA multimodale](basics/mai "L'intelligence artificielle multimodale")  
 [L’IA hybride versus l’IA multimodale](basics/haiVsMai/ "L'intelligence artificielle hybride vs l'IA multimodale")  
-[Les quatre phases de développement de l’IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
+[Les quatre phases de développement des IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
 [L’IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L’intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
 [Les craintes](basics/fears "Les caintes face à l'IA")  
 [La gestion des risques](basics/riskManagement "La gestion des risques")  
-[Ethic by design](basics/ethicByDesign "Ethic by design")  
+[Ethic by design](ethics/ethicByDesign "Ethic by design")  
 [Privacy by design](basics/privacyByDesign "Privacy by design")  
 [Privacy by default](basics/privacyByDefault "Privacy by default")  
 [Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
@@ -116,6 +116,10 @@
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
 [Qu’est-ce qu’un MLLM ?](other/mllm)
+___
+
+## **Éthique**
+[L’effet Eliza](ethics/eliza)
 ___
 
 ## **Sujets connexes**
