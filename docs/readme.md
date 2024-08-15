@@ -117,9 +117,12 @@
 [Qu’est-ce qu’un LLM ?](other/llm)  
 [Qu’est-ce qu’un MLLM ?](other/mllm)
 ___
-
 ## **Éthique**
 [L’effet Eliza](ethics/eliza)
+## **Mesurer l’Intelligence d’un système d’IA**
+[Test de Turing](ethics/benchmarks/turing)  
+[Tests alternatifs](ethics/benchmarks/atlernativeTests)  
+[Benchmark GLUE (General Language Understanding Evaluation)](ethics/benchmarks/glue)  
 ___
 
 ## **Sujets connexes**

@@ -5,7 +5,7 @@
 * _**1950s**_  
   Naissance de l’IA connexionniste.
 * 1950  
-  Alan Turing propose le test de Turing, un moyen d’évaluer la capacité d’une machine à exhiber un comportement intelligent équivalent à celui d’un humain.
+  Alan Turing propose le [test de Turing](../../ethics/benchmarks/turing), un moyen d’évaluer la capacité d’une machine à exhiber un comportement intelligent équivalent à celui d’un humain.
 * _**1940 à 1960**_  
   Naissance de l’IA dans le sillage de la cybernétique.
 * _**1956**_  
