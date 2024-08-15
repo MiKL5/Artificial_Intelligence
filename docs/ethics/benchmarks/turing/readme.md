@@ -15,8 +15,8 @@ _**⟹ Le test de Turing est très exigeant car il incombe que la machine maîtr
 2. **Ne mesure pas la véritable compréhension**  
   Passer le test ne signifie pas nécessairement que la machine comprenne réellement le sens de ce qu’elle dit.  
   Elle pourrait simplement simuler très bien une conversation sans véritable compréhension.
-3. Facile à dûper  
-  Des techniques d’ingénierie (comme l’utilisation de scripts pré-programmés) pourraient permettre à une machine de tromper l’interrogateur sans pour autant être réellement intelligente.
+3. Facile à duper  
+  Des techniques d’ingénierie (comme l’utilisation de scripts préprogrammés) pourraient permettre à une machine de tromper l’interrogateur sans pour autant être réellement intelligente.
 4. Trop subjectif et dépend du contexte  
   Le résultat dépend beaucoup de l’interrogateur, de ses connaissances et de ses biais.  
   Ce qui semble intelligent dans une conversation peut ne pas l’être dans un autre contexte.

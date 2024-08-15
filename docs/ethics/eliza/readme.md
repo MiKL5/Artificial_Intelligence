@@ -37,10 +37,10 @@ Le domaine de l’IA a bien progresser depuis les années 60. Les IA sont capabl
 ## **Les dangers**
 Outre le fait de lui conférer des caractéristiques humaines car notre perception est influencée par nos propres attentes et biais cognitifs, les cyber criminels utilisent cet effet à notre encontre via des techniques d’ingénierie sociale.
 
-⟹ C’est pour cela qu’il est important de garder l’esprit critique et ne pas oublier qu’une machine ne pense pas, elle obei à un ensemble d’algorithme sans conscience (et que la conscience ne se code pas).
+_**⟹ C’est pour cela qu’il est important de garder l’esprit critique et ne pas oublier qu’une machine ne pense pas, elle obei à un ensemble d’algorithme sans conscience (et que la conscience ne se code pas).**_
 ___
->>> Sujet connexe  
+>>> Sujets connexes  
 [Concepts de bases](../../basics/basicConcepts)  
 [Les 4 phases de développement des IA](../../basics/aiDevelopmentPeriods)  
 [Ethic by design](../ethicByDesign)  
-[Le test de Turing](../../basics/turing)
+[Le test de Turing](../../ethics/benchmarks/turing)

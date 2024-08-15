@@ -123,6 +123,7 @@ ___
 [Test de Turing](ethics/benchmarks/turing)  
 [Tests alternatifs](ethics/benchmarks/atlernativeTests)  
 [Benchmark GLUE (General Language Understanding Evaluation)](ethics/benchmarks/glue)  
+[Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarls)
 ___
 
 ## **Sujets connexes**
