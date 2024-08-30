@@ -11,44 +11,44 @@
 <br>
 
 [Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
-[Définition](basics/define "Qu'est-ce qu'une intelligence artificielle")  
+[Définition](basics/define)  
 [Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
-[L’IA symbolique](basics/sai "L'IA symbolique")  
+[L’IA symbolique](basics/sai )  
 [L’IA connexionniste](basics/cai "L'IA connexioniste ⟶ le réseau de neurones profond")  
-[L’IA hybride](basics/hai "L'intelligence artificielle hybride")  
-[L’IA multimodale](basics/mai "L'intelligence artificielle multimodale")  
-[L’IA hybride versus l’IA multimodale](basics/haiVsMai/ "L'intelligence artificielle hybride vs l'IA multimodale")  
-[Les quatre phases de développement des IA](basics/aiDevelopmentPeriods "Les quates grandes phases de l'intelligence artificielle")  
+[L’IA hybride](basics/hai)  
+[L’IA multimodale](basics/mai)  
+[L’IA hybride versus l’IA multimodale](basics/haiVsMai)  
+[Les 4 phases de développement des IA](basics/aiDevelopmentPeriods "Les quatre grandes phases de l'intelligence artificielle")  
 [L’IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
-[L’intelligence générale artificielle](basics/agi "Intelligence générale artificielle = IA forte")  
-[Les craintes](basics/fears "Les caintes face à l'IA")  
-[La gestion des risques](basics/riskManagement "La gestion des risques")  
-[Ethic by design](ethics/ethicByDesign "Ethic by design")  
-[Privacy by design](basics/privacyByDesign "Privacy by design")  
-[Privacy by default](basics/privacyByDefault "Privacy by default")  
-[Langages et frameworks](basics/languagesAndFrameworks "Langages et frameworks")  
+[L’intelligence générale artificielle](basics/agi)  
+[Les craintes](basics/fears)  
+[La gestion des risques](basics/riskManagement)  
+[Ethic by design](ethics/ethicByDesign)  
+[Privacy by design](basics/privacyByDesign)  
+[Privacy by default](basics/privacyByDefault)  
+[Langages et frameworks](basics/languagesAndFrameworks)  
 -
 
-[Apprentissage par renforcement](reinforcementLearning "Apprentissage par renforcement")  
-[Équation de Bellman](bellmanEquation "Équation de Bellman")  
-[Processus décisionnels Markoviens](processusDeDecisionMarkoviens "Processus décisionnels Markoviens")  
-[Stratégie vs plan](statégieVSplan "Stratégie vs plan")  
-[Pénalité de vie](penaliteDeVie "Pénalité de vie")  
+[Apprentissage par renforcement](reinforcementLearning)  
+[Équation de Bellman](bellmanEquation)  
+[Processus décisionnels Markoviens](processusDeDecisionMarkoviens)  
+[Stratégie vs plan](statégieVSplan)  
+[Pénalité de vie](penaliteDeVie)  
 
 ## **Q-learning**  
-[Intuition](q-learningIntuition "Q-Learning, Intuition")  
-[La différence temporelle](timeDifference "Différence temporelle")  
-[Le Q-learning visualisation](q-learningVisualisaition "Q-learning visualisation")  
+[Intuition](q-learningIntuition)  
+[La différence temporelle](timeDifference)  
+[Le Q-learning visualisation](q-learningVisualisaition)  
 
 ## **Réseaux de neurones artificiels**  
-[C’est quoi le Deep-Learning](artificiallNeuralNetwork/WhatsDeepLearning  "C'est quoi l'apprentissage profond")  
-[Le neurone](artificiallNeuralNetwork/Neuron "Le neurone")  
-[La fonction d’activation](artificiallNeuralNetwork/activationFunction "La fonction d'activation")  
-[Comment fonctionnent les ANNs](artificiallNeuralNetwork/HowANNswork "Comment fonctionnenet les réseaux de neurones artificiels")  
-[Comment apprennent les ANNs](artificiallNeuralNetwork/HowANNsLearn "Comment apprennent les réseaux de neurones artificiels")  
-[L’algorithme du Gradient](artificiallNeuralNetwork/gradientAlgorithm "Mettre à jour les poids avec l'algorithme du Gradient")  
-[L’algorithme du Gradient Stochastique](artificiallNeuralNetwork/stochasticGradientAlgorithm "Algorithme du Gradient Stochastique")  
-[La retropropagation](artificiallNeuralNetwork/Retropropagation "La retropropagation")
+[C’est quoi le Deep-Learning](artificiallNeuralNetwork/WhatsDeepLearning)  
+[Le neurone](artificiallNeuralNetwork/Neuron)  
+[La fonction d’activation](artificiallNeuralNetwork/activationFunction)  
+[Comment fonctionnent les ANNs](artificiallNeuralNetwork/HowANNswork)  
+[Comment apprennent les ANNs](artificiallNeuralNetwork/HowANNsLearn)  
+[L’algorithme du Gradient](artificiallNeuralNetwork/gradientAlgorithm)  
+[L’algorithme du Gradient Stochastique](artificiallNeuralNetwork/stochasticGradientAlgorithm)  
+[La retropropagation](artificiallNeuralNetwork/Retropropagation)
 
 <!-- ## **Réseau de neurone à convolution**
 [Définition](. "Qu'est qu'un réseau de neurone à convolution")  -->
@@ -70,18 +70,18 @@
 
 ## **Deep learning**
 ### **Deep Q-learning**
-[Comment ça marche ?](deep_Q-Learning_intuition/ccm "Comment ça marche")    
-[Experience replay](deep_Q-Learning_intuition/experienceReplay "Experience replay")  
+[Comment ça marche ?](deep_Q-Learning_intuition/ccm)    
+[Experience replay](deep_Q-Learning_intuition/experienceReplay)  
 
 ### **Deep Q learning à convolution**
 [Intuition](convolutional_Deep_Q-learning/Intuition)    
-[Eligibility Trace](convolutional_Deep_Q-learning/eligibilityTrace "n-step Q-Learning")  
+[Eligibility Trace](convolutional_Deep_Q-learning/eligibilityTrace)  
 
 ## **Machine learning**
-[Définition](machineLearning/definition "Définition de l'apprentissage automatique")  
-[L’abjectif](machineLearning/goal "L'objectif recherché en l'apprentissage automatique")  
-[Les types d’apprentissages](machineLearning/typesOfLearning "Les types d'apprentissage")  
-[Les modèles](machineLearning/models "Les modèles de machine learning")  
+[Définition](machineLearning/definition)  
+[L’abjectif](machineLearning/goal)  
+[Les types d’apprentissages](machineLearning/typesOfLearning)  
+[Les modèles](machineLearning/models)  
 <!-- [Les biais](ma!chineLearning/bias "Les biais") -->
 
 <!-- ## **Thompson sampling** -->
@@ -123,8 +123,9 @@ ___
 [Test de Turing](ethics/benchmarks/turing)  
 [Tests alternatifs](ethics/benchmarks/atlernativeTests)  
 [Benchmark GLUE (General Language Understanding Evaluation)](ethics/benchmarks/glue)  
-[Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)
-<!-- [Benchemarks super GLUE](ethics/benchmarks/superGlue) -->
+[Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)  
+[Benchemarks SuperGLUE](ethics/benchmarks/superGlue)  
+[Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/)
 ___
 
 ## **Sujets connexes**

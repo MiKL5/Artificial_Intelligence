@@ -18,9 +18,9 @@ _**⟹ Il fournit une évaluation plus diversifiée et rigoureuse des capacités
 2. Performance humaines via SuperGLUE  
    * Il permet une estimation des performances humaines généralement considérées comme une ligne de base ”à dépasser”. Dans ce benchmark, elles sont d’environ 89-90.  
    * Les capacités de compréhension contextuelle et de raisonnement humaines sont très solides, malgré nos erreurs.
-3. Dépassement des performances humaines  
-   Certains modèles ont dépassés les performances humaines moyennes avec SuperGLUE. Nonobstant, cela ne veut pas dire que ces modèles comprennent de la même façon le langage. Ils sont capables de détecter et explorer des patterns dans les données de manière très efficace. Cela reste très différent de la compréhension humaine.
+3. Le dépassement des performances humaines  
+   Certains modèles ont dépassé les performances humaines moyennes avec SuperGLUE. Nonobstant, cela ne veut pas dire que ces modèles comprennent le langage de la même façon. Ils sont capables de repérer et explorer des patterns dans les données de manière très efficace. Cela reste très différent de la compréhension humaine.
 4. Limites de modèles  
-   La généralisation à des tâches ou contextes non vus, le raisonnement à des concepts complexes, la compréhension nuancée ou contextuelle.
+   La généralisation à des tâches ou contextes non connus, le raisonnement à des concepts complexes, la compréhension nuancée ou contextuelle.
 
 _**⟹ Les performance via un benchmark ne capture pas toutes les nuances de la compréhension des langages humains.**_
