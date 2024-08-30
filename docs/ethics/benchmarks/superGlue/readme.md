@@ -24,7 +24,7 @@ _**⟹ Il fournit une évaluation plus diversifiée et rigoureuse des capacités
    La généralisation à des tâches ou contextes non connus, le raisonnement à des concepts complexes, la compréhension nuancée ou contextuelle.
 
 _**⟹ Les performance via un benchmark ne capture pas toutes les nuances de la compréhension des langages humains.**_
-## **Quelles sont les tâches de SuperGLUE ?**
+## **Les tâches de SuperGLUE**
 * Le diagnostic à large couverture (AX-b)
 * La banque d’engagement (CB)
 * Le choix d’alternatives plausibles (COPA)  
@@ -42,7 +42,20 @@ _**⟹ Les performance via un benchmark ne capture pas toutes les nuances de la 
 * La compréhension de la lecture avec raisonnement de bon sens (ReCoRD)  
   Une tâche qui évalue la compréhension de la lecture en demandant aux modèles de raisonner avec des connaissances de bon sens.
 * Winogender Schema Diagnostics (AX-g)
-
+## **Les limites de SuperGLUE**
+* La couverture limitée  
+  Il ne couvre pas toutes les formes de tâches de compréhension du langage. Retenant que 2 des 9 tâches de GLUE, il ne représente peut-être pas pleinement la diversité et la complexité de la compréhension du langage.
+* La différence de distribution  
+  La différence de distribution entre l’ensemble d’apprentissage et l’ensemble de test de validation peut limiter les performances attendues des modèles.
+* L’uniformité  
+  Le format de SuperGLUE est moins uniforme que celui de son prédécesseur, GLUE. Pouvant potentiellement décourager certains chercheurs qui étaient attirés par le cadre très uniforme de GLUE.
+* La taille de l’ensemble de données  
+  Les ensembles de données de SuperGLUE sont moins volumineux que ceux d’autres benchmarks. Pouvant potentiellement réduire la portée des types de travaux évalués ici. Nonobstant, cela pourrait également abaisser la barrière informatique à l’entrée, ce qui pourrait démocratiser la recherche sur ce benchmark.
+* Les performances des modèles  
+  Certains modèles d’IA de grandes entreprises technologiques comme Microsoft et Google ont déjà surpassé les performances humaines lors de ce test de référence linguistique SuperGLUE. Cela questionne quant à la capacité du test à continuer de repousser les limites des modèles de compréhension du langage.
+* Les biais  
+  Malgré les efforts pour minimiser les biais, certains peuvent rester dans les tâches et les ensembles de données inclus dans SuperGLUE.
 ___
 >>> Source  
-[Code Labs Academy](https://codelabsacademy.com/fr/blog/what-is-the-superglue-benchmark)
+[Code Labs Academy](https://codelabsacademy.com/fr/blog/what-is-the-superglue-benchmark)  
+[Klu](https://klu.ai/glossary/superglue-eval)
