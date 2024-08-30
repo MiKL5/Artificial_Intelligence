@@ -24,3 +24,25 @@ _**⟹ Il fournit une évaluation plus diversifiée et rigoureuse des capacités
    La généralisation à des tâches ou contextes non connus, le raisonnement à des concepts complexes, la compréhension nuancée ou contextuelle.
 
 _**⟹ Les performance via un benchmark ne capture pas toutes les nuances de la compréhension des langages humains.**_
+## **Quelles sont les tâches de SuperGLUE ?**
+* Le diagnostic à large couverture (AX-b)
+* La banque d’engagement (CB)
+* Le choix d’alternatives plausibles (COPA)  
+  Tester le raisonnement causal en sélectionnant la bonne option sur la base d’une relation de cause à effet.
+* La compréhension de la lecture de phrases multiples (MultiRC)  
+  Test la compréhension de la lecture en demandant aux modèles de répondre à des questions à choix multiples basées sur un passage.
+* La reconnaissance de l’implication textuelle (RTE)  
+  Similaire à la tâche du GLUE, cette tâche consiste à déterminer la relation d’implication entre les paires de phrases.
+* Les mots en contexte (WiC)  
+  Évalue la compréhension des modèles de l’utilisation des mots dans différents contextes en déterminant si un mot a le même sens dans deux phrases.
+* Le Winograd Schema Challenge (WSC)  
+  Évalue la capacité des modèles à résoudre les pronoms en comprenant le contexte d’une phrase.
+* BoolQ  
+  Évalu la capacité des modèles à répondre à des questions booléennes sur la base de passages fournis.
+* La compréhension de la lecture avec raisonnement de bon sens (ReCoRD)  
+  Une tâche qui évalue la compréhension de la lecture en demandant aux modèles de raisonner avec des connaissances de bon sens.
+* Winogender Schema Diagnostics (AX-g)
+
+___
+>>> Source  
+[Code Labs Academy](https://codelabsacademy.com/fr/blog/what-is-the-superglue-benchmark)

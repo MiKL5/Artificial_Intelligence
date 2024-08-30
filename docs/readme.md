@@ -125,7 +125,8 @@ ___
 [Benchmark GLUE (General Language Understanding Evaluation)](ethics/benchmarks/glue)  
 [Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)  
 [Benchemarks SuperGLUE](ethics/benchmarks/superGlue)  
-[Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/)
+
+<!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/) -->
 ___
 
 ## **Sujets connexes**
