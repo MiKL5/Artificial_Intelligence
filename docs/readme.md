@@ -126,7 +126,9 @@ ___
 [Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)  
 [Benchemarks SuperGLUE](ethics/benchmarks/superGlue)  
 
-<!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/) -->
+[Les principaux défis éthiques lors du déploiement de l’IA dans des domaines sensibles](ethics/chalenges/health)
+
+<!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/research) -->
 ___
 
 ## **Sujets connexes**
