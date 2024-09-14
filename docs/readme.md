@@ -111,7 +111,6 @@
 
 [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
 
-[S’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination](algo/EthicalNon-discriminationPrinciples)
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
@@ -126,9 +125,10 @@ ___
 [Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)  
 [Benchemarks SuperGLUE](ethics/benchmarks/superGlue)  
 
-[Les principaux défis éthiques lors du déploiement de l’IA dans des domaines sensibles](ethics/chalenges/health)
+[S’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination](algo/EthicalNon-discriminationPrinciples)  
+[Les principaux défis éthiques lors du déploiement de l’IA dans des domaines sensibles](ethics/chalenges/health)  
 
-<!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/research) -->
+<!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/researh) -->
 ___
 
 ## **Sujets connexes**
