@@ -16,5 +16,7 @@
 
 ## Contenu connexe
 [Business Intelligence](https://github.com/MiKL5/BI/)  
+[Data Science](https://github.com/MiKL5/DS)  
+<!-- [Machine Learning](https://github.com/MiKL5/ML)   -->
 
 </div>

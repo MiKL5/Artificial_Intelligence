@@ -88,6 +88,10 @@
 <!-- [Définition]() -->
 
 ## **Les algorithmes**
+> ### **Les algorithmes d’apprentissage non supervisés**
+> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)
+> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)
+
 > ### **Les algorithmes de recherches**
 > [Définition](algo/search)  
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
