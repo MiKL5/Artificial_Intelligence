@@ -12,6 +12,7 @@
 
 [Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
 [Définition](basics/define)  
+[IA or not IA ?]() _<kbd>Soon</kbd>_  
 [Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
 [L’IA symbolique](basics/sai )  
 [L’IA connexionniste](basics/cai "L'IA connexioniste ⟶ le réseau de neurones profond")  
@@ -21,6 +22,7 @@
 [Les 4 phases de développement des IA](basics/aiDevelopmentPeriods "Les quatre grandes phases de l'intelligence artificielle")  
 [L’IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L’intelligence générale artificielle](basics/agi)  
+[La super intelligence artificielle](basics/asi) _<kbd>Soon</kbd>_  
 [Les craintes](basics/fears)  
 [La gestion des risques](basics/riskManagement)  
 [Ethic by design](ethics/ethicByDesign)  
@@ -89,8 +91,8 @@
 
 ## **Les algorithmes**
 > ### **Les algorithmes d’apprentissage non supervisés**
-> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)
-> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)
+> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
+> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
 > ### **Les algorithmes de recherches**
 > [Définition](algo/search)  
