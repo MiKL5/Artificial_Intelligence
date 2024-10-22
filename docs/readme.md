@@ -12,7 +12,7 @@
 
 [Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
 [Définition](basics/define)  
-[IA or not IA ?]() _<kbd>Soon</kbd>_  
+[Différencier l’ortithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi) _<kbd>Soon</kbd>_  
 [Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
 [L’IA symbolique](basics/sai )  
 [L’IA connexionniste](basics/cai "L'IA connexioniste ⟶ le réseau de neurones profond")  
