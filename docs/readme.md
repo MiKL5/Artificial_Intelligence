@@ -22,7 +22,7 @@
 [Les 4 phases de développement des IA](basics/aiDevelopmentPeriods "Les quatre grandes phases de l'intelligence artificielle")  
 [L’IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
 [L’intelligence générale artificielle](basics/agi)  
-[La super intelligence artificielle](basics/asi) _<kbd>Soon</kbd>_  
+[La super intelligence artificielle](basics/asi)  
 [Les craintes](basics/fears)  
 [La gestion des risques](basics/riskManagement)  
 [Ethic by design](ethics/ethicByDesign)  
