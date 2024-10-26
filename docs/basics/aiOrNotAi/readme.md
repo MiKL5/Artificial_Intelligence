@@ -11,7 +11,6 @@ L’algorithme simple et l’algo d’IA est essentiellement dans la complexité
     <tbody>
         <tr>
         <td align="center">1. Structure et Complexité</td>
-        <td align="center"></td>
         </tr>
         <tr>
         <td align="center">Suit une séquence d’instructions définies et prévisibles. Pas d’apprentissage ou de modification comportementale en fonction des données d’entrée. E.g. : les algorithmes de tri à bulles, les calculs mathématiques, ou les décisions conditionnelles basées sur des règles fixes.</td>
@@ -19,7 +18,6 @@ L’algorithme simple et l’algo d’IA est essentiellement dans la complexité
         </tr>
         <tr>
         <td align="center">2. La Capacité d’adaptation et d’apprentissage</td>
-        <td align="center"></td>
         </tr>
         <tr>
         <td align="center">Inadaptable ; Les règles et le fonctionnement de l’algorithme restent inchangés, quel que soit le type ou la quantité de données traitées.</td>
@@ -27,7 +25,6 @@ L’algorithme simple et l’algo d’IA est essentiellement dans la complexité
         </tr>
         <tr>
         <td align="center">3. L’interaction avec les Données</td>
-        <td align="center"></td>
         </tr>
         <tr>
         <td align="center">Traite les données d’une manière déterministe. Les résultats sont constants pour une même entrée en suivant des règles immuables.</td>
@@ -35,7 +32,6 @@ L’algorithme simple et l’algo d’IA est essentiellement dans la complexité
         </tr>
         <tr>
         <td align="center">4. Exemples d’Applis</td>
-        <td align="center"></td>
         </tr>
         <tr>
         <td align="center">Peut convenir à des tâches répétitives et standardisées comme la gestion d’inventaire, les calculs statistiques basiques, ou les recherches dans des bases de données.</td>
@@ -43,7 +39,6 @@ L’algorithme simple et l’algo d’IA est essentiellement dans la complexité
         </tr>
         <tr>
         <td align="center">5. L’exigences en Datas et Calcul</td>
-        <td align="center"></td>
         </tr>
         <tr>
         <td align="center">Fréquemment efficace sur de petits volumes de données et ne nécessite pas de ressources de calcul intensives.</td>
