@@ -10,17 +10,17 @@
 </div>
 <br>
 
-[Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
-[Définition](basics/define)  
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
-[Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
-[L’IA symbolique](basics/sai )  
-[L’IA connexionniste](basics/cai "L'IA connexioniste ⟶ le réseau de neurones profond")  
+[Définition](basics/define)  
+[Les dates clés de l’intelligence artificielle](basics/history)  
+[Quelques concepts de base](basics/basicConcepts)  
+[L’IA symbolique](basics/sai)  
+[L’IA connexionniste](basics/cai)  
 [L’IA hybride](basics/hai)  
 [L’IA multimodale](basics/mai)  
 [L’IA hybride versus l’IA multimodale](basics/haiVsMai)  
-[Les 4 phases de développement des IA](basics/aiDevelopmentPeriods "Les quatre grandes phases de l'intelligence artificielle")  
-[L’IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
+[Les 4 phases de développement des IA](basics/aiDevelopmentPeriods)  
+[L’IA étroite](basics/weakAI) <!-- Weak AI = Narrow AI (IA étroite) -->  
 [L’intelligence générale artificielle](basics/agi)  
 [La super intelligence artificielle](basics/asi)  
 [Les craintes](basics/fears)  
@@ -154,5 +154,5 @@ ___
 </div> -->
 <div align="center">
     <a href="../">
-        <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
+        <img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="Les intelligences artificielles" height="300px">
     </a>
