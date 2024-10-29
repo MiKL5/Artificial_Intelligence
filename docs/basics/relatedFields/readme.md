@@ -1,4 +1,4 @@
-# **Les domaines connexes**
+# **Les domaines connexes** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 Plusieurs sujets sont liés étroitement à la discipline de l’intelligence artificielle.
 
 1. _**L’IA Explicative et étique de l’IA**_ pour explorer les implications sociales et éthiques.
@@ -18,4 +18,4 @@ Plusieurs sujets sont liés étroitement à la discipline de l’intelligence ar
 
 ___
 >>>Cf.  
-[Qu’est ce qu’un robot ?](https://github.com/MiKL5/robotics)
+[Qu’est ce qu’un robot ?](https://github.com/MiKL5/robotics/docs/define)
