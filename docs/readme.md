@@ -8,7 +8,6 @@
         <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
     </a> -->
 </div>
-<br>
 
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
@@ -144,8 +143,9 @@ ___
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 [Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
+[Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
 [L’informatique quantique](other/qc)  
-<!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
+<!-- [Le Quality monitoring](other/qualityMonitoring)  -->
 
 <br>
 <!-- <div align="center">
