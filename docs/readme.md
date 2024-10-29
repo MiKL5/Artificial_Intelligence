@@ -1,8 +1,8 @@
-<h1 align="center"><b>Les intelligences artificielles</b> <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+<h1 align="center"><b>L'intelligences artificielles</b> <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 <div align="center">
-    <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
-    <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
+    <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
+    <h3>Cette discipline est composée de plusieurs domaines.</h3>
     <br>
     <!-- <a href="../">
         <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
@@ -12,6 +12,7 @@
 
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
+[Les domaines connexes](basics/relatedFields)  
 [Les dates clés de l’intelligence artificielle](basics/history)  
 [Quelques concepts de base](basics/basicConcepts)  
 [L’IA symbolique](basics/sai)  
