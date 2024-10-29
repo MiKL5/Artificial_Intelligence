@@ -18,4 +18,4 @@ Plusieurs sujets sont liés étroitement à la discipline de l’intelligence ar
 
 ___
 >>>Cf.  
-[Qu’est ce qu’un robot ?](https://github.com/MiKL5/robotics/blob/masterdocs/define)
+[Qu’est ce qu’un robot ?](https://github.com/MiKL5/robotics/blob/master/docs/define)
