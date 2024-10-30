@@ -29,6 +29,7 @@
 [Privacy by design](basics/privacyByDesign)  
 [Privacy by default](basics/privacyByDefault)  
 [Langages et frameworks](basics/languagesAndFrameworks)  
+[Taxonomie](basics/taxonomy)
 -
 
 [Apprentissage par renforcement](reinforcementLearning)  
@@ -139,6 +140,7 @@ ___
 
 ## **Sujets connexes**
 [La gérance des données](other/dataStewarding)  
+[Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)
 [La Business Intelligence](other/bi)  
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 [Le Big Data](other/bigData)  
