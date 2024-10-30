@@ -19,7 +19,7 @@
 [L’IA hybride](basics/hai)  
 [L’IA multimodale](basics/mai)  
 [L’IA hybride versus l’IA multimodale](basics/haiVsMai)  
-[Les 4 phases de développement des IA](basics/aiDevelopmentPeriods)  
+[Les 4 phases de développement de l’IA](basics/aiDevelopmentPeriods)  
 [L’IA étroite](basics/weakAI) <!-- Weak AI = Narrow AI (IA étroite) -->  
 [L’intelligence générale artificielle](basics/agi)  
 [La super intelligence artificielle](basics/asi)  
@@ -140,7 +140,7 @@ ___
 
 ## **Sujets connexes**
 [La gérance des données](other/dataStewarding)  
-[Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)
+[Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
 [La Business Intelligence](other/bi)  
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 [Le Big Data](other/bigData)  
