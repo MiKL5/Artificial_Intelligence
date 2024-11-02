@@ -1,0 +1,9 @@
+# **La philosophie de l’Intelligence Artificielle**
+Les mots ”_Intelligence Artificielle_” soulève des questions philosophiques :
+- Est-ce qu’un comportement intelligent exige l’existence d’un esprit ?
+- Dans quelle mesure la conscience peut être reproduite par la calcul ?
+## **Le [test de Turing](../../ethics/benchmarks/turing)**
+Créer par la mathématicien et logicien anglais[Alan TURING](https://theconversation.com/alan-turing-de-lordinateur-a-lia-parcours-dun-genie-des-maths-232783), ayant vécu de 1912 à 1954. Il est connu comme inventer de l’ordinateur et pionnier de cette discipline. Il était fasciné par l’intelligence et la pensée ainsi que par le possibilité de la simulée avec des machines. Sa principale contribution en IA est son [jeu de simulation nommé test de Turing](../../ethics/benchmarks/turing).
+## **L’argument de la chambre chinoise**
+Il a été constaté l’idée selon laquelle l’intelligence et le comportement intelligent sont la même chose. Le plus connu des contre-arguments est l’expérience de pensée de [la chambre chinoise](https://iep.utm.edu/chinese-room-argument/) menée par [John SEARLE, Américain philosophe du langage](https://fr.wikipedia.org/wiki/John_Searle). Une personne ne parlant pas Chinois est enfermée. À l’extérieur, une autre personne lui glisse des notes chinoises, via la fente de boîte aux lettres. La personne enfermée a un épais manuel détaillant des instructions permettant de répondre.  
+Monsieur SEARLE, démontra que même si la personne extérieure à l’impression de converser avec un chinois, la personne à l’intérieur ne comprend pas cette langue et que même si une machine réussi un test (e.g. test de Turing) ça ne signifie pas être intelligent ni posséder un esprit analogue à celui d’un Homme. La démonstration et aussi valable avec le terme _conscient_ au lieu d’_intelligent_.
