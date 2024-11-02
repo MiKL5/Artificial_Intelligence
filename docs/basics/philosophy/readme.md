@@ -9,4 +9,12 @@ Ainsi John SEARLE, démontra que même si la personne extérieure à l’impress
 ## **Une voiture autonome est-elle intelligente**
 La chambre chinoise est opposée au fait que l’intelligence soit divisée en petites instructions mécaniques susceptibles d’être automatisées.  
 Une voiture autonome est un exemple d’élément de l’intelligence pouvant être automatiser. L’argument de la chambre chinoise suggère que ce n’est pas une pensée véritablement intelligence, juste d’une apparence. Le système d’IA ne voit pas, n’entend pas, et ne comprend pas son environnement ; il ne sait pas conduire à toute sécurité comme tel qu’un humain voit, entend, comprend son environnement et conduit. Le comportement intelligent du système est fondamentalement différent d’une véritable intelligence.
-## **L’importance philosiphique en pratique**
+## **L’importance philosophique en pratique**
+Définir l’intelligence, naturelle ou artificielle semble extrêmes évasif et mène à des discussions apparemment infinies.  
+John McCarthy a souligné que la philosophie de l’IA est “peu susceptible d’avoir plus d’incidence sur la pratique de la recherche en IA que de la philosophie de la science n’en a à la pratique de la science en général”. Nous continuerons à chercher des systèmes utiles à résoudre des problèmes pratiques, sans trop se poser la question de savoir s’ils sont intelligents ou affichent simplement un comportement intelligent.
+## **IA étroite ou générale ?**
+L’IA étroite traite une seule tâche ; l’IGA est capable de traiter n’importe quelle tâche intellectuelle.  
+Tous les systèmes actuels sont étroits, l’IGA est du domaine de la science-fiction. Dans l’idéal, l’IGA fût abandonné par l’absence de progrès en plus d’un demi-siècle ; l’IA étroite progresse vite.
+## **IA faible ou forte ?**
+Cette distinction est liée à la précédente.  
+Il s’agit de la distinction philosophique entre le fait d’être intelligent et d’agir intelligemment, mise en exergue par John SEARLE. Une IA forte serait équivalent à un esprit vraiment intelligent et conscient ; l’IA faible, affiche des comportements intelligent via de simple ordinateurs.
