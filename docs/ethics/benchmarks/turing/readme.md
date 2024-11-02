@@ -27,3 +27,8 @@ _**⟹ Bien qu’historiquement important, il présente d’importantes limites 
 D’autres approches complémentaires sont nécessaires pour évaluer pleinement les capacités des systèmes IA.**_
 
 Les chercheurs ont d’autres façons d’évaluer la compréhension dans les systèmes d’intelligence artificielle.
+## **Ce que voullait à démontrer Alan TURING**
+C’est particulièrement analogue à l’aphorisme de Forest GUMP “n’est stupide que la stupidité”. Pour A. TURING “n’est intelligent que l’intelligence”. Une entité est intelligente si elle est indistinguable d’une autre intelligente. En limitant les comportement à la discussion afin que les interrogateurs ne posent pas leur question sur l’apparence.
+## **Ressembler à un humain, est-ce être intelligent ?**
+L’une des critiques au test de Turing est que ce test d’intelligence mesure plus la ressemblance au comportement humain. Le test a été “réussi” par des programmes qui changeait de sujet en faisant des fautes d’orthographe et parfois en refusant de répondre.  
+L’exemple d’[Eugène GOOSTMAN](https://lejournal.cnrs.fr/articles/alan-turing-genie-au-destin-brise) tentant de ne pas répondre aux questions en faisant des plaisanteries et changeant de sujet.
