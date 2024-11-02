@@ -9,3 +9,4 @@ Ainsi John SEARLE, démontra que même si la personne extérieure à l’impress
 ## **Une voiture autonome est-elle intelligente**
 La chambre chinoise est opposée au fait que l’intelligence soit divisée en petites instructions mécaniques susceptibles d’être automatisées.  
 Une voiture autonome est un exemple d’élément de l’intelligence pouvant être automatiser. L’argument de la chambre chinoise suggère que ce n’est pas une pensée véritablement intelligence, juste d’une apparence. Le système d’IA ne voit pas, n’entend pas, et ne comprend pas son environnement ; il ne sait pas conduire à toute sécurité comme tel qu’un humain voit, entend, comprend son environnement et conduit. Le comportement intelligent du système est fondamentalement différent d’une véritable intelligence.
+## **L’importance philosiphique en pratique**
