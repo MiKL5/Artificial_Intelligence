@@ -2,7 +2,7 @@
 
 <div align="center">
     <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
-    <h3>Cette discipline est composée de plusieurs domaines.</h3>
+    <h3>L'Intelligence artificielle est interdisciplinaire.</h3>
     <br>
     <!-- <a href="../">
         <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
