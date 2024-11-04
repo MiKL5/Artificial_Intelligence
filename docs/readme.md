@@ -92,11 +92,9 @@
 <!-- [Définition]() -->
 
 ## **Les algorithmes**
-> ### **Les algorithmes d’apprentissage non supervisés**
-> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
-> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
-
 > ### **Les algorithmes de recherches**
+> Beaucoup de prbblèmes sont formulables comme des prblèmes de recherche. Il faut commencer en formulant les choix et leurs conséquences.  
+> [Les problèmes de recherche et planification](algo/ResearchAndPlanningProblems)  
 > [Définition](algo/search)  
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
 > [L’algorithme de recherche de chemin tabou](algo/tabou)  
@@ -104,6 +102,10 @@
 > [L’algorithme glouton de Prim](algo/prim)  
 > [L’algorithme de force brute](algo/brutForce)  
 > [Algorithme de recherche hybride](algo/hybride)
+
+> ### **Les algorithmes d’apprentissage non supervisés**
+> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
+> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
 > ### **Les algorithmes de parcours**
 > [Définition](algo/path)  
@@ -117,7 +119,7 @@
 > [L’algorithme de Kruskal](algo/kruskal)  
 > [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/kahnVsTarjan)  
 
-[Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
+<!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
 
 ## **Les grands modèles de langage**
