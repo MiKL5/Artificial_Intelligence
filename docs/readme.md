@@ -30,7 +30,7 @@
 [Privacy by design](basics/privacyByDesign)  
 [Privacy by default](basics/privacyByDefault)  
 [Langages et frameworks](basics/languagesAndFrameworks)  
-[Taxonomie de l’IA](basics/taxonomy)
+[Taxonomie de l’IA](basics/taxonomy)  
 -
 
 [Apprentissage par renforcement](reinforcementLearning)  
