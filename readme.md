@@ -12,7 +12,7 @@
 
 > ### **Le Machine Learning**
 >>  #### **L’apprentissage supervisé**
-1. [Prédire le score de dépences des clients]() <kbd>_Soon_</kbd>
+1. [Prédire le score de dépences des clients](projects/ML/spendingScore)
 
 <div align="center">
 
