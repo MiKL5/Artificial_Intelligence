@@ -14,7 +14,8 @@
 >>  #### **L’apprentissage supervisé**
 1. [Prédire le score de dépences des clients](https://github.com/MiKL5/machineLearning/blob/master/projects/spendingScore)
 2. [Prédition de la qualité du vin](https://github.com/MiKL5/machineLearning/blob/master/projects/wineQuality)
-<!-- 3. [Prédition du courrier indésirable](https://github.com/MiKL5/machineLearning/blob/master/projects/spam) <kbd>_Soon_</kbd> -->
+3. [Prédition du courrier indésirable](https://github.com/MiKL5/machineLearning/blob/master/projects/spam) <kbd>_Soon_</kbd>
+<!-- 4. [Prédition immobilière à Melbourne](https://github.com/MiKL5/machineLearning/blob/master/projects/melbourne) <kbd>_Soon_</kbd> -->
 
 
 <div align="center">
