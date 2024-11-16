@@ -12,11 +12,7 @@
 
 > ### **Le Machine Learning**
 >>  #### **L’apprentissage supervisé**
-1. [Prédire le score de dépences des clients](https://github.com/MiKL5/machineLearning/blob/master/projects/spendingScore)
-2. [Prédition de la qualité du vin](https://github.com/MiKL5/machineLearning/blob/master/projects/wineQuality)
-3. [Prédition du courrier indésirable](https://github.com/MiKL5/machineLearning/blob/master/projects/spam)
-4. [Prédition immobilière à Melbourne](https://github.com/MiKL5/machineLearning/blob/master/projects/melbourne)
-<!-- 5. [Prédiction du prix des maisson](https://github.com/MiKL5/machineLearning/blob/master/projects/house) <kbd>_Soon_</kbd> -->
+>>> [Les projets](https://github.com/MiKL5/machineLearning/)
 
 
 <div align="center">
@@ -27,7 +23,8 @@
 [Business Intelligence](https://github.com/MiKL5/BI/)  
 [Data Science](https://github.com/MiKL5/DS)  
 [Machine Learning](https://github.com/MiKL5/machineLearning)  
-<!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
+<!-- [Internet Of Things (IOT)](https://github.com/MiKL5/iot)   -->
+<!-- [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
 
 [En savoir + à propos des domaines connexes](docs/basics/relatedFields)  
