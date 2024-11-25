@@ -10,6 +10,7 @@
 ## **Projets**
 </div>
 
+[Chatbot basé sur l’IA générative](https://github.com/MiKL5/Python/blob/master/projets/firstChatbot) <a href="docs"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="18px"></a>  
 > ### **Le Machine Learning**
 >>  #### **L’apprentissage supervisé**
 >>> [Les projets](https://github.com/MiKL5/machineLearning/)
