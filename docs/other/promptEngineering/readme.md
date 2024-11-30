@@ -5,4 +5,4 @@ Ce domaine est étroitement lié à l’intelligence artificielle, particulière
 1. [Définition, origine est contexte](def)
 2. [Est-il utiliser dans d’autres domaines ?](using)
 3. [Les compétences requises](skills)
-4. [Les types de promptes](prompts)
+4. [Les types de promptes](types)
