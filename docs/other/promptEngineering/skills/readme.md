@@ -29,5 +29,4 @@ En plus d’avoir des compétences en communication, les ingénieurs de prompts 
 * _L’apprentissage few-shot (ou apprentissage en contexte)_ donne au modèle quelques exemples de sorties (_des shots_) pour l’aider à apprendre ce qu’il doit réaliser. Le modèle d’apprentissage peut mieux comprendre le résultat souhaité s’il dispose d’un contexte sur lequel s’appuyer.
 * _L’apprentissage chain-of-thought (CoT)_ est une technique avancée qui fournit un raisonnement étape par étape que le modèle doit suivre. Décomposer une tâche complexe en étapes intermédiaires, ou « chaînes de raisonnement », aide le modèle à mieux comprendre le langage et à générer des résultats plus précis.
 ___
->>> Cf.
-[IBM](https://www.ibm.com/fr-fr/topics/prompt-engineering)
+>>> Cf. [IBM](https://www.ibm.com/fr-fr/topics/prompt-engineering)
