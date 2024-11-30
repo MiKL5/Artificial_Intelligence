@@ -147,6 +147,7 @@ ___
 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
 [La Business Intelligence](other/bi)  
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
+[Le prompte engineering](other/promptEngineering/)
 [Le Big Data](other/bigData)  
 [Le métavers](other/metavers)  
 [Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
