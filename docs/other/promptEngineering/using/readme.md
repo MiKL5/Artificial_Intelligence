@@ -1,4 +1,4 @@
-# **Dans quels domaines est utilisé le Prompt Engineering ?**
+# **Dans quels domaines est utilisé le Prompt Engineering ?** <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 Le prompt engineering est utilisé dans plusieurs domaines au-delà de l’intelligence artificielle, et est particulièrement pertinent dans d’autres domaines.
 
@@ -18,6 +18,8 @@ Le prompt engineering est également appliqué dans le domaine de la formation, 
 
 **⟹ Le prompt engineering est une compétence clé qui trouve des applications variées dans de nombreux secteurs, permettant d’optimiser l’utilisation des outils d’intelligence artificielle pour répondre à des besoins spécifiques.**
 
+___
+>>> Cf.  
 [1] [Prompt Engineering : définition et avantages](https://mylittlebigweb.com/blogue/prompt-engineering/)  
 [2] [Prompt Engineer : tout savoir sur ce nouveau métier de l’IA](https://datascientest.com/prompt-engineer-tout-savoir)  
 [3] [Prompt Engineering : Formation et Avantages Clés](https://360learning.com/fr/blog/prompt-engineering/)
