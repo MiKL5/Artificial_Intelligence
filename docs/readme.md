@@ -146,6 +146,7 @@ ___
 [La gérance des données](other/dataStewarding)  
 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
 [La Business Intelligence](other/bi)  
+[Taxonomie de la Business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 [Le prompte engineering](other/promptEngineering)  
 [Le Big Data](other/bigData)  
