@@ -11,4 +11,4 @@ Au départ, ces modèles étaient surtout utilisés pour des tâches spécifique
 
 ___
 >>> Cf.  
-[My Littel Big Web](https://mylittlebigweb.com/blogue/prompt-engineering/#i3pcroe6k)
+[My little Big Web](https://mylittlebigweb.com/blogue/prompt-engineering/#i3pcroe6k)
