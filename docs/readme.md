@@ -31,6 +31,7 @@
 [Privacy by default](basics/privacyByDefault)  
 [Langages et frameworks](basics/languagesAndFrameworks)  
 [Taxonomie de l’IA](basics/taxonomy)  
+[Fonctionnnement d’une AI générative conversationnelle](basics/howConversationalGenerativeAiWorks)  
 -
 
 [Apprentissage par renforcement](reinforcementLearning)  
