@@ -12,7 +12,7 @@
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
 [Domaines connexes](basics/relatedFields)  
-[La philosophie de l’IA](basics/philosophy/)  
+[La philosophie de l’IA](basics/philosophy)  
 [Les dates clés de l’intelligence artificielle](basics/history)  
 [Quelques concepts de base](basics/basicConcepts)  
 [L’IA symbolique](basics/sai)  
@@ -39,12 +39,12 @@
 [Stratégie vs plan](statégieVSplan)  
 [Pénalité de vie](penaliteDeVie)  
 
-## **Q-learning**  
+## **Q-learning**
 [Intuition](q-learningIntuition)  
 [La différence temporelle](timeDifference)  
 [Le Q-learning visualisation](q-learningVisualisaition)  
 
-## **Réseaux de neurones artificiels**  
+## **Réseaux de neurones artificiels**
 [C’est quoi le Deep-Learning](artificiallNeuralNetwork/WhatsDeepLearning)  
 [Le neurone](artificiallNeuralNetwork/Neuron)  
 [La fonction d’activation](artificiallNeuralNetwork/activationFunction)  
@@ -121,7 +121,6 @@
 
 <!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
-
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
 [Qu’est-ce qu’un MLLM ?](other/mllm)
@@ -141,7 +140,6 @@ ___
 
 <!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/researh) -->
 ___
-
 ## **Sujets connexes**
 [La gérance des données](other/dataStewarding)  
 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  

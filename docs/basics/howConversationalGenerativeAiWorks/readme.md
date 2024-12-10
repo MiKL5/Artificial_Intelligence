@@ -4,7 +4,7 @@ L’apprentissage profond discipline de l’apprentissage automatique est le mé
 
 Pour comprendre, l’IA utilise la technique du langage naturel (Natural Language processing) pour décomposer la demande en phrase, puis en mot afin de saisir le contexte général, ainsi apporter une réponse la plus adaptée possible.
 
-La technologie du [neurone Transformer (structure propre à l’apprentissage profond](../../seq2Seq/transformers) ; c’est-à-dire un réseau de neurones artificielles). Ces transformateurs, utilisent l’attention sélective. L’agent se focalise sur certains mots, l’ordre des mots, et la relation en ces derniers pour en déduire le contexte général et le contenu.
+La technologie du [neurone Transformer (structure propre à l’apprentissage profond](../../seq2Seq/transformers) ; c’est-à-dire un réseau de neurones artificielles). Ces transformateurs, utilisent l’attention sélective. L’agent se focalise sur certains mots, l’ordre des mots, et la relation en ces derniers pour en déduire le contexte général et le contenu. Il découpe les mots en token.
 1. Identifier le sujet (à donc une importance capitale) ;
 2. Tenir comptes des informations de contexte (dans la cuisine), pour localiser l’action ;
 3. Formuler sa réponse.
