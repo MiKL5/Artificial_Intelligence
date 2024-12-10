@@ -11,7 +11,7 @@
 
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
-[Les domaines connexes](basics/relatedFields)  
+[Domaines connexes](basics/relatedFields)  
 [La philosophie de l’IA](basics/philosophy/)  
 [Les dates clés de l’intelligence artificielle](basics/history)  
 [Quelques concepts de base](basics/basicConcepts)  
@@ -33,7 +33,6 @@
 [Taxonomie de l’IA](basics/taxonomy)  
 [Fonctionnnement d’une AI générative conversationnelle](basics/howConversationalGenerativeAiWorks)  
 -
-
 [Apprentissage par renforcement](reinforcementLearning)  
 [Équation de Bellman](bellmanEquation)  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens)  
