@@ -4,9 +4,9 @@
     <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
     <h3>L'Intelligence artificielle est interdisciplinaire.</h3>
     <br>
-    <!-- <a href="../">
-        <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
-    </a> -->
+    <a href="../">
+        <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
+    </a>
 </div>
 
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
@@ -154,11 +154,6 @@ ___
 <!-- [Le Quality monitoring](other/qualityMonitoring)  -->
 
 <br>
-<!-- <div align="center">
-    <a href="../">
-        <img src="../assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f43424642443543303642354444444442363544444138363535324338383942432d30312e6a7067.png" height="300px">
-    </a>
-</div> -->
 <div align="center">
     <a href="../">
         <img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="Les intelligences artificielles" height="300px">
