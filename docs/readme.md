@@ -129,7 +129,8 @@ ___
 [L’effet Eliza](ethics/eliza)
 ## **Mesurer l’Intelligence et l’efficacité d’un système d’IA**
 [Test de Turing](ethics/benchmarks/turing)  
-[L’argument de la chambre chinoise](ethics/chineseRoom)
+[Test MIST](ethics/benchmarks/mist)  
+[L’argument de la chambre chinoise](ethics/chineseRoom)  
 [Tests alternatifs](ethics/benchmarks/atlernativeTests)  
 [Benchmark GLUE (General Language Understanding Evaluation)](ethics/benchmarks/glue)  
 [Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)  
