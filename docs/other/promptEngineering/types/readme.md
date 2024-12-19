@@ -1,7 +1,9 @@
 # **Les principaux types de prompts** <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+Un prompt est une consigne textuelle apportant du texte, une image, un vidéogramme, etc. Le prompt engineering est un ensemble de bonnes manières pour formuler un prompt permettant un résultat qualitatif.
+## **La méthode ”`Entrée, sortie`”**
+Fomruler une requête simple et clair pour obenir une réponse, puis reformuler ou itérer une nouveelle consigne.
 
-## Les prompts basiques
-Apportent une réponse simple, pour la classification de texte ou répondre à des questions simples.  
+Ça apporte une réponse simple, pour la classification de texte ou répondre à des questions simples.  
 Faciles à créer et comprendre pour les débutants.  
 Ces prompts ne sont pas aussi précis, ni personnalisés.  
 Ils permettent :
