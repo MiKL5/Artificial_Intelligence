@@ -1,6 +1,5 @@
 # **Le test MIST** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
 MIST (Minimum Intelligent Signal Test), est une variation du test de Turing proposée par Chris McKinstry. Ce test a pour objectif d’évaluer l’intelligence d’un système d’intelligence artificielle en lui posant des questions auxquelles il doit répondre par des réponses binaires (oui/non voire vrai/faux).
-
 ## **L’objectif**
 Fournir une mesure quantitative de l’intelligence en déterminant si un programme peut répondre correctement à un ensemble de questions prédéfinies, appelées “Mindpixels” [1].  
   McKinstry a rassemblé environ 80 000 propositions qui peuvent être répondues par oui ou non, testant ainsi des connaissances spécifiques et des faits de base sur divers concepts [1].

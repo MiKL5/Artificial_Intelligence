@@ -20,9 +20,9 @@ Le prétraitement des données | Bien nettoyer et préparer les données pour é
 Le contrôle de qualité | Valider les données d’entrée pour s’assurer de leur précision et de leur pertinence.
 Tenir une documentation rigoureuse | Doc précise des sources et des transformations appliquées.
 La validation continue | Évaluer les modèles ou les systèmes en continu avec des données de test fiables.
-## **Réflexion et lien avec l’éthique**
+## **Réflexion avec l’éthique**
 Ce principe rappelle l’importance de l’éthique dans les données et les modèles. Les erreurs introduites à cause de données biaisées ou non représentatives peuvent entraîner des discriminations ou des décisions injustes. En France et en Suisse, cela peut être lié aux normes RGPD (Règlement général sur la protection des données) et à des articles sur la responsabilité algorithmique.  
 D’où l’importance de garder l’esprit critique face à ces systèmes.
 ___
 >>>Cf.  
-[Medium.com](https://medium.com/@tilkaltech/garbage-in-garbage-out-faut-il-des-donn%C3%A9es-vraies-pour-extraire-de-linformation-utile-e067bd0a3d64)
+[Extraire des infos utiles](https://medium.com/@tilkaltech/garbage-in-garbage-out-faut-il-des-donn%C3%A9es-vraies-pour-extraire-de-linformation-utile-e067bd0a3d64)
