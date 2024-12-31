@@ -51,20 +51,20 @@ Le seuil de réussite de ce test n’est pas spécifiquement défini. Cependant,
 Il est important de noter que le test MIST est conçu pour évaluer non seulement la capacité à répondre correctement, mais aussi la compréhension et la généralisation des connaissances par le programme.
 ## **Exemples de questions MIST**
 1. **Questions de culture générale** :
-- La Terre est-elle la troisième planète du système solaire ? (Oui)
-- Paris est-elle la capitale de la France ? (Oui)
+   - La Terre est-elle la troisième planète du système solaire ? (Oui)
+   - Paris est-elle la capitale de la France ? (Oui)
 1. **Questions de logique** :
-- Si tous les chats sont des animaux, alors un chat est-il un animal ? (Oui)
-- Un triangle peut-il avoir quatre côtés ? (Non)
+   - Si tous les chats sont des animaux, alors un chat est-il un animal ? (Oui)
+   - Un triangle peut-il avoir quatre côtés ? (Non)
 1. **Questions scientifiques** :
-- L’eau gèle-t-elle à 0 degré Celsius ? (Oui)
-- Le soleil est-il une étoile ? (Oui)
+   - L’eau gèle-t-elle à 0 degré Celsius ? (Oui)
+   - Le soleil est-il une étoile ? (Oui)
 1. **Questions mathématiques** :
-- Deux plus deux égale-t-il quatre ? (Oui)
-- Un carré a-t-il trois côtés ? (Non)
+   - Deux plus deux égale-t-il quatre ? (Oui)
+   - Un carré a-t-il trois côtés ? (Non)
 1. **Questions historiques** :
-- Napoléon Bonaparte était-il un empereur français ? (Oui)
-- La Révolution française a-t-elle eu lieu au 19ème siècle ? (Non)
+   - Napoléon Bonaparte était-il un empereur français ? (Oui)
+   - La Révolution française a-t-elle eu lieu au 19ème siècle ? (Non)
 ___
 >>> Cf.  
 > 1. [Minimum intelligent signal test - Wikipedia](https://en.wikipedia.org/wiki/Minimum_intelligent_signal_test)
