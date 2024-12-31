@@ -1,4 +1,4 @@
-# **L’algo de parcours de graph en profondeur `tri topologique`**
+# **L’algo de parcours de graph en profondeur `tri topologique`** <a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Le tri topologique est un algorithme utilisé pour ordonner les nœuds d’un graphe acyclique dirigé (DAG, Directed Acyclic Graph) de manière à ce que chaque nœud apparaisse avant tous les nœuds qui dépendent de lui.
 
 Les principales étapes de l’algorithme de tri topologique  
