@@ -77,6 +77,6 @@ ___
 > 8. [Memory for Intentions Test ™](https://www.parinc.com/products/MIST)
 > 9. [Test de développement général (TDG) - Centre de services scolaire de Montréal](https://www.cssdm.gouv.qc.ca/education-adultes/evaluations/test-developpement-general-tdg/)
 > 10. [Test de Turing - Wikipédia](https://fr.wikipedia.org/wiki/Test_de_Turing)
+> 11. [Intelligence Artificielle : 5 exemples concrets | IoT Industriel Blog](https://iotindustriel.com/autres/technologies/intelligence-artificielle/intelligence-artificielle-5-exemples-concrets/)
+> 12. [L’intelligence artificielle : exemples de dilemmes éthiques | UNESCO](https://www.unesco.org/fr/artificial-intelligence/recommendation-ethics/cases)
 <!-- > 11. [Les 9 questions les plus posées sur l’intelligence artificielle | Leexi - AI Meeting - AI Notes](https://www.leexi.ai/fr/business-intelligence/questions-ia/) -->
-> 12. [Intelligence Artificielle : 5 exemples concrets | IoT Industriel Blog](https://iotindustriel.com/autres/technologies/intelligence-artificielle/intelligence-artificielle-5-exemples-concrets/)
-> 13. [L’intelligence artificielle : exemples de dilemmes éthiques | UNESCO](https://www.unesco.org/fr/artificial-intelligence/recommendation-ethics/cases)

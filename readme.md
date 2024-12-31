@@ -20,7 +20,7 @@
 
 <!-- ## [**Documentation**](docs) -->
 
-## Domaines connexes
+## Disciplines connexes
 [Business Intelligence](https://github.com/MiKL5/BI/)  
 [Data Science](https://github.com/MiKL5/DS)  
 [Machine Learning](https://github.com/MiKL5/machineLearning)  
