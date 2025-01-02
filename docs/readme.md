@@ -140,6 +140,12 @@ ___
 [Les principaux défis éthiques lors du déploiement de l’IA dans des domaines sensibles](ethics/chalenges/health)  
 
 <!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/researh) -->
+<div align="center">
+    <a href="../">
+        <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
+    </a>
+</div>
+
 ___
 ## **Sujets connexes**
 [La gérance des données](other/dataStewarding)  
