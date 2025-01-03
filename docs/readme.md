@@ -4,9 +4,9 @@
     <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
     <h3>L'Intelligence artificielle est interdisciplinaire.</h3>
     <br>
-    <a href="../">
+    <!-- <a href="../">
         <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
-    </a>
+    </a> -->
 </div>
 
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
@@ -93,7 +93,6 @@
 
 ## **Les algorithmes**
 > ### **Les algorithmes de recherches**
-> Beaucoup de prbblèmes sont formulables comme des prblèmes de recherche. Il faut commencer en formulant les choix et leurs conséquences.  
 > [Les problèmes de recherche et planification](algo/ResearchAndPlanningProblems)  
 > [Définition](algo/search)  
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
