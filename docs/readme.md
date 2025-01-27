@@ -154,6 +154,8 @@ ___
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 [Le prompte engineering](other/promptEngineering)  
 [Le Big Data](other/bigData)  
+[Le marketing digital](other/md)  
+[Le copywriting](other/c)  
 [Le métavers](other/metavers)  
 [Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
 [L’informatique quantique](other/qc)  
