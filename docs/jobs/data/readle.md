@@ -1,4 +1,4 @@
-# **Les métiers de la Data**
+# **Les métiers de la Data** <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
 ## **Data officer**
 Est chargé de la stratégie des données.
 ## **Data architect**
@@ -11,11 +11,3 @@ Traite les données.
 Les analyses.
 ## **Data proctection officer**
 S’occupe de la protection des données.
-## **Data owner**
-Défini les standards.
-## **Data steward**
-Les appliques.
-## **Data protection manager**
-Est en souten au Data proctection officer.
-## **Business analyst**
-Analyse les besoins.
