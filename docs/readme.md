@@ -1,48 +1,50 @@
-<h1 align="center"><b>Les intelligences artificielles</b> <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+<h1 align="center"><b>L'intelligences artificielles</b> <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 <div align="center">
-    <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.</h4>
-    <h3>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h4>
+    <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
+    <h3>L'Intelligence artificielle est interdisciplinaire.</h3>
     <br>
     <!-- <a href="../">
-        <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
+        <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
     </a> -->
 </div>
-<br>
 
-[Quelques concepts de base](basics/basicConcepts "Quelques concepts pour comprendre ce qu'est qu'une intelligence artificielle")  
+[Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
-[IA or not IA ?]() _<kbd>Soon</kbd>_  
-[Histoire](basics/history "L'histoire de l'intelligence artificielle (dates clés)")  
-[L’IA symbolique](basics/sai )  
-[L’IA connexionniste](basics/cai "L'IA connexioniste ⟶ le réseau de neurones profond")  
+[Domaines connexes](basics/relatedFields)  
+[La philosophie de l’IA](basics/philosophy)  
+[Les dates clés de l’intelligence artificielle](basics/history)  
+[Quelques concepts de base](basics/basicConcepts)  
+[L’IA symbolique](basics/sai)  
+[L’IA connexionniste](basics/cai)  
 [L’IA hybride](basics/hai)  
 [L’IA multimodale](basics/mai)  
 [L’IA hybride versus l’IA multimodale](basics/haiVsMai)  
-[Les 4 phases de développement des IA](basics/aiDevelopmentPeriods "Les quatre grandes phases de l'intelligence artificielle")  
-[L’IA étroite](basics/weakAI "Weak AI = Narrow AI (IA étroite)")  
+[Les 4 phases de développement de l’IA](basics/aiDevelopmentPeriods)  
+[L’IA étroite](basics/weakAI) <!-- Weak AI = Narrow AI (IA étroite) -->  
 [L’intelligence générale artificielle](basics/agi)  
-[La super intelligence artificielle](basics/asi) _<kbd>Soon</kbd>_  
+[La super intelligence artificielle](basics/asi)  
 [Les craintes](basics/fears)  
 [La gestion des risques](basics/riskManagement)  
 [Ethic by design](ethics/ethicByDesign)  
 [Privacy by design](basics/privacyByDesign)  
 [Privacy by default](basics/privacyByDefault)  
 [Langages et frameworks](basics/languagesAndFrameworks)  
+[Taxonomie de l’IA](basics/taxonomy)  
+[Fonctionnnement d’une AI générative conversationnelle](basics/howConversationalGenerativeAiWorks)  
 -
-
 [Apprentissage par renforcement](reinforcementLearning)  
 [Équation de Bellman](bellmanEquation)  
 [Processus décisionnels Markoviens](processusDeDecisionMarkoviens)  
 [Stratégie vs plan](statégieVSplan)  
 [Pénalité de vie](penaliteDeVie)  
 
-## **Q-learning**  
+## **Q-learning**
 [Intuition](q-learningIntuition)  
 [La différence temporelle](timeDifference)  
 [Le Q-learning visualisation](q-learningVisualisaition)  
 
-## **Réseaux de neurones artificiels**  
+## **Réseaux de neurones artificiels**
 [C’est quoi le Deep-Learning](artificiallNeuralNetwork/WhatsDeepLearning)  
 [Le neurone](artificiallNeuralNetwork/Neuron)  
 [La fonction d’activation](artificiallNeuralNetwork/activationFunction)  
@@ -90,11 +92,8 @@
 <!-- [Définition]() -->
 
 ## **Les algorithmes**
-> ### **Les algorithmes d’apprentissage non supervisés**
-> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
-> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
-
 > ### **Les algorithmes de recherches**
+> [Les problèmes de recherche et planification](algo/ResearchAndPlanningProblems)  
 > [Définition](algo/search)  
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
 > [L’algorithme de recherche de chemin tabou](algo/tabou)  
@@ -102,6 +101,10 @@
 > [L’algorithme glouton de Prim](algo/prim)  
 > [L’algorithme de force brute](algo/brutForce)  
 > [Algorithme de recherche hybride](algo/hybride)
+
+> ### **Les algorithmes d’apprentissage non supervisés**
+> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
+> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
 > ### **Les algorithmes de parcours**
 > [Définition](algo/path)  
@@ -115,8 +118,7 @@
 > [L’algorithme de Kruskal](algo/kruskal)  
 > [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/kahnVsTarjan)  
 
-[Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch)
-
+<!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
@@ -126,6 +128,8 @@ ___
 [L’effet Eliza](ethics/eliza)
 ## **Mesurer l’Intelligence et l’efficacité d’un système d’IA**
 [Test de Turing](ethics/benchmarks/turing)  
+[Test MIST](ethics/benchmarks/mist)  
+[L’argument de la chambre chinoise](ethics/chineseRoom)  
 [Tests alternatifs](ethics/benchmarks/atlernativeTests)  
 [Benchmark GLUE (General Language Understanding Evaluation)](ethics/benchmarks/glue)  
 [Benchemarks complétants GLUE](ethics/benchmarks/othersBenchmarks)  
@@ -135,24 +139,30 @@ ___
 [Les principaux défis éthiques lors du déploiement de l’IA dans des domaines sensibles](ethics/chalenges/health)  
 
 <!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/researh) -->
-___
-
-## **Sujets connexes**
-[La gérance des données](other/dataStewarding)  
-[La Business Intelligence](other/bi)  
-[La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
-[Le Big Data](other/bigData)  
-[Le métavers](other/metavers)  
-[L’informatique quantique](other/qc)  
-<!-- [Le Quality monitoring](other/qualityMonitoring/)  -->
-
-<br>
-<!-- <div align="center">
-    <a href="../">
-        <img src="../assets/images/68747470733a2f2f63646e2e6d617a652e677572752f696d6167652f43424642443543303642354444444442363544444138363535324338383942432d30312e6a7067.png" height="300px">
-    </a>
-</div> -->
 <div align="center">
     <a href="../">
-        <img src="../assets/images/68747470733a2f2f6d617a652d677572752e6f73732d616363656c65726174652e616c6979756e63732e636f6d2f696d6167652f41453439334345393639363641304142363741383541333845363339463134462d30312e6a7067.png" alt="Les intelligences artificielles" height="300px">
+        <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
+    </a>
+</div>
+
+___
+## **Sujets connexes**
+[La gérance des données](other/dataStewarding)  
+[Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
+[La Business Intelligence](other/bi)  
+[Taxonomie de la Business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
+[La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
+[Le prompte engineering](other/promptEngineering)  
+[Le Big Data](other/bigData)  
+[Le marketing digital](other/md)  
+[Le copywriting](other/c)  
+[Le métavers](other/metavers)  
+[Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
+[L’informatique quantique](other/qc)  
+<!-- [Le Quality monitoring](other/qualityMonitoring)  -->
+
+<br>
+<div align="center">
+    <a href="../">
+        <img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="Les intelligences artificielles" height="300px">
     </a>
