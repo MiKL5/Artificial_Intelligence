@@ -92,6 +92,10 @@
 <!-- [Définition]() -->
 
 ## **Les algorithmes**
+> ### **Les algorithmes d’apprentissage non supervisés**
+> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
+> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
+
 > ### **Les algorithmes de recherches**
 > [Les problèmes de recherche et planification](algo/ResearchAndPlanningProblems)  
 > [Définition](algo/search)  
@@ -101,10 +105,6 @@
 > [L’algorithme glouton de Prim](algo/prim)  
 > [L’algorithme de force brute](algo/brutForce)  
 > [Algorithme de recherche hybride](algo/hybride)
-
-> ### **Les algorithmes d’apprentissage non supervisés**
-> [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
-> [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
 > ### **Les algorithmes de parcours**
 > [Définition](algo/path)  
@@ -118,11 +118,31 @@
 > [L’algorithme de Kruskal](algo/kruskal)  
 > [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/kahnVsTarjan)  
 
-<!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
+[Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) 
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
 [Qu’est-ce qu’un MLLM ?](other/mllm)
+
+<br>
+
+___
+
+<br>
+
+## **Les métiers, leurs rôles et intérêt**
+[Les métiers de la data](jobs/data)  
+[Les roles en data](jobs/data/roles)  
+[Les métiers en IA](jobs)
+
+
+<br>
+<div align="center">
+    <a href="../">
+        <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
+    </a><br<>
+</div>
+
 ___
 ## **Éthique**
 [L’effet Eliza](ethics/eliza)
@@ -139,11 +159,6 @@ ___
 [Les principaux défis éthiques lors du déploiement de l’IA dans des domaines sensibles](ethics/chalenges/health)  
 
 <!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/researh) -->
-<div align="center">
-    <a href="../">
-        <img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="Les intelligences artificielles" height="300px">
-    </a>
-</div>
 
 ___
 ## **Sujets connexes**
@@ -165,4 +180,4 @@ ___
 <div align="center">
     <a href="../">
         <img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="Les intelligences artificielles" height="300px">
-    </a>
+    </a
