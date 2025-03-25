@@ -122,7 +122,8 @@
 
 ## **Les grands modèles de langage**
 [Qu’est-ce qu’un LLM ?](other/llm)  
-[Qu’est-ce qu’un MLLM ?](other/mllm)
+[Qu’est-ce qu’un MLLM ?](other/llm/mllm)  
+[Qu’est-ce q’un token ?](other/llm/token)
 
 ___
 ## **Éthique**
