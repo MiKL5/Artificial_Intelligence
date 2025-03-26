@@ -120,11 +120,11 @@
 
 <!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
-## **Les grands modèles de langage**
-[Qu’est-ce qu’un LLM ?](other/llm)  
-[Qu’est-ce qu’un MLLM ?](other/llm/mllm)  
-[Qu’est-ce q’un token ?](other/llm/token)
-
+## **L’IA générative**
+[LLM](generativeAi/llm)  
+[MLLM](generativeAi/llm/mllm)  
+[Le token](generativeAi/token)  
+[La fenêtre contextuelle](generativeAi/contextWindow)
 ___
 ## **Éthique**
 [L’effet Eliza](ethics/eliza)
