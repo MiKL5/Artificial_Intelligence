@@ -386,3 +386,10 @@ docs/._jobs
 projects/ML/spendingScore/._Mall_Customers.csv
 projects/ML/spendingScore/._spendingScore.ipynb
 projects/ML/._spendingScore
+docs/._generativeAi
+docs/generativeAi/._fineTuning
+docs/generativeAi/._contextWindow
+docs/generativeAi/._llm
+docs/generativeAi/._token
+docs/generativeAi/llm/._mllm
+docs/other/._hullucination
