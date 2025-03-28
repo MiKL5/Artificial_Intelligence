@@ -121,11 +121,13 @@
 <!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
 ## **L’IA générative**
+[Le LLM](generativeAi/llm)  
+[Le MLLM](generativeAi/llm/mllm)  
 [Le token](generativeAi/token)  
 [La fenêtre contextuelle](generativeAi/contextWindow)  
-[LLM](generativeAi/llm)  
-[MLLM](generativeAi/llm/mllm)  
-<!-- [Fine-Tunning]() -->
+[Le fine-Tunning](generativeAi/fineTuning)
+
+<!-- [Hallucination](other/hullucination) -->
 ___
 ## **Éthique**
 [L’effet Eliza](ethics/eliza)
