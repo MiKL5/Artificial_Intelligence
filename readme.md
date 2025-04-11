@@ -13,7 +13,7 @@
 [Chatbot basé sur l’IA générative](https://github.com/MiKL5/Python/blob/master/projets/firstChatbot) <a href="docs"><img align="center" src="https://github.com/MiKL5/Python/raw/master/assets/Python-logo-notext.svg" alt="Python" height="18px"></a>  
 > ### **Le Machine Learning**
 >> #### **L’apprentissage supervisé**
->> [Les projets](https://github.com/MiKL5/machineLearning/)
+>> [Les projets](https://github.com/MiKL5/machineLearning)
 
 
 <div align="center">
@@ -21,9 +21,11 @@
 <!-- ## [**Documentation**](docs) -->
 
 ## Disciplines connexes
-[Business Intelligence](https://github.com/MiKL5/BI/)  
+[Business Intelligence](https://github.com/MiKL5/BI)  
 [Data Science](https://github.com/MiKL5/DS)  
+
 [Machine Learning](https://github.com/MiKL5/machineLearning)  
+
 <!-- [Internet Of Things (IOT)](https://github.com/MiKL5/iot)   -->
 <!-- [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
