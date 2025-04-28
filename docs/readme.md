@@ -39,12 +39,12 @@
 [Stratégie vs plan](statégieVSplan)  
 [Pénalité de vie](penaliteDeVie)  
 
-## **Q-learning**
+## **🤖 Q-learning**
 [Intuition](q-learningIntuition)  
 [La différence temporelle](timeDifference)  
 [Le Q-learning visualisation](q-learningVisualisaition)  
 
-## **Réseaux de neurones artificiels**
+## **🧠 Réseaux de neurones artificiels**
 [C’est quoi le Deep-Learning](artificiallNeuralNetwork/WhatsDeepLearning)  
 [Le neurone](artificiallNeuralNetwork/Neuron)  
 [La fonction d’activation](artificiallNeuralNetwork/activationFunction)  
@@ -54,7 +54,7 @@
 [L’algorithme du Gradient Stochastique](artificiallNeuralNetwork/stochasticGradientAlgorithm)  
 [La retropropagation](artificiallNeuralNetwork/Retropropagation)
 
-<!-- ## **Réseau de neurone à convolution**
+<!-- ## **🧠🌀 Réseau de neurone à convolution**
 [Définition](. "Qu'est qu'un réseau de neurone à convolution")  -->
 <!-- [Convolution]()   -->
 <!-- [Couche ReLU]()   -->
@@ -63,25 +63,25 @@
 <!-- [Full conection]()   -->
 <!-- [Fonction `softmax` et entropie croisée]()  -->
 
-## **Réseaux de Neurones Récurrents**
+## **🔁 Réseaux de Neurones Récurrents**
 [Définition](rnn)
 <!-- [Les LSTM](rnn/LSTM) -->
 <!-- [Les GRU](rnn/GRU) -->
 
-## **Réseau de neurones séquence à séquence**
+## **🔗 Réseau de neurones séquence à séquence**
 [Définition](seq2Seq)  
 [Les réseaux de neurones transformers](seq2Seq/transformers)  
 
-## **Deep learning**
-### **Deep Q-learning**
+## **🌊 Deep learning**
+### **🎯 Deep Q-learning**
 [Comment ça marche ?](deep_Q-Learning_intuition/ccm)    
 [Experience replay](deep_Q-Learning_intuition/experienceReplay)  
 
-### **Deep Q learning à convolution**
+### **🌀 Deep Q learning à convolution**
 [Intuition](convolutional_Deep_Q-learning/Intuition)    
 [Eligibility Trace](convolutional_Deep_Q-learning/eligibilityTrace)  
 
-## **Machine learning**
+## **🤖🧠📚 Machine learning**
 [Définition](machineLearning/definition)  
 [L’abjectif](machineLearning/goal)  
 [Les types d’apprentissages](machineLearning/typesOfLearning)  
@@ -91,12 +91,12 @@
 <!-- ## **Thompson sampling** -->
 <!-- [Définition]() -->
 
-## **Les algorithmes**
-> ### **Les algorithmes d’apprentissage non supervisés**
+## **⚙️ Les algorithmes**
+> ### **🛠️ Les algorithmes d’apprentissage non supervisés**
 > [L’algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
 > [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
-> ### **Les algorithmes de recherches**
+> ### **🔍 Les algorithmes de recherches**
 > [Les problèmes de recherche et planification](algo/ResearchAndPlanningProblems)  
 > [Définition](algo/search)  
 > [L’algorithme de recherche de chemin A* (A star)](algo/a)  
@@ -106,7 +106,7 @@
 > [L’algorithme de force brute](algo/brutForce)  
 > [Algorithme de recherche hybride](algo/hybride)
 
-> ### **Les algorithmes de parcours**
+> ### **🗺️ Les algorithmes de parcours**
 > [Définition](algo/path)  
 > [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
 > [L’algorithme de parcours en largeur BFS](algo/bfs)  
@@ -120,7 +120,7 @@
 
 <!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
-## **L’IA générative**
+## **🎨 L’IA générative**
 [Le LLM](generativeAi/llm)  
 [Le MLLM](generativeAi/llm/mllm)  
 [Le token](generativeAi/token)  
@@ -129,9 +129,9 @@
 
 <!-- [Hallucination](other/hullucination) -->
 ___
-## **Éthique**
+## **⚖️ Éthique**
 [L’effet Eliza](ethics/eliza)
-## **Mesurer l’Intelligence et l’efficacité d’un système d’IA**
+## **📏 Mesurer l’Intelligence et l’efficacité d’un système d’IA**
 [Test de Turing](ethics/benchmarks/turing)  
 [Test MIST](ethics/benchmarks/mist)  
 [L’argument de la chambre chinoise](ethics/chineseRoom)  
@@ -145,7 +145,7 @@ ___
 
 <!-- [Comment les chercheurs améliorent-il la compréhension des modèles ?](ethics/benchmarks/researh) -->
 
-## **Les méters, leur rôle et intérêt**
+## **👥 Les méters, leur rôle et intérêt**
 [Les métiers de la Data](jobs/data)  
 [Les rôles avec la Data](jobs/data/roles)  
 <!-- [les métiers de l'IA]() -->
@@ -157,19 +157,19 @@ ___
 
 ___
 ## **Sujets connexes**
-[La gérance des données](other/dataStewarding)  
-[Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
-[La Business Intelligence](other/bi)  
-[Taxonomie de la Business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
-[La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
-[Le prompte engineering](other/promptEngineering)  
-[Le Big Data](other/bigData)  
-[Le marketing digital](other/md)  
-[Le copywriting](other/c)  
-[Le métavers](other/metavers)  
-[Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
-[L’informatique quantique](other/qc)  
-<!-- [Le Quality monitoring](other/qualityMonitoring)  -->
+🗂️ [La gérance des données](other/dataStewarding)  
+🧠 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
+📊 [La Business Intelligence](other/bi)  
+🧩 [Taxonomie de la Business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
+⚖️ [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
+✍️ [Le prompte engineering](other/promptEngineering)  
+🌐 [Le Big Data](other/bigData)  
+📣 [Le marketing digital](other/md)  
+🖋️ [Le copywriting](other/c)  
+🕶️ [Le métavers](other/metavers)  
+🤖 [Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
+⚛️ [L’informatique quantique](other/qc)  
+<!-- 📋 [Le Quality monitoring](other/qualityMonitoring)  -->
 
 <br>
 <div align="center">
