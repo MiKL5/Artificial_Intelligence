@@ -9,6 +9,7 @@
     </a> -->
 </div>
 
+## **🧭 Carte exploratoire**
 [Différencier l’algorithme simple de celui d’une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
 [Domaines connexes](basics/relatedFields)  
@@ -24,11 +25,7 @@
 [L’IA étroite](basics/weakAI) <!-- Weak AI = Narrow AI (IA étroite) -->  
 [L’intelligence générale artificielle](basics/agi)  
 [La super intelligence artificielle](basics/asi)  
-[Les craintes](basics/fears)  
-[La gestion des risques](basics/riskManagement)  
-[Ethic by design](ethics/ethicByDesign)  
-[Privacy by design](basics/privacyByDesign)  
-[Privacy by default](basics/privacyByDefault)  
+[Éthique](ethics)  
 [Langages et frameworks](basics/languagesAndFrameworks)  
 [Taxonomie de l’IA](basics/taxonomy)  
 [Fonctionnnement d’une AI générative conversationnelle](basics/howConversationalGenerativeAiWorks)  
@@ -81,7 +78,7 @@
 [Intuition](convolutional_Deep_Q-learning/Intuition)    
 [Eligibility Trace](convolutional_Deep_Q-learning/eligibilityTrace)  
 
-## **🤖🧠📚 Machine learning**
+## **🤖🧠<!--📚--> Machine learning**
 [Définition](machineLearning/definition)  
 [L’abjectif](machineLearning/goal)  
 [Les types d’apprentissages](machineLearning/typesOfLearning)  
@@ -130,6 +127,12 @@
 <!-- [Hallucination](other/hullucination) -->
 ___
 ## **⚖️ Éthique**
+[Les craintes](basics/fears)  
+[La gestion des risques](basics/riskManagement)  
+[Ethic by design](ethics/ethicByDesign)  
+[Privacy by design](basics/privacyByDesign)  
+[Privacy by default](basics/privacyByDefault)  
+
 [L’effet Eliza](ethics/eliza)
 ## **📏 Mesurer l’Intelligence et l’efficacité d’un système d’IA**
 [Test de Turing](ethics/benchmarks/turing)  
@@ -156,7 +159,8 @@ ___
 </div>
 
 ___
-## **Sujets connexes**
+<h2 align="center"><b>🔗 Sujets connexes</b></h2>
+
 🗂️ [La gérance des données](other/dataStewarding)  
 🧠 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
 📊 [La Business Intelligence](other/bi)  
