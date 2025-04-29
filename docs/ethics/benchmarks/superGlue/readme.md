@@ -1,4 +1,4 @@
-# **Le benchmark SuperGLUE (`Super General Language Understanding Evaluation`)**
+# **Le benchmark SuperGLUE (`Super General Language Understanding Evaluation`)** <a href="https://github.com/MiKL5/"><img src="../../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
 C’est un ensemble de tests évaluant les capacités de compréhension du langage naturel des système d’IA. Son but est de remplacer GLUE, trop facile pour les modèles récents.
 ## **La caractéristique principales**
 1. Les tâches sont plus difficiles  

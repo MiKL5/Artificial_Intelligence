@@ -1,4 +1,4 @@
-# **Le ”`Gardage In , Gardage Out`”**<a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+# **Le ”`Gardage In , Gardage Out`”**<a href="../"><img src="../../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 Ce principe souvent abrégé `GIGO` est très connu en informatique, notamment avec le traitement des données et le domaine de l’IA.
 
 Gardage in, gardage out, parfois au Royaume-Uni « `rubbish in , rubbish out` » (RIRO), <!--« déchet entrant, déchet sortant » -->signifie que la qualité des résultats produits dépend directement de celle des données introduites.

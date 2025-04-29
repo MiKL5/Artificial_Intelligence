@@ -1,4 +1,4 @@
-# **L’algorithme de parcours de Dijkstra** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **L’algorithme de parcours de Dijkstra** <a href="../../"><img src="../../../assets/images/ai1.png" alt="Business intelligence" align="right" height="64px"></a>
 L’algorithme de Dijkstra est un algorithme permettant de trouver le plus court chemin entre un nœud de départ et tous les autres nœuds d’un graphe pondéré. Il est particulièrement efficace pour les graphes où les poids des arêtes sont positifs.
 
 ## **Les étapes de l’algorithme**

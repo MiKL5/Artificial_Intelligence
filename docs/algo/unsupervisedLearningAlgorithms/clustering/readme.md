@@ -1,4 +1,4 @@
-# **Le clustering** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Le clustering** <a href="../../../"><img src="../../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Les algorithmes non supervisés repèrent des similarités dans les données pour pouvoir ensuite les structurer. Par exemple ils peuvent étudier les similarités entre individus, ce qui rend possible leur division en différents groupes. Ce partitionnement des individus est appelé clustering.
 
 Il y a 3 méthodes à connaître.

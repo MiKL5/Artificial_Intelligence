@@ -15,5 +15,5 @@ La génèration des contenus pertinents, tels que des articles, des descriptions
 > 5. **L’amélioration du sercice client**
 
 Les chatbots et autres assistants virtuels alimentés par l’IA fournissent des réponses aux questions simples des clients, améliorant ainsi l’expérience utilisateur et la satisfaction client.
-<!-- > 6. **L’optimisation des campagnes publicitaires** -->
+> 6. **L’optimisation des campagnes publicitaires**
 

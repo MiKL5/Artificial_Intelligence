@@ -1,4 +1,4 @@
-<h1 align="center"><b>L'intelligences artificielles</b> <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+<h1 align="center"><b>L'intelligences artificielles</b> <a href="../"><img src="../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 <div align="center">
     <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>

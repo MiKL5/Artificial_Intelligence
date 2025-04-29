@@ -1,4 +1,4 @@
-# **Les problèmes de recherche et planification** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Les problèmes de recherche et planification** <a href="../../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Il s’agit des voitures autonomes ainsi que l’IA pour jouer.  
 Leurs but des de résoudre des problèmes similaires aux échecs ou la difficulté n’est pas tant de déplacer une pièce que de la protéger de l’adversaire.
 

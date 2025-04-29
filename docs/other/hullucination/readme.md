@@ -1,4 +1,4 @@
-# **Qu’est-ce que l’hallucination d’une IA ?**<a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Qu’est-ce que l’hallucination d’une IA ?**<a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Il s’agit des résultats incohérents au context. C’est l’invention d’une info incorecte.
 <!-- ## **Il y a diverses hallucinations**
 * En répçonse aux question ;

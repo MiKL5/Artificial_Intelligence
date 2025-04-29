@@ -1,4 +1,4 @@
-# **Définition de l’IA**
+# **Définition de l’IA** <a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 
 L’intelligence artificielle est un mot valise beaucoup utilisé dans la presse, les entreprises, les communications et n’existe pas réellement. Elle est composée de deux parties. 
 

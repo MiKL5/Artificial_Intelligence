@@ -1,4 +1,4 @@
-# **L’algorithme de tarjan**
+# **L’algorithme de tarjan** <a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 L’algorithme de Tarjan est une méthode efficace pour trouver les composantes fortement connexes (CFC) d’un graphe orienté.  
 Il a été développé par le mathématicien américain Robert Tarjan en 1972.
 

@@ -1,4 +1,4 @@
-# **L’algorithme de recherche DFS (Depth-First Search = recherche en profondeur)**
+# **L’algorithme de recherche DFS (Depth-First Search = recherche en profondeur)**<a href="../../"><img src="../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Exploration approfondie des graphes et des arbres.
 

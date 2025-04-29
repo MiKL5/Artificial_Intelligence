@@ -1,4 +1,4 @@
-# **Business Intelligence** <a href="https://github.com/MiKL5/BI/"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Business Intelligence** <a href="https://github.com/MiKL5/BI/"><img src="../../../assets/images/ai1.png" alt="Business intelligence" align="right" height="64px"></a>
 La Business Intelligence (BI), ou intelligence d’affaires en français, est un ensemble de technologies, de processus et de méthodologies permettant de collecter, d’analyser et de transformer des données brutes en informations significatives et utiles pour les prises de décision en entreprise.
 
 ## **Quels sont les aspects clés de la BI ?**
