@@ -1,4 +1,4 @@
-# **L’effet Eliza**
+# **L’effet Eliza** <a href="../"><img src="../../../assets/images/ai1.png" alt="Éthique de l'intelligence artificielle" align="right" height="64px"></a>
 Le domaine de l’IA consiste à créer des machines pouvant imiter l’intelligence humaine.
 ## **Son histoire**
 L’un des premiers exemples emblématiques est le programme Eliza, développé en 1966 par Joseph Weizenbaum.

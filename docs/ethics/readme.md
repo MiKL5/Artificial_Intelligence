@@ -7,8 +7,8 @@
 ## **Les états d’intérations**
 Il s’agit de la condition ou qualité d’une ressource (application,…) à un instant. La durée de conservation des données d’interations et la manière de les enregistrer.  
 [Stateless](stateless)  
-[Partielement stateful](semiStateful) <kdb>soon<kdb>  
+[Partielement stateful](semiStateful)  
 [Stateful](stateful)  
-[Comparaison](parangon) <kdb>soon<kdb>
+[Comparaison](parangon)
 # **🧠 Éthique de la perception et de l’antropomorphisme**
 [L’effet Eliza](ethics/eliza)

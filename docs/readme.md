@@ -132,7 +132,7 @@ ___
 [Ethic by design](ethics/ethicByDesign)  
 [Privacy by design](basics/privacyByDesign)  
 [Privacy by default](basics/privacyByDefault)  
-### **Les états d’intération**
+### **🔄 Les états d’intérations**
 [L’état stateless](ethics/stateless)  
 [L’état semi-sateful]()  
 [L’état stateful](ethics/stateful)  

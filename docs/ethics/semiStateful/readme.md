@@ -1,0 +1,2 @@
+# **L’état semi-stateful**<a href="../"><img src="../../../assets/images/ai1.png" alt="Éthique de l'intelligence artificielle" align="right" height="64px"></a>
+seule une partie de l’état (ou un nombre limité de sessions) est conservée temporairement, le reste étant traité comme stateless ; cet état partiel peut être évincé ou reconstruit à la demande.
