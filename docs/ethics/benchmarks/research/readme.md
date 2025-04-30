@@ -1,1 +1,1 @@
-# **Comment les chercheurs améliorent-il la compréhension des modèles ?** <a href="https://github.com/MiKL5/"><img src="../../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
+# **Comment les chercheurs améliorent-il la compréhension des modèles ?** <a href="https://github.com/MiKL5/"><img src="../../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a>

@@ -1,4 +1,4 @@
-# **Le Fine-tuning**<a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Le Fine-tuning**<a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Cela signifie le régalge fin et c’est essentiel au développement et déploiement de modèle d’apprentissage automatique (notament les NLP).  
 Il s’agit d’adapter un modèle pré-entraîné à faire des tâches spécifiques ou améliorer les performances sur des ensembles de données particuliers. Il exploite les vaste connaissances des LLM en les adaptants aux besoins particuliers.
 ## **Le processus**

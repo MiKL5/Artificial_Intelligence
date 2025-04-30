@@ -1,0 +1,3 @@
+# **L’état stateless**<a href="../../"><img src="../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
+Les informations ne sont pas conservées. Chaque transaction est une première fois. Une appli stateless fournit un service ou une fonction et utilise un réseau de diffusion de contenus (CDN) [adiant à faire fonctionner le web], le web ou des serveurs d’impression dont les demandes sont traitées à court terme.  
+Une recherche sur un moteur de recherche est uen trasaction stateless. Si la transaction est interrompue, il faut la refaire.

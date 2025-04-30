@@ -132,6 +132,10 @@ ___
 [Ethic by design](ethics/ethicByDesign)  
 [Privacy by design](basics/privacyByDesign)  
 [Privacy by default](basics/privacyByDefault)  
+### **Les états d’intération**
+[L’état stateless](ethics/stateless)  
+[L’état semi-sateful]()  
+[L’état stateful]()  
 
 [L’effet Eliza](ethics/eliza)
 ## **📏 Mesurer l’Intelligence et l’efficacité d’un système d’IA**
