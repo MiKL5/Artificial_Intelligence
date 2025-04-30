@@ -1,0 +1,5 @@
+# **L’état stateful**<a href="../"><img src="../../../assets/images/ai1.png" alt="Éthique de l'intelligence artificielle" align="right" height="64px"></a>
+Cela consiste à stocker (éphémère), enregistrer (durable, souvent pour l’archivage ou le traçage) et réutiliser les informations et processus qui existent déjà sur Internet pour conserver l’état du processus ou de l’appli. Les infos sont indéfiniment réutilisables, c’est le cas des plateformes bancaires en ligne, les messageries… Une ou plusieurs transactions antérieure peut affecter l’actuelle ; les mêmes serveurs sont toujours utilisés.  
+Lors des l’interruption, le contexte est l’historique sont stockés afin de reprendre qu’à l’étape nécessaire. C’est analogue à une conversation régulière continue à la même personne.
+
+Sont stateful, les applications axées vers leq utilisateurs, les systèmes d’IoT, l’entraînement des modèles d’IA et d’AA(ML).

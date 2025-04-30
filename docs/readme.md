@@ -135,8 +135,8 @@ ___
 ### **Les états d’intération**
 [L’état stateless](ethics/stateless)  
 [L’état semi-sateful]()  
-[L’état stateful]()  
-
+[L’état stateful](ethics/stateful)  
+## **🧠 Éthique de la perception**
 [L’effet Eliza](ethics/eliza)
 ## **📏 Mesurer l’Intelligence et l’efficacité d’un système d’IA**
 [Test de Turing](ethics/benchmarks/turing)  
