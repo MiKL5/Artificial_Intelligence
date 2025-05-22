@@ -1,4 +1,4 @@
-# **Les biais**<a href="https://github.com/MiKL5/"><img src="../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
+# **Les biais**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Si les humains ont des [biais](../../other/hcb), il est évident que les IA aussi, d’autant que c’est une invention humaine.   
 

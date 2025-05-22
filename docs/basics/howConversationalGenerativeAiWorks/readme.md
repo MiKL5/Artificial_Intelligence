@@ -1,4 +1,4 @@
-# **Comment fonctionne une AI générative conversationnelle ?** <a href="../../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Comment fonctionne une AI générative conversationnelle ?** <a href="../../../"><img src="../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 ## **Les mécanismes d’apprentissage**
 L’apprentissage profond discipline de l’apprentissage automatique est le mécanisme de base afin de comprendre les problèmes qu’on adresse et générer les réponses textuelles. C’est un modèle pré-entraîner car avant la mise sur le marché, un très grand corpus textuel lui a permis de comprendre les nuances d’un langage humain et formuler des réponses contextualisées.
 

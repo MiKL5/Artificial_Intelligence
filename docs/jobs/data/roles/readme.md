@@ -1,4 +1,4 @@
-# **Les roles avec la Data** <a href="../"><img src="../../../../assets/images/ai1.png" align="right" height="64px"></a>
+# **Les roles avec la Data** <a href="../"><img src="../../../../assets/images/atomicAi.png" align="right" height="64px"></a>
 ## **Data owner**
 Défini les standards.
 ## **Data steward**

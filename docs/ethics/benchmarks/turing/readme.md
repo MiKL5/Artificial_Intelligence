@@ -1,4 +1,4 @@
-# **Le test de Turing** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Le test de Turing** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/atomicBi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Le test de Turing est un test d’intelligence artificielle d’Alan Turing en 1950. Le but est d’évaluer si une machine “semble penser” de manière suffisamment similaire à un être humain pour être considérée comme intelligente.
 ## **Le principe du test**
 Un interrogateur humain mène une conversation par écrit (par exemple via un ordinateur) avec deux interlocuteurs, l’un étant une machine et l’autre un être humain, sans savoir qui est qui.

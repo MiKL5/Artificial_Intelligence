@@ -1,4 +1,4 @@
-# **Comparaison**<a href="../"><img src="../../../assets/images/ai1.png" alt="Éthique de l'intelligence artificielle" align="right" height="64px"></a>
+# **Comparaison**<a href="../"><img src="../../../assets/images/atomicAi.png" alt="Éthique de l'intelligence artificielle" align="right" height="64px"></a>
 **Critère** | **Stateful** | **Partiellement Stateful** | **Stateless**
 ---|---|---|---
 **Définition** | Le système garde **un état interne** entre les requêtes. Chaque interaction dépend de l’état précédent. | Le système conserve **une partie** de l’état entre les requêtes, mais pas l’intégralité. | Le système **ne conserve aucun état** entre les requêtes. Chaque interaction est indépendante.

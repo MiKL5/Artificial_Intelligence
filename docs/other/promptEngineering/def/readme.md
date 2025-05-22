@@ -1,4 +1,4 @@
-# **Qu’est-ce que le prompt engineering ?** <a href="../"><img src="../../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+# **Qu’est-ce que le prompt engineering ?** <a href="../"><img src="../../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 Le prompt engineering est une technique clé dans le domaine de l’intelligence artificielle générative et du traitement du langage naturel (NLP). Le terme « prompt » désigne l’instruction fournie au modèle pour orienter la réponse. En pratique, un prompt peut aller d’une question simple (« Qu’est-ce que l’IA ? ») à des instructions complexes détaillant des contraintes de format, de ton ou de contenu attendu.
 

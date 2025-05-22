@@ -1,4 +1,4 @@
-# **Prompt Engineering** <a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+# **Prompt Engineering** <a href="../../"><img src="../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 <!-- Ce domaine est étroitement lié à l’intelligence artificielle, particulièrement dans le contexte des intelligences artificielles génératives. -->
 

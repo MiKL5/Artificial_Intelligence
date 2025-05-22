@@ -1,4 +1,4 @@
-# **La gérance des données**<a href="../../"><img src="../../../assets/images/ai1.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
+# **La gérance des données**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 La gérance des données, également connue sous le terme de _gestion des données_ ou  _Data Stewardship_, fait référence à l’ensemble des pratiques, des processus et technologies utilisés pour administrer et contrôler les données au sein d’une organisation. Englobant la collecte, le stockage, la sécurisation, l’intégration, l’analyse et la gestion du cycle de vie des données.
 
 Elle vise à garantir que les données sont précises, complètes, accessibles et exploitables pour répondre aux besoins de l’organisation. Elle implique la mise en place de politiques et de normes pour la gouvernance des données, y compris la définition de rôles et de responsabilités clairs pour les parties prenantes impliquées dans la gestion des données.

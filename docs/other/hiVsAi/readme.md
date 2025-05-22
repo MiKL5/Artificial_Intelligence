@@ -1,4 +1,4 @@
-# **Qu’est-ce qui distingue l’intelligence humaine de l’artificielle ?** <a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Qu’est-ce qui distingue l’intelligence humaine de l’artificielle ?** <a href="../../"><img src="../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 
 ## **Qu’est-ce qui défini l’intelligence humaine ?**
 La capacité à penser est élémentaire. 

@@ -1,4 +1,4 @@
-# **La fenêtre contextuelle**<a href="../../"><img src="../../../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **La fenêtre contextuelle**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 Particulièrement pour le traitement du langage naturel & l’apprentissage automatique, elle fait référence à un nombre de tokens entourant un mot<!-- ou un token cible--> que le modèle d’IA concidère lorsqu’il tente de traiter le mot<!-- ou token cilble-->.
 
 Analogue à une petite fenêtre ou cadre à traavers lequel le modèle d’IA observe afin de vois les mots voisins<!-- de celui spécifique en cours d'analyse-->.

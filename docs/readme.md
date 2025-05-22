@@ -1,4 +1,4 @@
-<h1 align="center"><b>L'intelligences artificielles</b> <a href="../"><img src="../assets/images/ai1.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+<h1 align="center"><b>L'intelligences artificielles</b> <a href="../"><img src="../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
 
 <div align="center">
     <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
@@ -94,26 +94,28 @@
 > [L’algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
 > ### **🔍 Les algorithmes de recherches**
-> [Les problèmes de recherche et planification](algo/ResearchAndPlanningProblems)  
-> [Définition](algo/search)  
-> [L’algorithme de recherche de chemin A* (A star)](algo/a)  
-> [L’algorithme de recherche de chemin tabou](algo/tabou)  
-> [L’algorithme glouton](algo/glouton)  
-> [L’algorithme glouton de Prim](algo/prim)  
-> [L’algorithme de force brute](algo/brutForce)  
-> [Algorithme de recherche hybride](algo/hybride)
+> [Les problèmes de recherche et planification](https://github.com/MiKL5/DataScience/tree/master/algo/ResearchAndPlanningProblems)  
+> [Définition](https://github.com/MiKL5/DataScience/tree/master/algo/search)  
+> [L’algorithme de recherche de chemin A* (A star)](https://github.com/MiKL5/DataScience/tree/master/algo/a)  
+> [L’algorithme de recherche de chemin tabou](https://github.com/MiKL5/DataScience/tree/master/algo/tabou)  
+> [L’algorithme glouton]()  
+> [L’algorithme glouton de Prim](https://github.com/MiKL5/DataScience/tree/master/algo/prim)  
+> [L’algorithme de force brute]()  
+> [Algorithme de recherche hybride](https://github.com/MiKL5/DataScience/tree/master/algo/hybride)
 
 > ### **🗺️ Les algorithmes de parcours**
-> [Définition](algo/path)  
-> [L’algorithme de parcoues en prodondeur DFS](algo/dfs)  
-> [L’algorithme de parcours en largeur BFS](algo/bfs)  
-> [L’algorithme de Dijkstra](algo/Dijkstra)  
-> [L’algorithme de parcours de graph en profondeur `tri topologique`](algo/topologicalSort)  
-> [L’algorithme de Kahn](algo/Kahn)  
-> [L’algorithme de Tarjan](algo/tarjan)  
-> [L’algorithme de Bellman-Ford](algo/bF)  
-> [L’algorithme de Kruskal](algo/kruskal)  
-> [L’algorithme de Kahn vs l’algorithme de Tarjan](algo/kahnVsTarjan)  
+> [Définition](https://github.com/MiKL5/DataScience/tree/master/algo/path)  
+> [L’algorithme de parcoues en prodondeur DFS](https://github.com/MiKL5/DataScience/tree/master/algo/dfs)  
+> [L’algorithme de Kosoraju]()  
+> [L’algorithme de parcours en largeur BFS](https://github.com/MiKL5/DataScience/tree/master/algo/bfs)  
+> [L’algorithme LexBFS]()  
+> [L’algorithme de Dijkstra](https://github.com/MiKL5/DataScience/tree/master/algo/Dijkstra)  
+> [L’algorithme de parcours de graph en profondeur `tri topologique`](https://github.com/MiKL5/DataScience/tree/master/algo/topologicalSort)  
+> [L’algorithme de Kahn](https://github.com/MiKL5/DataScience/tree/master/algo/Kahn)  
+> [L’algorithme de Tarjan](https://github.com/MiKL5/DataScience/tree/master/algo/tarjan)  
+> [L’algorithme de Bellman-Ford](https://github.com/MiKL5/DataScience/tree/master/algo/bF)  
+> [L’algorithme de Kruskal](https://github.com/MiKL5/DataScience/tree/master/algo/kruskal)
+> [L’algorithme de Kahn vs l’algorithme de Tarjan](https://github.com/MiKL5/DataScience/tree/master/algo/tarjan)  
 
 <!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
 
@@ -133,9 +135,9 @@ ___
 [Privacy by design](basics/privacyByDesign)  
 [Privacy by default](basics/privacyByDefault)  
 ### **🔄 Les états d’intérations**
-[L’état stateless](ethics/stateless)  
-[L’état semi-sateful]()  
+[L’état semi-sateful](ethics/semiStateful)  
 [L’état stateful](ethics/stateful)  
+[L’état stateless](ethics/stateless)  
 ## **🧠 Éthique de la perception**
 [L’effet Eliza](ethics/eliza)
 ## **📏 Mesurer l’Intelligence et l’efficacité d’un système d’IA**
@@ -163,7 +165,7 @@ ___
 </div>
 
 ___
-<h2 align="center"><b>🔗 Sujets connexes</b></h2>
+<h2 align="center">🔗 Sujets connexes</b></h2>
 
 🗂️ [La gérance des données](other/dataStewarding)  
 🧠 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
