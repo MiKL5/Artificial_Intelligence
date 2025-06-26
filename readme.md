@@ -21,12 +21,11 @@
 
 <!-- ## [**Documentation**](docs) -->
 
-## 🔗 Disciplines connexes
+## 🔗 Disciplines connexes</div>
+
 📊 [Business Intelligence](https://github.com/MiKL5/BI)  
 🧠 [Data Science](https://github.com/MiKL5/DS)  
-
 🤖🧠<!--📚--> [Machine Learning](https://github.com/MiKL5/machineLearning)  
-
 <!-- 📶 [Internet Of Things (IOT)](https://github.com/MiKL5/iot)   -->
 <!-- 🤖📶 [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
 <!-- 🤖 [Robotique](https://github.com/MiKL5/robotics)   -->
