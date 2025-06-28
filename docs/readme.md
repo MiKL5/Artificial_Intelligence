@@ -168,17 +168,17 @@ ___
 <h2 align="center">🔗 Sujets connexes</b></h2>
 
 🗂️ [La gérance des données](other/dataStewarding)  
-🧠 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
+⚖️ [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 📊 [La Business Intelligence](other/bi)  
 🧩 [Taxonomie de la Business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
-⚖️ [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
-✍️ [Le prompte engineering](other/promptEngineering)  
+🧠 [Qu’est-ce qu’une base de données vectorielle ?](other/vectorDatabase)  
 🌐 [Le Big Data](other/bigData)  
+✍️ [Le prompte engineering](other/promptEngineering)  
+🤖 [Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
+🕶️ [Le métavers](other/metavers)  
+⚛️ [L’informatique quantique](other/qc)  
 📣 [Le marketing digital](other/md)  
 🖋️ [Le copywriting](other/c)  
-🕶️ [Le métavers](other/metavers)  
-🤖 [Qu’est-ce qu’un robot](https://github.com/MiKL5/robotics)  
-⚛️ [L’informatique quantique](other/qc)  
 <!-- 📋 [Le Quality monitoring](other/qualityMonitoring)  -->
 
 <br>
