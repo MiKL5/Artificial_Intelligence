@@ -13,8 +13,7 @@
 <!-- <a href="docs"><img align="center" src="https://github.com/MiKL5/Python/raw/master/assets/Python-logo-notext.svg" alt="Python" height="20px"> Chatbot basé sur l’IA générative</a> -->
 
 > ### **Le Machine Learning**
->> #### **L’apprentissage supervisé**
->> 🚀 [Les projets](https://github.com/MiKL5/machineLearning)
+> 🚀 [Les projets](https://github.com/MiKL5/machineLearning)
 
 
 <div align="center">
