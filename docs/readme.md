@@ -18,9 +18,9 @@
 [Quelques concepts de base](basics/basicConcepts)  
 [L’IA symbolique](basics/sai)  
 [L’IA connexionniste](basics/cai)  
+[L’IA neurosymbolique](nesy)  
 [L’IA hybride](basics/hai)  
 [L’IA multimodale](basics/mai)  
-[L’IA neurosymbolique](nesy)  
 [L’IA hybride versus l’IA multimodale](basics/haiVsMai)  
 [Les 4 phases de développement de l’IA](basics/aiDevelopmentPeriods)  
 [L’IA étroite](basics/weakAI) <!-- Weak AI = Narrow AI (IA étroite) -->  
