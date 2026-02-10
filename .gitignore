@@ -411,3 +411,7 @@ docs/other/._tal
 docs/rnn/._gru
 docs/rnn/._lstm
 docs/._thompsonSampling
+docs/.DS_Store
+projects/.DS_Store
+.DS_Store
+old.md
