@@ -1,8 +1,7 @@
-<h1 align="center"><b>L'intelligence artificielle</b> <a href=""><img src="assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
+<h1 align="center"><b>L'intelligence artificielle</b> <a href="https://github.com/mikl5/"><img src="assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
 
 <div align="center">
-    <h3>« Une intelligence artificielle, c’est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
-    <h3>Cette discipline est composée de plusieurs domaines.</h3><br><br>
+    <h3>L'intelligence artificielle (IA) désigne l'ensemble des techniques computationnelles permettant à des systèmes d'accomplir des tâches nécessitant  l'intelligence humaine (la perception, le raisonnement, l'apprentissage, la prise de décision ou le traitement du langage naturel).<br>Ces systèmes utilisent des algorithmes et des données pour produire des comportements adaptatifs, que ce soit par programmation explicite (IA symbolique) ou par apprentissage statistique (IA connexionniste).</h3><h3>L'IA ne cherche pas nécessairement à imiter les processus cognitifs humains, mais plutôt à atteindre des objectifs intelligents par des moyens computationnels, potentiellement différents de ceux du cerveau humain.</h3><br><br>
     <a href="docs"><img src="assets/images/ai.png" alt="Intelligence artificielle"></a>
     <br>
     <br>
@@ -30,4 +29,4 @@
 <!-- 🤖📶 [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
 <!-- 🤖 [Robotique](https://github.com/MiKL5/robotics)   -->
 
-🔍 [En savoir +<!--à propos des disciplines connexes-->](docs/basics/relatedFields)  
+🔍 [En savoir +](docs/basics/relatedFields)  
