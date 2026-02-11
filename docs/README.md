@@ -151,8 +151,7 @@
 [Le token](generativeAi/token)  
 [La fenêtre contextuelle](generativeAi/contextWindow)  
 [Le fine-tuning](generativeAi/fineTuning)
-
-<!-- [Confabulation](other/confabulation) -->
+[Confabulation (hallucination)](generativeAI/confabulation)
 
 ___
 
