@@ -20,13 +20,20 @@
 
 <!-- ## [**Documentation**](docs) -->
 
-## 🔗 Disciplines connexes</div>
+## 🔗 Sous domaines</div>
+🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)  
+<!-- 🗣️ Natural Language Processing (NLP) – Traitement du langage naturel   -->
+<!-- 👁️ Computer Vision – Vision par ordinateur   -->
+<!-- 🤝 Multi-Agent Systems – Systèmes multi-agents   -->
+<!-- 🎮 Reinforcement Learning – Apprentissage par renforcement   -->
+<!-- 🧩 Knowledge Representation – Représentation des connaissances   -->
+<!-- 🧠📶 [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
+
+<h2 align="center">🔗 Disciplines connexes</h2>
 
 📊 [Business Intelligence](https://github.com/MiKL5/BI)  
 🧠 [Data Science](https://github.com/MiKL5/DS)  
-🤖🧠<!--📚--> [Machine Learning](https://github.com/MiKL5/machineLearning)  
 <!-- 📶 [Internet Of Things (IOT)](https://github.com/MiKL5/iot)   -->
-<!-- 🤖📶 [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
 <!-- 🤖 [Robotique](https://github.com/MiKL5/robotics)   -->
 
-🔍 [En savoir +](docs/basics/relatedFields)  
+<!-- 🔍 [En savoir +](docs/basics/relatedFields)   -->
