@@ -1,4 +1,4 @@
-# **Le marketing digital** <a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Le marketing digital**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L’intelligence artificielle (IA) joue un rôle croissant dans le marketing digital, transformant la manière dont les entreprises interagissent avec leur audience et optimisent leurs stratégies.
 > 1. **La personnalisation de l’expérience client**
 

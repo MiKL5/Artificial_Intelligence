@@ -1,4 +1,4 @@
-# **Les réseaux de neurones Transformers**
+# **Les réseaux de neurones Transformers**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## **Définition**
 Les Transformers sont , ou modèles "[séquence à séquence](../)", sont une technologie de réseau neuronal open source introduite par Google en 2017. Révolutionnaires pour le traitement du langage naturel, ils se sont depuis imposés comme une référence dans le domaine du traitement automatique du langage [(TAL) ou "natural language processing" (NLP)](../../other/tal).
 ## **Comment fonctionnent les réseaux de neurones Transformers**

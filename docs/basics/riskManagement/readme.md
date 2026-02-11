@@ -1,5 +1,4 @@
-# **La gestion des risques**
-
+# **La gestion des risques**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
     L'approche des innovations de l'IA par la gestion des risques est apparue dès 1941 grâce à Asimov.  
     Il y avait au départ trois lois, maintenant complétées de la loi Zéro.  
 

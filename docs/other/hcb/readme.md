@@ -1,4 +1,4 @@
-# **Les biais cognitifs**
+# **Les biais cognitifs**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L'IA est son contenu n'échappent pas aux biais cognitifs.  
 Les données émanent des humains (articles, films, séries, etc) ainsi que par l'équipe de développeurs à son origine. Ces productions sont souvant biaisées (raisonnements sexistes, stéréotypés,...). Ceci influence les résultats algorithmiques et reproduit potentiellement les discriminations, les inégalités, les stéréotypes, le sexismes, le recisme de la société.  
 

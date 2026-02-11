@@ -1,5 +1,4 @@
-# **Q-learning profond à convolution**
-
+# **Q-learning profond à convolution**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Il s’agit d’un réseau de neurones avec des étapes de convolution (pooling et floating).  
 Le réseau considère des images avec des pixels avec différents niveaux de couleurs.  
 L’image passe dans une couche de convolution et une couche de pooling puis une étape de floating pour obtenir le vecteur de la couche d’entrée de ce réseau de neurones.  

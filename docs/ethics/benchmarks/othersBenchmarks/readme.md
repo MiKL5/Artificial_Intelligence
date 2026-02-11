@@ -1,4 +1,4 @@
-# **Les benchmarks complétant GLUE**
+# **Les benchmarks complétant GLUE**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Leur but est de fournir une évaluation plus complète des capacités des modèles de traitement du langage naturel (PLN). 
 ## **Les principaux benchmarks**
 1. **SuperGLUE** est un ensemble de tâches plus difficiles et plus diversifiées que GLUE, pour évaluer des capacités de compréhension plus avancées du langage.  

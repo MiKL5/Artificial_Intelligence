@@ -1,4 +1,4 @@
-# **Comment peut-on s’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination ?**<a href="https://github.com/MiKL5/"><img src="../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
+# **Comment peut-on s’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination ?**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 1. **L’équité et la non-discrimination**  
    Il est essentiel de veiller à ce que les données utilisées pour entraîner les modèles d’IA soient représentatives et exemptes de biais, afin d’éviter que les algorithmes ne perpétuent des préjugés ou des inégalités injustes.  
    Des techniques de correction des biais peuvent être appliquées pour garantir l’équité des décisions prises par l’IA.

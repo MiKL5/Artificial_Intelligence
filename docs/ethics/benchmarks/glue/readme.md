@@ -1,4 +1,4 @@
-# **Le benchmark GLUE (General Language Understanding Evaluation)** <a href="../../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Le benchmark GLUE (General Language Understanding Evaluation)**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Le benchmark GLUE (General Language Understanding Evaluation) est un ensemble de tâches conçu pour évaluer les capacités de compréhension du langage naturel des modèles d’IA.
 
 ## **Détails et implications**

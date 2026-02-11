@@ -1,4 +1,4 @@
-# **L’IA neuro symbolique** <a href="../../"><img src="../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **L’IA neuro symbolique** <a href="../"><img src="../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
 L’**IA Neuro-Symbolique** (souvent désignée par l’acronyme **NeSy**) est le cœur technologique de la **troisième Vague de l’intelligence artificielle**. C’est une architecture hybride visant à réconcilier les deux paradigmes historiques de l’IA : le raisonnement logique (l’IA symbolique) et l’apprentissage statistique (les réseaux de neurones).
 
 Son objectif fondamental est de dépasser les limites des “boîtes noires” actuelles pour produire des systèmes capables d’*Adaptation Contextuelle*, alliant la robustesse de la perception à la rigueur de l’explicabilité.

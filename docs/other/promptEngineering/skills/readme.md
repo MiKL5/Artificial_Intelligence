@@ -1,4 +1,4 @@
-# **Les compétences**  <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+# **Les compétences**<a href="../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Les grandes organisations technologiques embauchent des prompt engineers pour développer de nouveaux contenus créatifs, répondre à des questions complexes et améliorer les tâches de traduction automatique et de NLP. Les compétences que les ingénieurs de prompts doivent posséder incluent :
  * La familiarité avec les grands modèles de langage ;

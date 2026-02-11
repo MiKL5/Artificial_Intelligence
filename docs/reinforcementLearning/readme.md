@@ -1,4 +1,3 @@
-# **L'apprentissage par renforcement**
-
+# **L'apprentissage par renforcement**<a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L'**intelligence artificielle est une entité (ou agent) qui doit apprendre dans l'environnement**.  
 Cette entité va réaliser certaines actions, puis observé l'état et être récompensée pour certaines. L'entité continue à changer l'état de l'environnement et apprend le fonctionnement de l'environnement grâce aux bonnes et mauvaises récompenses (+1 ou -1). 

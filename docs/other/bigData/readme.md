@@ -1,4 +1,4 @@
-# **Le Big Data**
+# **Le Big Data**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Le big data sur la partie Industrielle signifie la captation et l'exploitation de très grandes quantités de données disponibles issues de nos process de fabrication ou plus largement de la supply chain globale ...(des fournisseurs au client final ).
 
 ## **Les 5v du Big Data**

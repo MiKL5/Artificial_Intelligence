@@ -1,6 +1,4 @@
-# **Ethic by Design**
-
-
+# **Ethic by Design**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Ce principe consiste à intégrer des valeurs et principes humains à la conception afin d’avoir confiance.  
 
 L’_ethic by design_ ou _éthique par conception_, est une approche de la conception numérique qui vise à intégrer des considérations éthiques dès le début de la conception. Les technologies numériques ont un impact sur la société, il est important de se poser des questions éthiques dès leur conception, pour minimiser les risques et de maximiser les bénéfices potentiels.

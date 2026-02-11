@@ -1,4 +1,4 @@
-# **Fonction d'activation**
+# **Fonction d'activation**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Les valeurs d'entrées sont des variables du jeu de données. Les synapses et leurs poids les relient a.ux couche.s neurones cachés qui appliquent une certaine fonction d'activation. Le résultat est envoyé au neurone suivant jusqu'à la valeur de sortie.  
 

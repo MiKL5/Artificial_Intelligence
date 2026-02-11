@@ -1,5 +1,4 @@
-# **L'AI étroite (narrow ou weak IA)**
-
+# **L'AI étroite (narrow ou weak IA)**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 La Narrow AI est une application des technologies de l’intelligence artificielle pour permettre un système performant qui reproduit – et peut-être surpasse – l’intelligence humaine dans un but précis (des tâches ou des types de problèmes spécifiques).
 
 De nombreux systèmes actuels peuvent être classés dans la catégorie de la Narrow AI. Un exemple bien connu est le supercalculateur Watson d’IBM, qui applique l’informatique cognitive, le machine learning et le traitement du langage naturel (NPL) pour fonctionner comme une machine à « répondre à des questions ». Watson a en fait surpassé Ken Jennings pour devenir le champion d’une populaire émission de jeux télévisés, Jeopardy ! Watson est essentiellement un système expert, un programme informatique qui utilise les technologies d’IA pour simuler la connaissance et la capacité cognitive d’un humain dans un domaine particulier.

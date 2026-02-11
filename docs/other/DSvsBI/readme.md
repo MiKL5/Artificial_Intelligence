@@ -1,4 +1,4 @@
-# **La différence entre la gestion des données (data stewardship) et l’intelligence d’affaires (business intelligence)**
+# **La différence entre la gestion des données (data stewardship) et l’intelligence d’affaires (business intelligence)**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 <!-- La gestion des données se concentre sur l’administration et le contrôle des données d’une organisation. Cela inclut de 
 * Définir les politiques et les processus pour la collecte, le stockage, la protection et la distribution des données
 * Assurer la qualité, l’intégrité et la sécurité des données

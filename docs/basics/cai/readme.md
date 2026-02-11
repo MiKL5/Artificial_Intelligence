@@ -1,5 +1,4 @@
-# **Intelligence artificielle connexionniste**
-
+# **Intelligence artificielle connexionniste**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L'intelligence artificielle connexionniste est issue du connexionnisme.  
 Le connexionnisme est courant issu des sciences cognitives et développé dans les années 50. Le principe fondateur de cette discipline <mark>vise à expliquer les phénomènes mentaux grâce à des réseaux de neurones formels</mark>. Appliqué au système d’apprentissage supervisé (base du machine learning tel qu’il est connu aujourd’hui, où un modèle est entraîné à partir d’un jeu d’apprentissage pour ensuite réaliser des prédictions de manière autonome), le premier algorithme d'apprentissage reposant sur cette théorie voit le jour en 1957.  
 

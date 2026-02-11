@@ -1,4 +1,4 @@
-# **Réseau de neurones séquence à séquence**
+# **Réseau de neurones séquence à séquence**<a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Un réseau de neurones séquence à séquence (Seq2Seq) est un modèle d'apprentissage automatique capable de traiter et de générer des séquences de données.  
 
 ## **Comment fonctionne-t-il ?**

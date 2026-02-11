@@ -1,4 +1,4 @@
-# **Languages et Frameworks** <a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Languages et Frameworks**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 ## Les langages
 ### **Python** <a href="#"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" widht="auto" height="32px"></a>

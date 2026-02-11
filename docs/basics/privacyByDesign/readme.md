@@ -1,5 +1,4 @@
-# **Privacy by Design**
-
+# **Privacy by Design**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 La protection de la vie privée dès la conception, ou _Privacy by design_, est une approche de la conception de systèmes numériques qui vise à intégrer la protection de la vie privée dès le début du processus de conception. La protection de la vie privée est un droit fondamental qui doit être respecté dès la conception de tout système qui collecte ou traite des données personnelles.
 <br>
 <br>

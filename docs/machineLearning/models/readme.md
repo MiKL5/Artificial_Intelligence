@@ -1,5 +1,4 @@
-# **Modèles d'apprentissage en machine learning**
-
+# **Modèles d'apprentissage en machine learning**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Il existe un nombre infini de modèles machine learning. Cependant, on estime qu'il existe actuellement des milliers de modèles d'apprentissage automatique différents qui sont utilisés dans des applications commerciales et scientifiques.
 
 Les modèles d'apprentissage automatique les plus courants  

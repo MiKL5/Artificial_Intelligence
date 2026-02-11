@@ -1,4 +1,4 @@
-# **Q-learning Intuition**
+# **Q-learning Intuition**<a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 <br>
 <div align="center">
     <img src="https://github.com/MiKL5/artificialIntelligence/blob/master/Docs/img/BellmanCompleteEquation.png" alt="Équation de Bellman" title="Équation de Bellman">
@@ -6,7 +6,6 @@
 <br>
 
 ## Pourquoi le Q-learning ?
-
 Ici, l’agent ne regarde pas la valeur, mais qualité. Donc `Q` pour `Qualité` remplace `V` pour `Valeur`.  
 L’approche Q-learning s’intéresse la valeur des états et des actions. Il y a un lien entre ces deux approches.  
 
@@ -25,7 +24,6 @@ Et, il pourrait être aller à droite, à gauche, en haut ou en bas et l’agent
 </div>
 
 Le Q-learning consiste à prendre la meilleure action.  
-
 ___
 Cette équation n’est pas récursive, car `Q` ne dépend pas d’autre `Q` mais de `V(s').`.  
 `V(s').` reprend l’expression complète notée en haut, remplacé par l’expression `max a' Q(s',a')`
@@ -35,7 +33,6 @@ Cette équation n’est pas récursive, car `Q` ne dépend pas d’autre `Q` mai
 </div>
 
 Donc, pour connaître la qualité de l’action dans l’état, l’agent s’appuie sur le calcul des qualités de prendre l’action `a'` s’il est dans l’état ‘s’’.
-
 ___
 >>> cf.  
 [Markov Decision Processes: Concepts ans Algorithms](https://www.semanticscholar.org/paper/Markov-Decision-Processes%3A-Concepts-and-Algorithms-Otterlo-Wiering/968bab782e52faf0f7957ca0f38b9e9078454afe?p2df)

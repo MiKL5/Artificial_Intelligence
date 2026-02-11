@@ -1,5 +1,4 @@
-# **L’intelligence artificielle multimodale**
-
+# **L’intelligence artificielle multimodale**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L’**IA multimodale** est une intelligence artificielle qui <mark>voit, entend et comprend</mark>.  
 
 L’IA multimodale est une technologie qui s’inspire de la façon dont les humains perçoivent le monde. Elle combine plusieurs sources de données, telles que le texte, la voix, les images et les vidéos, pour obtenir une compréhension plus riche et plus précise de l’environnement.  

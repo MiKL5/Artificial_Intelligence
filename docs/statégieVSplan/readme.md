@@ -1,4 +1,4 @@
-<h1 align=center>Stratégie vs Plan</h1>
+<h1 align=center>Stratégie vs Plan</h1><a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 <br>
 <h2 align="center" style="color:#3fe056">Le fonctionnement de l'IA (agent) est <strong>stochastique</strong>.<br>Maintenant, il s'agit de prendre en compte tout les favcteurs aléatoires (non maîtrisables).<h2>
 <br>

@@ -1,5 +1,4 @@
-# **Quelques concepts pour comprendre ce qu’est l’IA**
-
+# **Quelques concepts pour comprendre ce qu’est l’IA**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## **Le concept d’intelligence**
 Il est difficile d’avoir une définition universelle dans tous les contextes. Nonobstant, il y a des points communs.  
 

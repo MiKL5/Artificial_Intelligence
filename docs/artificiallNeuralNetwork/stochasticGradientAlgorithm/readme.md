@@ -1,4 +1,4 @@
-# **L'algorithme du gradient stochastique**
+# **L'algorithme du gradient stochastique**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 La fonction de coût n'est jamais une courbe parfaite (convexe). Dans la pratique, elle peut monter et descendre à plusieurs endroits.  
 L'agent peut tomber sur un minimum local mais pas global (le meilleur).  

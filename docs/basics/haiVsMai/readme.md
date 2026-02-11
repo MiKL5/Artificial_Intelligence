@@ -1,5 +1,4 @@
-# **Intelligence artificielle hybride versus intelligence artificielles multimodale**
-
+# **Intelligence artificielle hybride versus intelligence artificielles multimodale**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 1. L'approche de l'apprentissage  
   L'IA hybride combine des modèles d'apprentissage automatique distincts (souvent profondes), chacun étant formé sur un type de données spécifique (texte, image, etc.).  
   Alors que l'IA multimodale apprend de manière holistique, à partir de différentes sources de données, en exploitant les interactions entre les données.

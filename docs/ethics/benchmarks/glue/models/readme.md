@@ -1,4 +1,4 @@
-# Quels sont les modèles de langages ayant obtenus les meilleurs résultats avec GLUE
+# Quels sont les modèles de langages ayant obtenus les meilleurs résultats avec GLUE<a href="../../../../"><img src="../../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 1. **RoBERTa (Robustly Optimized BERT Approach)**  
 Développé par Facebook AI Research, RoBERTa est une version améliorée du modèle BERT de Google, qui a établi de nouveaux records sur plusieurs tâches de GLUE.  
 RoBERTa a notamment obtenu un score GLUE moyen de 88,5, surpassant les résultats des versions antérieures de BERT.

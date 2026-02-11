@@ -1,4 +1,4 @@
-# **Le neurone**
+# **Le neurone**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 L’intérêt du neurone est l’apprentissage.   
 

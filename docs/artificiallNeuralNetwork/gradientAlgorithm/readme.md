@@ -1,4 +1,4 @@
-# Algorithme du gradient
+# Algorithme du gradient<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 “Ce chapitre détail la mise à jour des poids”
 

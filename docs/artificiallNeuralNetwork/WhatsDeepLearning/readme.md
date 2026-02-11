@@ -1,4 +1,4 @@
-# **C'est quoi le Deep-Learning** _(présentation rapide)_
+# **C'est quoi le Deep-Learning** _(présentation rapide)_<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Les réseaux de neurones et le Deep Learning existaient déjà dans les années 8O. Il y avait déjà une grosse mode sur ces sujets bien qu'on en voit les effets seulement actuellement. Cette mode a, peu à peu disparue lors des années 90, car la technologie de l'époque n'avait pas les performances pour modéliser des réseaux de neurones.   
 

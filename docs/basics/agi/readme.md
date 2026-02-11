@@ -1,4 +1,4 @@
-# **L'intelligence générale artificielle (IA forte)**
+# **L'intelligence générale artificielle (IA forte)**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 L’intelligence générale artificielle (AGI) est la représentation des capacités cognitives humaines généralisées dans un logiciel afin que, face à une tâche peu familière, le système d’IA puisse trouver une solution. Un système AGI pourrait théoriquement effectuer n’importe quelle tâche dont un humain est capable.
 

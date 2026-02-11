@@ -1,4 +1,4 @@
-# **Rétropropagation**
+# **Rétropropagation**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Rappel : ça commence par les variables qui sont propagées de la couche d'entrée à la couche cachée, finalement ressort une prédiction (appelée y chapeau) qui est comparée à la vrai valeur (y), avec une fonction de coût, résulte un coût, une erreur et avec cette info ce fait la propagation arrière (rétropropagation) afin d'ajuster les poids selon un algo du gradient ou un algo du gradient stochastique.  
 

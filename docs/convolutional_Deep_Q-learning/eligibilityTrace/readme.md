@@ -1,5 +1,4 @@
-# **Q learning à N étapes (en anglais `Eligibility Trace`)**
-
+# **Q learning à N étapes (en anglais `Eligibility Trace`)**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Le principe de l’`Eligibility Trace` est que l’agent fait plusieurs étapes d’un coup. 
 Ici, `N` vaut 4, donc c’est après les 4 étapes que l’agent va regarder la récompense totale obtenue. Et ainsi entrainer son réseau de neurones. C’est comme s’il combinait les quatre étapes en une.
 

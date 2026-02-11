@@ -1,5 +1,4 @@
-# **Les biais en machine learning**
-
+# **Les biais en machine learning**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Les biais en machine learning et en deep learning sont en grande partie les mêmes. 
 
 Il existe deux types de biais en machine learning :

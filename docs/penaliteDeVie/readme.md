@@ -1,4 +1,4 @@
-# **Pénalité de vie**
+# **Pénalité de vie**<a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 <br>
 <div align="center">
     <img src="../../assets/images/4doc/BellmanCompleteEquation.png" alt="Équation de Bellman" title="Équation de Bellman">

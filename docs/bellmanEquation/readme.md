@@ -1,5 +1,4 @@
-# **L’équation de Bellman**
-
+# **L’équation de Bellman**<a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## **Le concept** :
 
 * s -> state (l’état de l’environnement) ;  

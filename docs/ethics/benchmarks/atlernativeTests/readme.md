@@ -1,4 +1,4 @@
-# **Quelques alternatives**
+# **Quelques alternatives**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Ces approches complémentaires permettent d’évaluer de manière plus approfondie les facettes de la compréhension dans les systèmes d’IA.
 1. **Les tests de raisonnement et de résolution de problèmes**
     * Le benchmark GLUE (General Language Understanding Evaluation) évalue la capacité des modèles de langage à résoudre une variété de tâches de compréhension du langage naturel. Pour cela il faut concevoir des tâches qui nécessitent une compréhension approfondie du contexte et du sens, comme la résolution d’analogies complexes, comme la classification de textes, la compréhension de textes et la prise de décisions dans des scénarios complexes.  

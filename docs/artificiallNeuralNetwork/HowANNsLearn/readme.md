@@ -1,4 +1,4 @@
-# **Comment apprennent les réseaux de neurones artificiels** step by step
+# **Comment apprennent les réseaux de neurones artificiels** step by step<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Il y a deux manières de pour qu’un programme fasse ce que l’on veut. On peut le coder en lui donnant les instructions à suivre étape par étape. Ou créer un système, ou le programme comprend tout ce qu’il doit faire.  
 

@@ -1,4 +1,4 @@
-# **La philosophie de l’Intelligence Artificielle** <a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **La philosophie de l’Intelligence Artificielle**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Les mots ”_Intelligence Artificielle_” soulève des questions philosophiques :
 - Est-ce qu’un comportement intelligent exige l’existence d’un esprit ?
 - Dans quelle mesure la conscience peut être reproduite par la calcul ?

@@ -1,4 +1,4 @@
-# **Qu’est-ce qu’un LLM ?**<a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Qu’est-ce qu’un LLM ?**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 LLM signifie Large Language Model (en français, grand modèle de langage). Il s’agit d’un type d’intelligence artificielle (IA) capable de traiter et de générer du langage naturel à grande échelle.
 
 ## **Comment ça fonctionne ?**

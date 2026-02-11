@@ -1,6 +1,4 @@
-# **Privacy By Default**
-
-
+# **Privacy By Default**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 La protection de la vie privée par défaut, ou _privacy by default_, est un concept qui met l'accent sur l'intégration des mesures de protection de la vie privée dans la conception des systèmes et des produits dès le départ. Elle préconise de prioriser la protection de la vie privée comme paramètre par défaut, même si les utilisateurs ne s'y engagent pas explicitement. Cette approche vise à éviter que les utilisateurs aient besoin de faire des choix conscients de la vie privée ou de naviguer dans des paramètres complexes pour protéger leurs informations personnelles.
 
 Les principes du _privacy by default_ sont étroitement alignés sur le concept du privacy by design, qui préconise l'intégration des considérations relatives à la vie privée à chaque étape du cycle de vie du produit. Le _privacy by default_ se concentre spécifiquement sur la garantie que les protections de la vie privée sont établies et appliquées par défaut, ce qui rend plus difficile la compromission de la vie privée par inadvertance.

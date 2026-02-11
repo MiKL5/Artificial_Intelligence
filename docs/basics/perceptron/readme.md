@@ -1,5 +1,4 @@
-# **Neurone formel**
-
+# **Neurone formel**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Le [perceptron](https://fr.wikipedia.org/wiki/Perceptron "neurone formel"), encore appelé neurone artificiel ou neurone formel, sert à reproduire le fonctionnement d'un neurone biologique. Il existe différents niveaux d'abstraction, suivant la précision de la modélisation voulue.
 
 Considérons les entités suivantes :  

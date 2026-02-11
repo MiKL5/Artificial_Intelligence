@@ -1,4 +1,4 @@
-# **Les domaines connexes** <a href="../../../"><img src="../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Les domaines connexes**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Plusieurs sujets sont liés étroitement à la discipline de l’intelligence artificielle.
 
 1. _**L’IA Explicative et étique de l’IA**_ pour explorer les implications sociales et éthiques.

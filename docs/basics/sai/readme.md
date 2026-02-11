@@ -1,5 +1,4 @@
-# **Intelligence artificielle symbolique**
-
+# **Intelligence artificielle symbolique**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L'intelligence artificielle symbolique est un courant de l'intelligence artificielle qui <mark>vise à reproduire le raisonnement humain en manipulant des symboles et des règles</mark>. Elle contraste avec l'apprentissage automatique, qui se base sur des données et des algorithmes statistiques pour apprendre.  
 
  Ces symboles sont ensuite manipulés selon des règles définies pour résoudre des problèmes et prendre des décisions.

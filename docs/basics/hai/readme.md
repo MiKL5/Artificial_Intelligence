@@ -1,4 +1,4 @@
-**L’intelligence artificielle hydride**  
+# **L’intelligence artificielle hydride**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Elle est la jonction de l'IA [symbolique](../sai/) et de l'IA [connexionniste](../cai/).  
 

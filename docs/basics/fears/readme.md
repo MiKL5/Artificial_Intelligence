@@ -1,5 +1,4 @@
-# **Les craintes**
-
+# **Les craintes**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 * ### La peur de la singularité technologique  
   La machine apprend d'elle-même, et plus elle apprend, plus il peut nous devenir compliqué de comprendre son apprentissage ainsi que d'en garder la maîtrise. Et donc la peur qu'elle devienne plus forte que l'Homme.
   Bien qu'actuellement les IA soient très performantes, elles sont très spécialisées (médecine, reconnaissance d'image). Aucune AI ne sait agir dans plusieurs domaines.

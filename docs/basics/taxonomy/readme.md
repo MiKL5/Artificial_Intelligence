@@ -1,4 +1,4 @@
-# **La taxonomie de l’IA** <a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **La taxonomie de l’IA**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 C’est un système permettant de classer une très grande quantité d’éléments pouvant être des cas particuliers les uns des autres (ML, Data Science, robotique, etc).
 
 Le [diagramme d’EULER](https://fr.wikipedia.org/wiki/Diagramme_d%27Euler) permet la visualisation pratique. Il est analogue au plus connu [diagramme de VENN](https://fr.wikipedia.org/wiki/Diagramme_de_Venn). Il s’agit de chevauchements de formes symbolisant celui des concepts.

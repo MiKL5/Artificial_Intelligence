@@ -1,4 +1,4 @@
-# **Comment différencier un algorithme simple de celui d’une IA ?** <a href="../../../"><img src="../../../assets/images/atomicAi.png" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Comment différencier un algorithme simple de celui d’une IA ?**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L’algorithme simple et l’algo d’IA est essentiellement dans la complexité, la capacité d’adaptation et la façon de traiter les données.
 
 Algo simple | Algo d’IA

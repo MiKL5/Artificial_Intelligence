@@ -1,4 +1,4 @@
-<h1 align="center"><b>L'intelligence artificielle</b> <a href="../"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
+<h1 align="center"><b>L'intelligence artificielle</b><a href="../"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
 
 <div align="center">
 <h3>« Une intelligence artificielle, c'est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
@@ -11,11 +11,12 @@
 [Domaines connexes](basics/relatedFields)  
 [La philosophie de l'IA](basics/philosophy)  
 [Les dates clés de l'intelligence artificielle](basics/history)  
+[Les hivers de l'IA](basics/winters)  
 [Les vagues de l'IA](basics/waves)  
-[La première vague](basics/waves/wave1)  
-[La seconde vague](basics/waves/wave2)  
-[La troisième vague](basics/waves/wave3)  
-[La quatrième vague](basics/waves/wave4)  
+[La première vague](basics/waves/1)  
+[La seconde vague](basics/waves/2)  
+[La troisième vague](basics/waves/3)  
+[La quatrième vague](basics/waves/4)  
 [Quelques concepts de base](basics/basicConcepts)  
 [Taxonomie de l'IA](basics/taxonomy)  
 

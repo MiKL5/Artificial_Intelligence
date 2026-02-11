@@ -1,4 +1,4 @@
-# **Les métiers de la Data** <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Les métiers de la Data** <a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## **Data officer**
 Est chargé de la stratégie des données.
 ### **Son rôle**

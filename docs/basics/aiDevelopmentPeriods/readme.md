@@ -1,4 +1,4 @@
-# **Les grandes périodes de développement**
+# **Les grandes périodes de développement**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## La programmation manuelle (1960 à 2012)
 Chaque aspect de l’apprentissage de l’IA peut être décrit si précisément qu’une machine peut le simuler.
 ## L’ère de l’apprentissage profond (2012 à maintenant)

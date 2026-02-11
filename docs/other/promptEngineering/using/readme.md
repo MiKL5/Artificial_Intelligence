@@ -1,4 +1,4 @@
-# **Dans quels domaines est utilisé le Prompt Engineering ?** <a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+# **Dans quels domaines est utilisé le Prompt Engineering ?**<a href="../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 Le prompt engineering est utilisé dans plusieurs domaines au-delà de l’intelligence artificielle, et est particulièrement pertinent dans d’autres domaines.
 

@@ -1,5 +1,4 @@
-# **L'informatique quantique**
-
+# **L'informatique quantique**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L'informatique quantique exploite les lois de la mécanique quantique pour résoudre des problèmes trop complexes pour les ordinateurs classiques.  
 À l'inverse des ordinateurs traditionnels, les ordinateurs quantiques exploitent les qubits qui peuvent être en superposition d'états 0 et 1 simultanément, ce qui leur confère une puissance de calcul bien supérieure aux bits classiques.  
 Ce qui permet de résoudre des problèmes plus rapidement et plus efficacement.

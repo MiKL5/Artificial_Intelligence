@@ -1,4 +1,4 @@
-## **Quels sont les principaux défis éthiques à relever lors du déploiement de l’IA dans des domaines sensibles comme la santé ou la justice ?**
+## **Quels sont les principaux défis éthiques à relever lors du déploiement de l’IA dans des domaines sensibles comme la santé ou la justice ?**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 1. **Le respect de la vie privée et confidentialité des données personnelles de santé**  
    L’utilisation de l’IA dans le domaine de la santé soulève des questions cruciales sur la protection des données personnelles sensibles des patients et le consentement éclairé. Il faut s’assurer que les données sont collectées, stockées et utilisées de manière sécurisée et éthique.
 2. **L’équité et la  non-discrimination**  

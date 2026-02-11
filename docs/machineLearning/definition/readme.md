@@ -1,5 +1,4 @@
-# **Définition**
-
+# **Définition**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Il s'agit de l'apprentissage automatique qui est une branche de l'intelligence artificielle qui permet aux machines d'apprendre sans avoir été explicitement programmées. Elles apprennent en analysant des données et en identifiant des modèles. Ces modèles peuvent ensuite être utilisés pour prédire des résultats futurs ou pour prendre des décisions.
 
 Le Machine Learning est utilisé dans une grande variété d'applications, notamment :

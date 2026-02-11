@@ -1,7 +1,5 @@
-# **Deep Q-Learning**
-
+# **Deep Q-Learning**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## **Comment ça marche ?**
-
 Le deep-Learning demande à l’agent de se mettre dans chaque état pour connaître leur valeur et c’est inadapté quand il y a beaucoup de paramètres à considérer.  
 
 À la place, on peut coder les états (par exemple avec 2 dimensions, X1 et X2). Si X1 et X2 = 1 alors l’agent est sur la première case en bas à gauche. Tandis que, si X1 = 1 et X2 = 2 ; l’agent est à la deuxième ligne de la première colonne.  
@@ -20,9 +18,7 @@ Ici, la somme des Q cibles (les vraies valeurs), auquel est soustraite la nouvel
 Pour minimiser la fonction de coût, il y a la retropropagation pour mettre à jour les poids sur les synapses de l’intérieur de l’ANN afin de faire des meilleures prédictions au fur et à mesure.  
 
 ## **Mais comment ce passe la prise de décision ?**
-
 Les résultats `Q` passent dans une fonction `Softmax` pour prendre l’action.  
-
 ___
 > Cf.  
 [Simple Reinforcement Learning with Tensorflow (Part 4)](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df "Apprentissage par renforcement simple avec Tensorflow (Partie 4)") by Arthur JULIANI (2016)

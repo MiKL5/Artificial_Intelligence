@@ -1,5 +1,4 @@
-# **L'IA et le métavers**
-
+# **L'IA et le métavers**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## **C'est quoi le métavers ?**
 Le métavers est un univers virtuel en 3D où les utilisateurs peuvent interagir et explorer en temps réel. Imaginez un monde numérique persistant et immersif, accessible via des technologies comme la réalité virtuelle, la réalité augmentée et les interfaces 3D sur ordinateurs et smartphones.
 

@@ -1,4 +1,4 @@
-# **La super intelligence artificielle** <a href="../../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a></h1>
+# **La super intelligence artificielle**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 La super intelligence artificielle (ASI) est un système logiciel hypothétique d’IA dont l’intelligence dépasse l’intelligence humaine. Le plus fondamentalement, elle possède des fonctions cognitives de pointue et des compétences de réflexion extrêmement, plus développée que celles de n’importe quel être humain.
 
 Bien que fictif, il existe divers processus technologiques qui constituent les éléments constitutifs de l’ASI. Nonobstant, les termes d’intelligence artificielle étroite (ANI), d’IA faible ou de technologies d’IA étroite, sont souvent utilisés pour décrire le niveau actuel de l’IA, ceci illustre le chemin qu’il reste à parcourir avant l’ASI. 
