@@ -1,4 +1,4 @@
-# **Les hivers de l'IA**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
+# **Les vagues de l'IA**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 Une vague de l'IA est un paradigme technologique dominant constitué par :
 * Une architecture computationnelle spécifique (comment la machine "pense") ;
 * Un type de problèmes qu'elle peut résoudre efficacement ;

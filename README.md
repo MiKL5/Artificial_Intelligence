@@ -22,12 +22,12 @@
 
 ## 🔗 Sous domaines</div>
 🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)  
-<!-- 🗣️ Natural Language Processing (NLP) – Traitement du langage naturel   -->
-<!-- 👁️ Computer Vision – Vision par ordinateur   -->
-<!-- 🤝 Multi-Agent Systems – Systèmes multi-agents   -->
-<!-- 🎮 Reinforcement Learning – Apprentissage par renforcement   -->
-<!-- 🧩 Knowledge Representation – Représentation des connaissances   -->
-<!-- 🧠📶 [Artificial Intelligence Of Things (AIOT)](https://github.com/MiKL5/aiot)   -->
+<!-- 🗣️ [Natural Language Processing (NLP) – Traitement du langage naturel]()   -->
+<!-- 👁️ [Computer Vision – Vision par ordinateur]()   -->
+<!-- 🤝 [Multi-Agent Systems – Systèmes multi-agents]()   -->
+<!-- 🎮 [Reinforcement Learning – Apprentissage par renforcement]()   -->
+<!-- 🧩 [Knowledge Representation – Représentation des connaissances]()   -->
+🧠📶 [Artificial Intelligence Of Things (AIOT)](docs/subdomains/aiot)  
 
 <h2 align="center">🔗 Disciplines connexes</h2>
 
