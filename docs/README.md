@@ -1,9 +1,5 @@
 <h1 align="center"><b>L'intelligence artificielle</b><a href="../"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
 
-<div align="center">
-<h3>« Une intelligence artificielle, c'est toute technologie informatique capable d'imiter des processus cognitifs humains afin de résoudre des problèmes complexes, l'apprentissage et la prise de décision, en utilisant des algorithmes et des données pour accomplir des tâches en autonomie.<br>Le but est de concevoir des systèmes informatiques capables d'exécuter des activités nécessitant habituellement l'intelligence humaine. »</h3>
-<h3>L'intelligence artificielle est interdisciplinaire.</h3><br></div>
-
 ## **🧭 Fondations de l'IA**
 
 [Différencier l'algorithme simple de celui d'une intelligence artificielle](basics/aiOrNotAi)  
@@ -115,6 +111,10 @@
 [L'algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
 [L'algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 
+### **🎮 Alogrithmes d'apprentissage par renforcement**
+
+[L'échantillonage de Thompson](algo/reinforcement/thompsonSampling)
+
 ### **🔍 Algorithmes de recherche**
 
 [Les problèmes de recherche et planification](https://github.com/MiKL5/DataScience/tree/master/algo/ResearchAndPlanningProblems)  
@@ -198,9 +198,8 @@ ___
 [Langages et frameworks](basics/languagesAndFrameworks)  
 [Les métiers de la Data](jobs/data)  
 [Les rôles avec la Data](jobs/data/roles)  
-<!-- [Les métiers de l'IA]() -->
-
-<!-- [Thompson sampling]() -->
+[Les métiers de l'IA](jobs/AI)
+[Les métiers transverses](jobs/cross)
 
 <div align="center"><a href="../"><img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="L'intelligence artificielle" height="300px"></a></div>
 
