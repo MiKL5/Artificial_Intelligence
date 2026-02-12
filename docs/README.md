@@ -32,6 +32,10 @@
 [L'intelligence générale artificielle](basics/agi)  
 [La super intelligence artificielle](basics/asi)  
 
+## **⛏️ Data Mining**
+
+[Le data mining](other/dataMining)
+
 ## **🤖 Machine Learning**
 
 [Définition](machineLearning/definition)  
