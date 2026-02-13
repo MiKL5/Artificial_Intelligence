@@ -22,8 +22,6 @@ L'utilisation de modèles de **Transformatrices** (ex: BERT, RoBERTa) et de la t
 * **Topic Modelling :** Catégorisation automatique des motifs d'appel pour détecter des tendances émergentes (ex: un bug sur le site web).
 
 ![aperçu quality monitoring](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR0TKzXDsrTHn9clEVHQdntRzhV0snZ9qx0YHnAWcMBaG58ggFNsFgPUol3X-goxlaCCvcMyCStE-YZynfZmo1Nc2OjAEwtX_v6XqF1wgnFJUtI7Fo)
-
-
 ## Métriques et Indicateurs Clés (KPIs)
 Dans une approche scientifique de la qualité, nous surveillons des métriques précises :
 
@@ -52,5 +50,4 @@ ___
 > 5.  **Nice.** (2024). *AI-Driven Quality Management: From Sampling to Census*. White Paper.  
 > 6.  **Salesforce.** (2023). *State of Service Report*. (Données sur l'adoption de l'IA dans le monitoring).
 ___
-> Nota  
 [^1]: **Stochastique** : Qui relève du hasard, de l'aléatoire. Dans le monitoring traditionnel, on tire au sort 5 appels par mois sur 500, ce qui rend l'échantillon statistiquement fragile.

@@ -72,8 +72,8 @@
 ### **🔁 Réseaux de Neurones Récurrents**
 
 [Définition](rnn)
-<!-- [Les LSTM](rnn/LSTM) -->
-<!-- [Les GRU](rnn/GRU) -->
+[Les LSTM](rnn/LSTM)
+[Les GRU](rnn/GRU)
 
 ### **🔗 Réseaux de neurones séquence à séquence**
 
@@ -222,6 +222,6 @@ ___
 ⚛️ [L'informatique quantique](other/qc)  
 📣 [Le marketing digital](other/md)  
 🖋️ [Le copywriting](other/c)  
-<!-- 📋 [Le Quality monitoring](other/qualityMonitoring)  -->
+📋 [Le Quality monitoring](other/qualityMonitoring) 
 
 <br><div align="center"><a href="../"><img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="L'intelligence artificielle" height="300px"></a></div>
