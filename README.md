@@ -25,7 +25,7 @@
 <!-- 🗣️ [Natural Language Processing (NLP) – Traitement du langage naturel]()   -->
 <!-- 👁️ [Computer Vision – Vision par ordinateur]()   -->
 <!-- 🤝 [Multi-Agent Systems – Systèmes multi-agents]()   -->
-<!-- 🎮 [Reinforcement Learning – Apprentissage par renforcement]()   -->
+🎮 [Reinforcement Learning – Apprentissage par renforcement](docs/reinforcementLearning)  
 <!-- 🧩 [Knowledge Representation – Représentation des connaissances]()   -->
 🧠📶 [Artificial Intelligence Of Things (AIOT)](docs/subdomains/aiot)  
 
