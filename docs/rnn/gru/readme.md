@@ -1,6 +1,6 @@
 # **Les GRU**<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
-Introduit en 2014 par **Cho et al.** (Université de Montréal) dans le contexte de la traduction automatique, le **GRU** (*Gated Recurrent Unit*) se présente comme une variante rationalisée du LSTM. Guidé par un principe de parcimonie architecturale, le GRU fusionne les états cachés et simplifie le mécanisme de portage sans sacrifier la capacité du réseau à capturer les dépendances à long terme. Il est aujourd'hui privilégié dans les environnements où le coût computationnel est une contrainte critique (Edge AI, temps réel).
+Introduit en 2014 par **[Cho et al.](lisa)** (Université de Montréal) dans le contexte de la traduction automatique, le **GRU** (*Gated Recurrent Unit*) se présente comme une variante rationalisée du LSTM. Guidé par un principe de parcimonie architecturale, le GRU fusionne les états cachés et simplifie le mécanisme de portage sans sacrifier la capacité du réseau à capturer les dépendances à long terme. Il est aujourd'hui privilégié dans les environnements où le coût computationnel est une contrainte critique (Edge AI, temps réel).
 ---
 ## Genèse et Philosophie : Le Rasoir d'Ockham
 
