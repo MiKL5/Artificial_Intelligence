@@ -22,7 +22,7 @@
 
 ## 🔗 Sous domaines</div>
 🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)  
-<!-- 🗣️ [Natural Language Processing (NLP) – Traitement du langage naturel]()   -->
+🗣️ [Natural Language Processing (NLP) – Traitement du langage naturel](docs/other/nlp)  
 <!-- 👁️ [Computer Vision – Vision par ordinateur]()   -->
 <!-- 🤝 [Multi-Agent Systems – Systèmes multi-agents]()   -->
 🎮 [Reinforcement Learning – Apprentissage par renforcement](docs/reinforcementLearning)  
