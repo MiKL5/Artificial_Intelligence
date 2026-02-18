@@ -33,7 +33,7 @@
 
 📊 [Business Intelligence](https://github.com/MiKL5/BI)  
 🧠 [Data Science](https://github.com/MiKL5/DS)  
-<!-- 📶 [Internet Of Things (IOT)](https://github.com/MiKL5/iot)   -->
+📶 [Internet Of Things (IOT)](docs/other/iot)  
 <!-- 🤖 [Robotique](https://github.com/MiKL5/robotics)   -->
 
 <!-- 🔍 [En savoir +](docs/basics/relatedFields)   -->

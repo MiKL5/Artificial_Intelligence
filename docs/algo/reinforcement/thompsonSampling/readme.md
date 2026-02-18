@@ -1,4 +1,4 @@
-# **Thompson sampling (échantillonnage de Thompson)**<a href="../"><img src="../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
+# **Thompson sampling (échantillonnage de Thompson)**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 L'échantillonnage de Thompson est une heuristique probabiliste fondamentale résolvant le dilemme "exploration-exploitation" dans le cadre des problèmes de bandits manchots (*Multi-Armed Bandits* - MAB). Bien que proposée dès 1933, elle fut longtemps négligée au profit d'approches fréquentistes comme UCB (*Upper Confidence Bound*). Elle connaît une résurgence majeure depuis les années 2010 grâce à sa performance empirique supérieure et à la démonstration tardive de ses bornes de regret théoriques. Ce document décortique son fondement bayésien, son algorithmique et ses garanties de convergence.
 ---
 ## **Intro ➜ Le Dilemme du Bandit**
