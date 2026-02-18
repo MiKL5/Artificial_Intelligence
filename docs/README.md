@@ -1,4 +1,5 @@
 <h1 align="center"><b>L'intelligence artificielle</b><a href="../"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
+<div align="center"><a href="../"><img src="../assets/images/vhgIpUjIEKb8lk432cqh-kfUys.png"></a></div>
 
 ## **🧭 Fondations de l'IA**
 
