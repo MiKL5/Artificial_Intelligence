@@ -12,6 +12,8 @@ $$(I * K)(i, j) = \sum_{m} \sum_{n} I(i + m, j + n) \cdot K(m, n)$$
 * **Partage des Poids :** Les mêmes coefficients de filtre sont appliqués sur l'ensemble du volume d'entrée, réduisant drastiquement le nombre de paramètres.
 * **Sous-échantillonnage (Pooling) :** Opération de réduction de résolution (ex: *Max-Pooling*) visant à assurer une robustesse face aux micro-déformations spatiales.
 
+<div align="center"><br><hr><br><img src="../../assets/images/4doc/defineCnn.webp"><br><br><hr></div>
+
 >Référence  
 >L'évolution des CNN peut être tracée à travers ces publications fondamentales qui ont redéfini l'état de l'art en vision par ordinateur :
 >1.  **LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998).** *Gradient-based learning applied to document recognition.* Proceedings of the IEEE. 
