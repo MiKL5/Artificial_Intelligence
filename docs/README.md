@@ -43,7 +43,7 @@
 [L'objectif](machineLearning/goal)  
 [Les types d'apprentissages](machineLearning/typesOfLearning)  
 [Les modèles](machineLearning/models)  
-<!-- [Les biais](machineLearning/bias "Les biais") -->
+[Les biais](machineLearning/bias)
 
 ## **🧠 Réseaux de neurones artificiels**
 
