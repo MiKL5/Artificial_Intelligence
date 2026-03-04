@@ -61,8 +61,8 @@
 [L'algorithme du Gradient Stochastique](artificialNeuralNetwork/stochasticGradientAlgorithm)  
 [La rétropropagation](artificialNeuralNetwork/Retropropagation)
 
-<!-- ## **🧠🌀 Réseau de neurones à convolution**
-[Définition](. "Qu'est-ce qu'un réseau de neurones à convolution")  -->
+## **🧠🌀 Réseau de neurones à convolution**
+[Définition](cnn) 
 <!-- [Convolution]()   -->
 <!-- [Couche ReLU]()   -->
 <!-- [Pooling]()   -->
