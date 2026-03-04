@@ -11,6 +11,8 @@
 
 <!-- <a href="docs"><img align="center" src="https://github.com/MiKL5/Python/raw/master/assets/Python-logo-notext.svg" alt="Python" height="20px"> Chatbot basé sur l’IA générative</a> -->
 
+> ### IA neuro-symbolique (hybride)
+> [Linceul audit]() <kbd><i>Work in progress</i></kbd>
 > ### **Le Machine Learning**
 > [Les projets](https://github.com/MiKL5/machineLearning)
 > ### **La Data Science**
