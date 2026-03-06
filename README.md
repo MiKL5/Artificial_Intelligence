@@ -12,9 +12,9 @@
 <!-- <a href="docs"><img align="center" src="https://github.com/MiKL5/Python/raw/master/assets/Python-logo-notext.svg" alt="Python" height="20px"> Chatbot basé sur l’IA générative</a> -->
 
 > ### IA neuro-symbolique (hybride)
-> [Linceul audit]() <kbd><i>Work in progress</i></kbd>
+> [Linceul audit](https://github.com/MiKL5/linceul-audit) <kbd><i>Work in progress</i></kbd>
 > ### **Le Machine Learning**
-> [Les projets](https://github.com/MiKL5/machineLearning)
+> [Les projets](https://github.com/MiKL5/machine-learning-projects/)
 > ### **La Data Science**
 > [Les projets](https://github.com/MiKL5/DataScience/blob/master/Anaconda)
 
@@ -23,7 +23,7 @@
 <!-- ## [**Documentation**](docs) -->
 
 ## 🔗 Sous domaines</div>
-🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)  
+🤖🧠 [Machine Learning](https://github.com/MiKL5/machine-learning-projects/)  
 🗣️ [Natural Language Processing (NLP) – Traitement du langage naturel](docs/other/nlp)  
 <!-- 👁️ [Computer Vision – Vision par ordinateur]()   -->
 <!-- 🤝 [Multi-Agent Systems – Systèmes multi-agents]()   -->
@@ -33,8 +33,8 @@
 
 <h2 align="center">🔗 Disciplines connexes</h2>
 
-📊 [Business Intelligence](https://github.com/MiKL5/BI)  
-🧠 [Data Science](https://github.com/MiKL5/DS)  
+📊 [Business Intelligence](https://github.com/MiKL5/business-intelligence/)  
+🧠 [Data Science](https://github.com/MiKL5/data-science-projects/)  
 📶 [Internet Of Things (IOT)](docs/other/iot)  
 <!-- 🤖 [Robotique](https://github.com/MiKL5/robotics)   -->
 
